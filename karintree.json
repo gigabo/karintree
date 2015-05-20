@@ -1,0 +1,9457 @@
+{
+	"1": {
+		"birt-ll": [
+			42.5292597,
+			-71.3495046
+		],
+		"name": "Karin Lovisa /Borgerson/",
+		"birt-plac": "Carlisle, Middlesex, Massachusetts, USA",
+		"birt-date": "29 May 1976",
+		"sex": "F",
+		"p": [
+			"3",
+			"2"
+		],
+		"id": "1",
+		"birt-epoch": 202201200
+	},
+	"2": {
+		"birt-ll": [
+			43.6478006,
+			-93.3686555
+		],
+		"name": "Kathryn Bonny /Nelson/",
+		"birt-plac": "Albert Lea, Freeborn, Minnesota, USA",
+		"birt-date": "14 mar 1947",
+		"sex": "F",
+		"p": [
+			"19",
+			"18"
+		],
+		"id": "2",
+		"birt-epoch": -719600400
+	},
+	"3": {
+		"birt-ll": [
+			37.7652065,
+			-122.2416355
+		],
+		"name": "Barry Raymond /Borgerson/",
+		"birt-plac": "Alameda, Alameda, California, USA",
+		"birt-date": "13 Aug 1941",
+		"sex": "M",
+		"p": [
+			"8",
+			"7"
+		],
+		"id": "3",
+		"birt-epoch": -895770000
+	},
+	"4": {
+		"birt-ll": [
+			37.7652065,
+			-122.2416355
+		],
+		"name": "Eric Michael /Borgerson/",
+		"birt-plac": "Alameda, California",
+		"birt-date": "29 Nov 1965",
+		"sex": "M",
+		"p": [
+			"3",
+			"6"
+		],
+		"id": "4",
+		"birt-epoch": -129052800
+	},
+	"5": {
+		"birt-ll": [
+			42.2808256,
+			-83.7430378
+		],
+		"name": "Bo Frederick /Borgerson/",
+		"birt-plac": "Ann Arbor, Washtenaw, Michigan, USA",
+		"birt-date": "25 April 1982",
+		"sex": "M",
+		"p": [
+			"3",
+			"2"
+		],
+		"id": "5",
+		"birt-epoch": 388569600
+	},
+	"6": {
+		"p": [],
+		"sex": "F",
+		"birt-date": "1934",
+		"id": "6",
+		"name": "Sybil /Bailey/",
+		"birt-epoch": -1136073600
+	},
+	"7": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"deat-ll": [
+			37.9779776,
+			-122.0310733
+		],
+		"name": "Lorraine /Cook/",
+		"birt-plac": "California",
+		"birt-date": "abt 1920",
+		"sex": "F",
+		"p": [
+			"17",
+			"16"
+		],
+		"deat-plac": "Concord, Contra Costa, California",
+		"id": "7",
+		"deat-date": "28 May 2005",
+		"birt-epoch": -1577894400,
+		"deat-epoch": 1117263600
+	},
+	"8": {
+		"birt-ll": [
+			38.8950923,
+			-77.036555
+		],
+		"deat-ll": [
+			37.7652065,
+			-122.2416355
+		],
+		"name": "Raymond Willard /Johnson/",
+		"birt-plac": "Washington",
+		"birt-date": "12 Oct 1915",
+		"sex": "M",
+		"p": [
+			"10",
+			"9"
+		],
+		"deat-plac": "Alameda, Alameda, California, USA",
+		"id": "8",
+		"deat-date": "1 Nov 1973",
+		"birt-epoch": -1711126800,
+		"deat-epoch": 120988800
+	},
+	"9": {
+		"birt-ll": [
+			45.7466471,
+			-122.5194378
+		],
+		"deat-ll": [
+			37.7084481,
+			-117.2357131
+		],
+		"name": "Alice Claire /McElroy/",
+		"birt-plac": "Clark County, Washington, USA",
+		"birt-date": "25 Sep 1891",
+		"sex": "F",
+		"p": [
+			"99",
+			"98"
+		],
+		"deat-plac": "Goldfield, Esmeralda, Nevada, USA",
+		"id": "9",
+		"deat-date": "9 March 1959",
+		"birt-epoch": -2469891600,
+		"deat-epoch": -341341200
+	},
+	"10": {
+		"birt-ll": [
+			47.12113309999999,
+			-88.5694182
+		],
+		"name": "John Raphael /Johnson/",
+		"birt-plac": "Houghton, Houghton, Michigan, USA",
+		"birt-date": "abt 1880",
+		"sex": "M",
+		"p": [],
+		"id": "10",
+		"deat-date": "before 1926",
+		"birt-epoch": -2840112000,
+		"deat-epoch": -1388505600
+	},
+	"11": {
+		"birt-ll": [
+			37.7652065,
+			-122.2416355
+		],
+		"name": "Bret M /Borgerson/",
+		"birt-plac": "Alameda, California, USA",
+		"birt-date": "5 Dec 1959",
+		"sex": "M",
+		"p": [
+			"8",
+			"7"
+		],
+		"id": "11",
+		"birt-epoch": -317923200
+	},
+	"12": {
+		"birt-ll": [
+			37.7652065,
+			-122.2416355
+		],
+		"name": "Penny C /Cravo/",
+		"birt-plac": "Alameda, California, USA",
+		"birt-date": "19 Jun 1952",
+		"sex": "F",
+		"p": [
+			"8",
+			"7"
+		],
+		"id": "12",
+		"birt-epoch": -553366800
+	},
+	"13": {
+		"birt-ll": [
+			37.7652065,
+			-122.2416355
+		],
+		"name": "Judy G /York/",
+		"birt-plac": "Alameda, California, USA",
+		"birt-date": "19 Feb 1945",
+		"sex": "F",
+		"p": [
+			"8",
+			"7"
+		],
+		"id": "13",
+		"birt-epoch": -784656000
+	},
+	"14": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"name": "Bonita Lorraine /Borgerson/",
+		"birt-plac": "California, USA",
+		"birt-date": "7 mar 1940",
+		"sex": "F",
+		"p": [
+			"8",
+			"7"
+		],
+		"id": "14",
+		"birt-epoch": -941040000
+	},
+	"15": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"name": "Peter /Borgerson/",
+		"birt-plac": "California",
+		"birt-date": "15 Jun 1886",
+		"sex": "M",
+		"p": [
+			"140",
+			"139"
+		],
+		"id": "15",
+		"deat-date": "before 1930",
+		"birt-epoch": -2636470800,
+		"deat-epoch": -1262275200
+	},
+	"16": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"deat-ll": [
+			37.7652065,
+			-122.2416355
+		],
+		"name": "Gertrude /Cook/",
+		"birt-plac": "California",
+		"birt-date": "abt 1897",
+		"sex": "F",
+		"p": [
+			"69",
+			"68"
+		],
+		"deat-plac": "Alameda",
+		"id": "16",
+		"deat-date": "14 Mar 1942",
+		"birt-epoch": -2303568000,
+		"deat-epoch": -877366800
+	},
+	"17": {
+		"birt-ll": [
+			44.0682019,
+			-114.7420408
+		],
+		"deat-ll": [
+			37.7749295,
+			-122.4194155
+		],
+		"name": "Charles Henry /Perrin/",
+		"birt-plac": "Idaho",
+		"birt-date": "abt 1899",
+		"sex": "M",
+		"p": [
+			"77"
+		],
+		"deat-plac": "San Francisco, San Francisco County, California, USA",
+		"id": "17",
+		"deat-date": "29 Jun 1958",
+		"birt-epoch": -2240496000,
+		"deat-epoch": -363200400
+	},
+	"18": {
+		"birt-ll": [
+			41.8780025,
+			-93.097702
+		],
+		"deat-ll": [
+			47.4234599,
+			-120.3103494
+		],
+		"name": "Bonny Sue /Sharp/",
+		"birt-plac": "Iowa",
+		"birt-date": "22 Jul 1923",
+		"sex": "F",
+		"p": [
+			"23",
+			"22"
+		],
+		"deat-plac": "Wenatchee, Chelan, Washington, USA",
+		"id": "18",
+		"deat-date": "16 Sep 2007",
+		"birt-epoch": -1465750800,
+		"deat-epoch": 1189926000
+	},
+	"19": {
+		"birt-ll": [
+			45.6977455,
+			-93.8180289
+		],
+		"name": "George Burton /Nelson/",
+		"birt-plac": "Oak Park, Minnesota",
+		"birt-date": "6 Jan 1923",
+		"sex": "M",
+		"p": [
+			"25",
+			"24"
+		],
+		"id": "19",
+		"birt-epoch": -1482768000
+	},
+	"20": {
+		"p": [
+			"19",
+			"18"
+		],
+		"birt-date": "1952",
+		"id": "20",
+		"name": "Robert Charles /Nelson/",
+		"sex": "M",
+		"birt-epoch": -568080000
+	},
+	"21": {
+		"p": [
+			"19",
+			"18"
+		],
+		"sex": "M",
+		"birt-date": "1949",
+		"id": "21",
+		"name": "Thomas George /Nelson/",
+		"birt-epoch": -662688000
+	},
+	"22": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"deat-ll": [
+			43.4441245,
+			-93.22103709999999
+		],
+		"name": "Mattie /Bittick/",
+		"birt-plac": "Missouri",
+		"birt-date": "22 Nov 1895",
+		"sex": "F",
+		"p": [
+			"33",
+			"32"
+		],
+		"deat-plac": "Northwood, Worth, Iowa, USA",
+		"id": "22",
+		"deat-date": "Oct 1985",
+		"birt-epoch": -2338646400,
+		"deat-epoch": 496998000
+	},
+	"23": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "C Arthur /Sharp/",
+		"birt-plac": "Missouri",
+		"birt-date": "Dec 1891",
+		"sex": "M",
+		"p": [
+			"37",
+			"36"
+		],
+		"id": "23",
+		"birt-epoch": -2464099200
+	},
+	"24": {
+		"birt-ll": [
+			59.702345,
+			14.1642208
+		],
+		"deat-ll": [
+			43.1535728,
+			-93.20103669999999
+		],
+		"name": "Augusta Elisabet",
+		"birt-plac": "Färnebo, Värmland, Sweden",
+		"birt-date": "30 Dec 1882",
+		"sex": "F",
+		"p": [
+			"111",
+			"112"
+		],
+		"deat-plac": "Mason City, Cerro Gordo, Iowa, USA",
+		"id": "24",
+		"deat-date": "19 oct 1973",
+		"birt-epoch": -2745590400,
+		"deat-epoch": 119862000
+	},
+	"25": {
+		"birt-ll": [
+			41.8780025,
+			-93.097702
+		],
+		"deat-ll": [
+			43.1535728,
+			-93.20103669999999
+		],
+		"name": "Joseph Frederick /Nelson/",
+		"birt-plac": "Iowa",
+		"birt-date": "abt 1888",
+		"sex": "M",
+		"p": [
+			"110",
+			"109"
+		],
+		"deat-plac": "Mason City, Cerro Gordo, Iowa, USA",
+		"id": "25",
+		"deat-date": "22 Sep 1972",
+		"birt-epoch": -2587651200,
+		"deat-epoch": 85993200
+	},
+	"26": {
+		"p": [
+			"21",
+			"28"
+		],
+		"birt-date": "2 October 1985",
+		"id": "26",
+		"name": "Kristen Elizabeth /Nelson/",
+		"sex": "F",
+		"birt-epoch": 497084400
+	},
+	"27": {
+		"p": [
+			"21",
+			"28"
+		],
+		"sex": "M",
+		"id": "27",
+		"name": "Joseph Charles /Nelson/"
+	},
+	"28": {
+		"p": [],
+		"sex": "F",
+		"id": "28",
+		"name": "Beverlee Joan /Trindl/"
+	},
+	"29": {
+		"birt-ll": [
+			47.4234599,
+			-120.3103494
+		],
+		"name": "Katherine Anne /Nelson/",
+		"birt-plac": "Wenatchee, Chelan, Washington, USA",
+		"birt-date": "17 feb 1988",
+		"sex": "F",
+		"p": [
+			"20",
+			"31"
+		],
+		"id": "29",
+		"birt-epoch": 572083200
+	},
+	"30": {
+		"birt-ll": [
+			47.4234599,
+			-120.3103494
+		],
+		"name": "Eric Joseph /Nelson/",
+		"birt-plac": "Wenatchee, Chelan, Washington, USA",
+		"birt-date": "4 October 1985",
+		"sex": "M",
+		"p": [
+			"20",
+			"31"
+		],
+		"id": "30",
+		"birt-epoch": 497257200
+	},
+	"31": {
+		"birt-ll": [
+			43.3535696,
+			-93.2104815
+		],
+		"name": "LuAnne /Erickson/",
+		"birt-plac": "Kensett, Worth, Iowa, USA",
+		"sex": "F",
+		"p": [],
+		"id": "31"
+	},
+	"32": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"deat-ll": [
+			46.73238749999999,
+			-117.0001651
+		],
+		"name": "Inez J /Bittick/",
+		"birt-plac": "Missouri, USA",
+		"birt-date": "24 Apr 1873",
+		"sex": "F",
+		"p": [
+			"42",
+			"41"
+		],
+		"deat-plac": "Moscow, Latah, Idaho, USA",
+		"id": "32",
+		"deat-date": "4 December 1940",
+		"birt-epoch": -3051190800,
+		"deat-epoch": -917539200
+	},
+	"33": {
+		"birt-ll": [
+			39.0669568,
+			-90.9820668
+		],
+		"deat-ll": [
+			46.7368359,
+			-116.7696025
+		],
+		"name": "James L /Bittick/",
+		"birt-plac": "Lincoln County, Missouri, USA",
+		"birt-date": "29 November 1859",
+		"sex": "M",
+		"p": [
+			"48",
+			"47"
+		],
+		"deat-plac": "Troy, Latah County, Idaho, USA",
+		"id": "33",
+		"deat-date": "22 March 1950",
+		"birt-epoch": -3474115200,
+		"deat-epoch": -624214800
+	},
+	"34": {
+		"birt-ll": [
+			41.8780025,
+			-93.097702
+		],
+		"name": "Dorothy L /Sharp/",
+		"birt-plac": "Iowa",
+		"birt-date": "abt 1921",
+		"sex": "F",
+		"p": [
+			"23",
+			"22"
+		],
+		"id": "34",
+		"birt-epoch": -1546272000
+	},
+	"35": {
+		"birt-ll": [
+			41.8780025,
+			-93.097702
+		],
+		"name": "Joann /Sharp/",
+		"birt-plac": "Iowa",
+		"birt-date": "abt 1933",
+		"sex": "F",
+		"p": [
+			"23",
+			"22"
+		],
+		"id": "35",
+		"birt-epoch": -1167580800
+	},
+	"36": {
+		"birt-ll": [
+			40.6331249,
+			-89.3985283
+		],
+		"name": "Cinda /Sharp/",
+		"birt-plac": "Illinois",
+		"birt-date": "Sep 1865",
+		"sex": "F",
+		"p": [
+			"50",
+			"49"
+		],
+		"id": "36",
+		"deat-date": "08 Aug 1927",
+		"birt-epoch": -3292419600,
+		"deat-epoch": -1338051600
+	},
+	"37": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "William Wesley /Sharp/",
+		"birt-plac": "Missouri",
+		"birt-date": "Jan 1863",
+		"sex": "M",
+		"p": [
+			"55",
+			"54"
+		],
+		"id": "37",
+		"deat-date": "1938",
+		"birt-epoch": -3376569600,
+		"deat-epoch": -1009843200
+	},
+	"38": {
+		"birt-ll": [
+			47.6062095,
+			-122.3320708
+		],
+		"name": "Avery Shao /Borgerson/",
+		"birt-plac": "Seattle, King, Washington, USA",
+		"birt-date": "24 jan 2013",
+		"sex": "M",
+		"p": [
+			"5",
+			"39"
+		],
+		"id": "38",
+		"birt-epoch": 1359014400
+	},
+	"39": {
+		"birt-ll": [
+			35.86166,
+			104.195397
+		],
+		"name": "Nan /Shao/",
+		"birt-plac": "China",
+		"birt-date": "29 August 1982",
+		"sex": "F",
+		"p": [],
+		"id": "39",
+		"birt-epoch": 399452400
+	},
+	"40": {
+		"p": [
+			null,
+			"35"
+		],
+		"id": "40",
+		"name": "Cinda Jane",
+		"sex": "F"
+	},
+	"41": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"deat-ll": [
+			39.5582351,
+			-91.5983959
+		],
+		"name": "Ann Eliza /Hubbard/",
+		"birt-plac": "Missouri, USA",
+		"birt-date": "abt 1841",
+		"sex": "F",
+		"p": [
+			"181",
+			"180"
+		],
+		"deat-plac": "Ralls, Missouri, USA",
+		"id": "41",
+		"deat-date": "20 February 1878",
+		"birt-epoch": -4070793600,
+		"deat-epoch": -2898864000
+	},
+	"42": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"deat-ll": [
+			39.5582351,
+			-91.5983959
+		],
+		"name": "Edwin /Hubbard/",
+		"birt-plac": "Missouri, USA",
+		"birt-date": "15 March 1837",
+		"sex": "M",
+		"p": [
+			null,
+			"172"
+		],
+		"deat-plac": "Ralls, Missouri, USA",
+		"id": "42",
+		"deat-date": "2 February 1905",
+		"birt-epoch": -4190720400,
+		"deat-epoch": -2048428800
+	},
+	"43": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"deat-ll": [
+			47.6587802,
+			-117.4260466
+		],
+		"name": "William Chilton /Bittick/",
+		"birt-plac": "Missouri",
+		"birt-date": "abt 1910",
+		"sex": "M",
+		"p": [
+			"33",
+			"32"
+		],
+		"deat-plac": "Spokane, Spokane County, Washington, USA",
+		"id": "43",
+		"deat-date": "17 March 1970",
+		"birt-epoch": -1893427200,
+		"deat-epoch": 6508800
+	},
+	"44": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Bernice B /Bittick/",
+		"birt-plac": "Missouri",
+		"birt-date": "abt 1911",
+		"sex": "F",
+		"p": [
+			null,
+			"32"
+		],
+		"id": "44",
+		"birt-epoch": -1861891200
+	},
+	"45": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Nannie D /Bittick/",
+		"birt-plac": "Missouri",
+		"birt-date": "abt 1903",
+		"sex": "F",
+		"p": [
+			"33",
+			"32"
+		],
+		"id": "45",
+		"birt-epoch": -2114352000
+	},
+	"46": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Ray H /Bittick/",
+		"birt-plac": "Missouri",
+		"birt-date": "May 1897",
+		"sex": "M",
+		"p": [
+			"33",
+			"32"
+		],
+		"id": "46",
+		"birt-epoch": -2293203600
+	},
+	"47": {
+		"birt-ll": [
+			52.3555177,
+			-1.1743197
+		],
+		"name": "Jane /Stephens/",
+		"birt-plac": "England",
+		"birt-date": "abt 1828",
+		"sex": "F",
+		"p": [
+			"143"
+		],
+		"id": "47",
+		"deat-date": "17 April 1914",
+		"birt-epoch": -4481107200,
+		"deat-epoch": -1758042000
+	},
+	"48": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"deat-ll": [
+			38.3908555,
+			-93.3346497
+		],
+		"name": "William R. /Bittick/",
+		"birt-plac": "Missouri",
+		"birt-date": "abt 1831",
+		"sex": "M",
+		"p": [
+			"142",
+			"141"
+		],
+		"deat-plac": "Lincoln, Missouri, United States",
+		"id": "48",
+		"deat-date": "1870",
+		"birt-epoch": -4386412800,
+		"deat-epoch": -3155673600
+	},
+	"49": {
+		"birt-ll": [
+			38.2081045,
+			-91.16042069999999
+		],
+		"deat-ll": [
+			39.36892890000001,
+			-91.8190537
+		],
+		"name": "Eadie J /Williams/",
+		"birt-plac": "Sullivan, Missouri, USA",
+		"birt-date": "1 Jun 1846",
+		"sex": "F",
+		"p": [
+			"293",
+			"292"
+		],
+		"deat-plac": "Santa Fe, Monroe, Missouri, USA",
+		"id": "49",
+		"deat-date": "8 Oct 1881",
+		"birt-epoch": -3899984400,
+		"deat-epoch": -2784301200
+	},
+	"50": {
+		"birt-ll": [
+			40.5512165,
+			-85.6023643
+		],
+		"deat-ll": [
+			34.9181307,
+			-97.31447089999999
+		],
+		"name": "William /Lomasters/",
+		"birt-plac": "Indiana",
+		"birt-date": "1 Sept 1833",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Wayne, McClain, Oklahoma, USA",
+		"id": "50",
+		"deat-date": "22 Apr 1910",
+		"birt-epoch": -4302262800,
+		"deat-epoch": -1883840400
+	},
+	"51": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Gertrude M /Sharp/",
+		"birt-plac": "Missouri",
+		"birt-date": "May 1890",
+		"sex": "F",
+		"p": [
+			"37",
+			"36"
+		],
+		"id": "51",
+		"deat-date": "1945",
+		"birt-epoch": -2514128400,
+		"deat-epoch": -788918400
+	},
+	"52": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Ada /Sharp/",
+		"birt-plac": "Missouri",
+		"birt-date": "Sep 1899",
+		"sex": "F",
+		"p": [
+			"37",
+			"36"
+		],
+		"id": "52",
+		"birt-epoch": -2219504400
+	},
+	"53": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"deat-ll": [
+			39.4808721,
+			-92.0012811
+		],
+		"name": "Etta Irene /Sharp/",
+		"birt-plac": "Missouri",
+		"birt-date": "Aug 1895",
+		"sex": "F",
+		"p": [
+			"37",
+			"36"
+		],
+		"deat-plac": "Paris, Monroe, Missouri, USA",
+		"id": "53",
+		"deat-date": "14 Aug 1979",
+		"birt-epoch": -2348413200,
+		"deat-epoch": 303462000
+	},
+	"54": {
+		"birt-ll": [
+			37.8393332,
+			-84.2700179
+		],
+		"name": "Clementine /Sharp/",
+		"birt-plac": "Kentucky",
+		"birt-date": "abt 1831",
+		"sex": "F",
+		"p": [],
+		"id": "54",
+		"birt-epoch": -4386412800
+	},
+	"55": {
+		"birt-ll": [
+			37.8393332,
+			-84.2700179
+		],
+		"name": "Wm. J. /Sharp/",
+		"birt-plac": "Kentucky",
+		"birt-date": "Jun 1827",
+		"sex": "M",
+		"p": [],
+		"id": "55",
+		"deat-date": "April 1909",
+		"birt-epoch": -4499600400,
+		"deat-epoch": -1917190800
+	},
+	"56": {
+		"birt-ll": [
+			37.4315734,
+			-78.6568942
+		],
+		"name": "Rebecca /Green/",
+		"birt-plac": "Virginia",
+		"birt-date": "abt 1830",
+		"sex": "F",
+		"p": [],
+		"id": "56",
+		"birt-epoch": -4417948800
+	},
+	"57": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Ira S /Smith/",
+		"birt-plac": "Missouri",
+		"birt-date": "abt 1896",
+		"sex": "M",
+		"p": [],
+		"id": "57",
+		"birt-epoch": -2335190400
+	},
+	"58": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Ruth A /Smith/",
+		"birt-plac": "Missouri",
+		"birt-date": "abt 1929",
+		"sex": "F",
+		"p": [
+			"57",
+			"53"
+		],
+		"id": "58",
+		"birt-epoch": -1293811200
+	},
+	"59": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Amy L /Smith/",
+		"birt-plac": "Missouri",
+		"birt-date": "abt 1918",
+		"sex": "F",
+		"p": [
+			"57",
+			"53"
+		],
+		"id": "59",
+		"birt-epoch": -1640966400
+	},
+	"60": {
+		"birt-ll": [
+			40.5512165,
+			-85.6023643
+		],
+		"name": "Sarah /Yaua/",
+		"birt-plac": "Indiana",
+		"birt-date": "abt 1856",
+		"sex": "F",
+		"p": [
+			"55",
+			"54"
+		],
+		"id": "60",
+		"birt-epoch": -3597494400
+	},
+	"61": {
+		"birt-ll": [
+			40.5512165,
+			-85.6023643
+		],
+		"name": "Frank /Sharp/",
+		"birt-plac": "Indiana",
+		"birt-date": "abt 1869",
+		"sex": "M",
+		"p": [
+			"55",
+			"54"
+		],
+		"id": "61",
+		"birt-epoch": -3187180800
+	},
+	"62": {
+		"birt-ll": [
+			40.5512165,
+			-85.6023643
+		],
+		"name": "J. Neuton /Sharp/",
+		"birt-plac": "Indiana",
+		"birt-date": "Jul 1857",
+		"sex": "M",
+		"p": [
+			"55",
+			"54"
+		],
+		"id": "62",
+		"birt-epoch": -3550237200
+	},
+	"63": {
+		"birt-ll": [
+			40.5512165,
+			-85.6023643
+		],
+		"name": "Josephine /Sharp/",
+		"birt-plac": "Indiana",
+		"birt-date": "abt 1864",
+		"sex": "F",
+		"p": [
+			"55",
+			"54"
+		],
+		"id": "63",
+		"birt-epoch": -3345033600
+	},
+	"64": {
+		"p": [],
+		"id": "64",
+		"name": "Wm J /Sharp/"
+	},
+	"65": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "George /Sharp/",
+		"birt-plac": "Missouri",
+		"birt-date": "abt 1870",
+		"sex": "M",
+		"p": [
+			"55",
+			"56"
+		],
+		"id": "65",
+		"birt-epoch": -3155644800
+	},
+	"66": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Jacob /Sharp/",
+		"birt-plac": "Missouri",
+		"birt-date": "abt 1865",
+		"sex": "M",
+		"p": [
+			"55",
+			"56"
+		],
+		"id": "66",
+		"birt-epoch": -3313411200
+	},
+	"67": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Charles /Sharp/",
+		"birt-plac": "Missouri",
+		"birt-date": "abt 1867",
+		"sex": "M",
+		"p": [
+			"55",
+			"56"
+		],
+		"id": "67",
+		"birt-epoch": -3250339200
+	},
+	"68": {
+		"birt-ll": [
+			28.2915637,
+			-16.6291304
+		],
+		"deat-ll": [
+			37.8043637,
+			-122.2711137
+		],
+		"name": "Julia /Hernandez/",
+		"birt-plac": "Canary Islands",
+		"birt-date": "12 Jul 1866",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Oakland, Alameda, CA",
+		"id": "68",
+		"deat-date": "9 Mar 1900",
+		"birt-epoch": -3265290000,
+		"deat-epoch": -2203171200
+	},
+	"69": {
+		"birt-ll": [
+			24.5550593,
+			-81.7799871
+		],
+		"deat-ll": [
+			37.7749073,
+			-122.4193878
+		],
+		"name": "Joseph /Melian/",
+		"birt-plac": "Key West, Monroe, FL",
+		"birt-date": "17 Mar 1859",
+		"sex": "M",
+		"p": [
+			"85"
+		],
+		"deat-plac": "San Francisco, San Francisco, CA",
+		"id": "69",
+		"deat-date": "15 Jun 1915",
+		"birt-epoch": -3496323600,
+		"deat-epoch": -1721408400
+	},
+	"70": {
+		"birt-ll": [
+			46.2067997,
+			-119.7689222
+		],
+		"deat-ll": [
+			37.5071591,
+			-122.2605222
+		],
+		"name": "Robert A /Wallace/",
+		"birt-plac": "Prosser, Washington",
+		"birt-date": "21 Aug 1922",
+		"sex": "M",
+		"p": [
+			null,
+			"16"
+		],
+		"deat-plac": "San Carlos, San Mateo, California, United States of America",
+		"id": "70",
+		"deat-date": "23 Sep 1985",
+		"birt-epoch": -1494694800,
+		"deat-epoch": 496306800
+	},
+	"71": {
+		"birt-ll": [
+			37.7749295,
+			-122.4194155
+		],
+		"deat-ll": [
+			37.7749295,
+			-122.4194155
+		],
+		"name": "John E. /Wallace/",
+		"birt-plac": "San Francisco, San Francisco County, California, USA",
+		"birt-date": "31 May 1924",
+		"sex": "M",
+		"p": [
+			null,
+			"16"
+		],
+		"deat-plac": "San Francisco, San Francisco County, California, USA",
+		"id": "71",
+		"deat-date": "16 Nov 1982",
+		"birt-epoch": -1438621200,
+		"deat-epoch": 406281600
+	},
+	"72": {
+		"birt-ll": [
+			47.4740945,
+			-115.9279387
+		],
+		"deat-ll": [
+			37.9577016,
+			-121.2907796
+		],
+		"name": "Bill /Cook/",
+		"birt-plac": "Wallace, Shoshone, Idaho, United States",
+		"birt-date": "2 September 1916",
+		"sex": "M",
+		"p": [
+			"17",
+			"16"
+		],
+		"deat-plac": "Stockton, San Joaquin, California, USA",
+		"id": "72",
+		"deat-date": "17 Jan 1986",
+		"birt-epoch": -1682960400,
+		"deat-epoch": 506332800
+	},
+	"73": {
+		"birt-ll": [
+			52.132633,
+			5.291266
+		],
+		"name": "Jacob /Boterenbrood/",
+		"birt-plac": "Holland",
+		"birt-date": "abt 1899",
+		"sex": "M",
+		"p": [],
+		"id": "73",
+		"birt-epoch": -2240496000
+	},
+	"74": {
+		"p": [],
+		"birt-date": "about 1870",
+		"sex": "F",
+		"id": "74",
+		"name": "Olive /Perrin/",
+		"birt-epoch": -3155644800
+	},
+	"75": {
+		"p": [],
+		"birt-date": "abt 1880",
+		"sex": "F",
+		"id": "75",
+		"name": "Mattie /Bittner/",
+		"birt-epoch": -2840112000
+	},
+	"76": {
+		"birt-ll": [
+			41.0283603,
+			-91.5983959
+		],
+		"deat-ll": [
+			47.6587802,
+			-117.4260466
+		],
+		"name": "Perrin /Cook/",
+		"birt-plac": "Henry Iowa",
+		"birt-date": "12 Dec 1878",
+		"sex": "M",
+		"p": [
+			"389",
+			"388"
+		],
+		"deat-plac": "Spokane, Spokane, Washington",
+		"id": "76",
+		"deat-date": "25 Nov 1921",
+		"birt-epoch": -2873376000,
+		"deat-epoch": -1517932800
+	},
+	"77": {
+		"p": [],
+		"id": "77",
+		"name": "/Perrin/",
+		"sex": "M"
+	},
+	"78": {
+		"birt-ll": [
+			37.7749073,
+			-122.4193878
+		],
+		"deat-ll": [
+			39.1346666,
+			-121.1710389
+		],
+		"name": "Corraine Dolores /Cook/",
+		"birt-plac": "San Francisco County, California, USA",
+		"birt-date": "08 Jun 1922",
+		"sex": "F",
+		"p": [
+			"17",
+			"79"
+		],
+		"deat-plac": "Nevada County, California, USA",
+		"id": "78",
+		"deat-date": "12 Sep 1993",
+		"birt-epoch": -1501088400,
+		"deat-epoch": 747817200
+	},
+	"79": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"name": "Edith Rose /Scharetz/",
+		"birt-plac": "California",
+		"birt-date": "abt 1897",
+		"sex": "F",
+		"p": [
+			null,
+			"104"
+		],
+		"id": "79",
+		"birt-epoch": -2303568000
+	},
+	"80": {
+		"p": [
+			"72",
+			"81"
+		],
+		"birt-date": "abt 1943",
+		"sex": "M",
+		"id": "80",
+		"name": "Jim /Cook/",
+		"birt-epoch": -852048000
+	},
+	"81": {
+		"birt-ll": [
+			36.6342288,
+			-85.3927424
+		],
+		"deat-ll": [
+			37.9577016,
+			-121.2907796
+		],
+		"name": "Stella Florence /Cook/",
+		"birt-plac": "Peytonsburg, Cumberland, Kentucky, United States",
+		"birt-date": "28 November 1922",
+		"sex": "F",
+		"p": [
+			"266",
+			"265"
+		],
+		"deat-plac": "Stockton, San Joaquin, California, United States",
+		"id": "81",
+		"deat-date": "22 October 2010",
+		"birt-epoch": -1486137600,
+		"deat-epoch": 1287730800
+	},
+	"82": {
+		"p": [
+			"72",
+			"81"
+		],
+		"birt-date": "abt 1946",
+		"sex": "M",
+		"id": "82",
+		"name": "Bill A /Cook/",
+		"birt-epoch": -757353600
+	},
+	"83": {
+		"p": [
+			"72"
+		],
+		"id": "83",
+		"name": "Gary /Cook/",
+		"sex": "M"
+	},
+	"84": {
+		"p": [
+			"72"
+		],
+		"sex": "M",
+		"id": "84",
+		"name": "Monte /Cook/"
+	},
+	"85": {
+		"p": [],
+		"id": "85",
+		"name": "Unkown /Milian/",
+		"sex": "M"
+	},
+	"86": {
+		"birt-ll": [
+			37.7749295,
+			-122.4194155
+		],
+		"deat-ll": [
+			38.083403,
+			-122.7633036
+		],
+		"name": "Frank Hernandez /Milian/",
+		"birt-plac": "San Francisco, California, USA",
+		"birt-date": "31 March 1888",
+		"sex": "M",
+		"p": [
+			"69",
+			"68"
+		],
+		"deat-plac": "Marin County, California, USA",
+		"id": "86",
+		"deat-date": "11 Mar 1961",
+		"birt-epoch": -2579878800,
+		"deat-epoch": -278006400
+	},
+	"87": {
+		"birt-ll": [
+			37.7749295,
+			-122.4194155
+		],
+		"deat-ll": [
+			36.6777372,
+			-121.6555013
+		],
+		"name": "Ethel L /Havens/",
+		"birt-plac": "San Francisco, San Francisco, California, USA",
+		"birt-date": "28 Aug 1897",
+		"sex": "F",
+		"p": [
+			"69",
+			"68"
+		],
+		"deat-plac": "Salinas, Monterey County, California, USA",
+		"id": "87",
+		"deat-date": "31 Jan 1987",
+		"birt-epoch": -2282922000,
+		"deat-epoch": 539078400
+	},
+	"88": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"name": "Julia /Milian/",
+		"birt-plac": "California",
+		"birt-date": "Mar 1891",
+		"sex": "F",
+		"p": [
+			"69",
+			"68"
+		],
+		"id": "88",
+		"birt-epoch": -2487859200
+	},
+	"89": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"name": "Delia /Milian/",
+		"birt-plac": "California",
+		"birt-date": "abt 1898",
+		"sex": "F",
+		"p": [],
+		"id": "89",
+		"birt-epoch": -2272032000
+	},
+	"90": {
+		"birt-ll": [
+			37.7749295,
+			-122.4194155
+		],
+		"name": "Gertrude J /Milian/",
+		"birt-plac": "San Francisco, California",
+		"birt-date": "5 Jul 1917",
+		"sex": "F",
+		"p": [
+			"86",
+			"89"
+		],
+		"id": "90",
+		"deat-date": "11/05/2004",
+		"birt-epoch": -1656522000,
+		"deat-epoch": 1099641600
+	},
+	"91": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"name": "Ethel /Milian/",
+		"birt-plac": "California",
+		"birt-date": "abt 1915",
+		"sex": "F",
+		"p": [
+			"86",
+			"89"
+		],
+		"id": "91",
+		"birt-epoch": -1735660800
+	},
+	"92": {
+		"birt-ll": [
+			52.3555177,
+			-1.1743197
+		],
+		"name": "Robert Alexander /Tayler/",
+		"birt-plac": "England",
+		"birt-date": "abt 1890",
+		"sex": "M",
+		"p": [],
+		"id": "92",
+		"deat-date": "1952",
+		"birt-epoch": -2524492800,
+		"deat-epoch": -568080000
+	},
+	"93": {
+		"birt-ll": [
+			37.7749295,
+			-122.4194155
+		],
+		"deat-ll": [
+			38.8338816,
+			-104.8213634
+		],
+		"name": "Edward Randolph /Havens/",
+		"birt-plac": "San Francisco City, San Francisco, California",
+		"birt-date": "19 Aug 1936",
+		"sex": "M",
+		"p": [
+			"97",
+			"87"
+		],
+		"deat-plac": "Colorado Springs, El Paso, Colorado, USA",
+		"id": "93",
+		"deat-date": "22 Aug 2013",
+		"birt-epoch": -1053018000,
+		"deat-epoch": 1377154800
+	},
+	"94": {
+		"birt-ll": [
+			37.7652065,
+			-122.2416355
+		],
+		"name": "Patricia /Havens/",
+		"birt-plac": "Alameda, California",
+		"birt-date": "24 Jan 1926",
+		"sex": "F",
+		"p": [
+			"92",
+			"87"
+		],
+		"id": "94",
+		"birt-epoch": -1386518400
+	},
+	"95": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"deat-ll": [
+			36.8455108,
+			-121.5379974
+		],
+		"name": "Lorna Julia /Tayler/",
+		"birt-plac": "California",
+		"birt-date": "abt 1918",
+		"sex": "F",
+		"p": [
+			"92",
+			"87"
+		],
+		"deat-plac": "San Juan Bautista, San Benito, California, USA",
+		"id": "95",
+		"deat-date": "15 Jul 1995",
+		"birt-epoch": -1640966400,
+		"deat-epoch": 805791600
+	},
+	"96": {
+		"p": [],
+		"birt-date": "abt 1917",
+		"sex": "M",
+		"id": "96",
+		"name": "Manuel G /Azevedo/",
+		"birt-epoch": -1672502400
+	},
+	"97": {
+		"birt-ll": [
+			31.2448234,
+			-92.1450245
+		],
+		"name": "Edward B /Havens/",
+		"birt-plac": "Louisiana",
+		"birt-date": "abt 1903",
+		"sex": "M",
+		"p": [
+			"259",
+			"258"
+		],
+		"id": "97",
+		"birt-epoch": -2114352000
+	},
+	"98": {
+		"birt-ll": [
+			44.540121,
+			-123.3676014
+		],
+		"deat-ll": [
+			37.4582645,
+			-117.4981383
+		],
+		"name": "Martha Bennett /McElroy/",
+		"birt-plac": "Philomath, Benton, Oregon, USA",
+		"birt-date": "30 May 1869",
+		"sex": "F",
+		"p": [
+			"125",
+			"126"
+		],
+		"deat-plac": "Lida, Esmeralda, Nevada, USA",
+		"id": "98",
+		"deat-date": "28 February 1952",
+		"birt-epoch": -3174310800,
+		"deat-epoch": -563040000
+	},
+	"99": {
+		"birt-ll": [
+			40.94781580000001,
+			-90.3712395
+		],
+		"deat-ll": [
+			44.9428975,
+			-123.0350963
+		],
+		"name": "George H /McElroy/",
+		"birt-plac": "Galesburg, Knox, Illinois, USA",
+		"birt-date": "Jul 1867",
+		"sex": "M",
+		"p": [
+			"121",
+			"120"
+		],
+		"deat-plac": "Salem, Marion County, Oregon, USA",
+		"id": "99",
+		"deat-date": "19 December 1932",
+		"birt-epoch": -3234704400,
+		"deat-epoch": -1168704000
+	},
+	"100": {
+		"birt-ll": [
+			38.8950923,
+			-77.036555
+		],
+		"deat-ll": [
+			37.75493090000001,
+			-117.6348148
+		],
+		"name": "Ralph J /Borgerson/",
+		"birt-plac": "Washington",
+		"birt-date": "1916",
+		"sex": "M",
+		"p": [
+			"10",
+			"9"
+		],
+		"deat-plac": "Silverpeak, Esmeralda, Nevada, USA",
+		"id": "100",
+		"deat-date": "11/25/1966",
+		"birt-epoch": -1704153600,
+		"deat-epoch": -97862400
+	},
+	"101": {
+		"p": [
+			"100",
+			"103"
+		],
+		"birt-date": "after 1944",
+		"id": "101",
+		"name": "Dennis Blake /Borgerson/",
+		"sex": "M",
+		"birt-epoch": -820512000
+	},
+	"102": {
+		"p": [
+			"100",
+			"103"
+		],
+		"birt-date": "16 Jan 1944",
+		"sex": "F",
+		"id": "102",
+		"name": "Johnnie Rae /Berg/",
+		"birt-epoch": -819216000
+	},
+	"103": {
+		"birt-ll": [
+			34.4650374,
+			-110.0912265
+		],
+		"deat-ll": [
+			38.5246441,
+			-118.624578
+		],
+		"name": "Wanda Pearce /Borgerson/",
+		"birt-plac": "Taylor, Navajo, Arizona",
+		"birt-date": "14 Dec 1922",
+		"sex": "F",
+		"p": [
+			"240",
+			"239"
+		],
+		"deat-plac": "Hawthorne, Mineral, Nevada, USA",
+		"id": "103",
+		"deat-date": "22 Apr 1986",
+		"birt-epoch": -1484755200,
+		"deat-epoch": 514540800
+	},
+	"104": {
+		"birt-ll": [
+			40.7144,
+			-74.006
+		],
+		"name": "Lusia /Scharetz/",
+		"birt-plac": "New York",
+		"birt-date": "abt 1874",
+		"sex": "F",
+		"p": [],
+		"id": "104",
+		"birt-epoch": -3029414400
+	},
+	"105": {
+		"birt-ll": [
+			41.8780025,
+			-93.097702
+		],
+		"deat-ll": [
+			44.9537029,
+			-93.0899578
+		],
+		"name": "Lawrence Willard /Nelson/",
+		"birt-plac": "Iowa",
+		"birt-date": "2 Jul 1914",
+		"sex": "M",
+		"p": [
+			"25",
+			"24"
+		],
+		"deat-plac": "Saint Paul, Ramsey, Minnesota, United States of America",
+		"id": "105",
+		"deat-date": "19 Mar 1986",
+		"birt-epoch": -1751475600,
+		"deat-epoch": 511603200
+	},
+	"106": {
+		"birt-ll": [
+			41.8780025,
+			-93.097702
+		],
+		"name": "Howard Frederick /Nelson/",
+		"birt-plac": "Iowa",
+		"birt-date": "abt 1914",
+		"sex": "M",
+		"p": [
+			"25",
+			"24"
+		],
+		"id": "106",
+		"deat-date": "26 Sep 1990",
+		"birt-epoch": -1767196800,
+		"deat-epoch": 654332400
+	},
+	"107": {
+		"birt-ll": [
+			41.8780025,
+			-93.097702
+		],
+		"name": "Robert J /Nelson/",
+		"birt-plac": "Iowa",
+		"birt-date": "2 Jul 1911",
+		"sex": "M",
+		"p": [
+			"25",
+			"24"
+		],
+		"id": "107",
+		"deat-date": "22 Feb 1986",
+		"birt-epoch": -1846170000,
+		"deat-epoch": 509443200
+	},
+	"108": {
+		"birt-ll": [
+			45.7849627,
+			-93.55690279999999
+		],
+		"deat-ll": [
+			43.9288511,
+			-93.9560643
+		],
+		"name": "Helen Louise /Nelson/",
+		"birt-plac": "Bock, Mille Lacs County, Minnesota, USA",
+		"birt-date": "25 December 1915",
+		"sex": "F",
+		"p": [
+			"25",
+			"24"
+		],
+		"deat-plac": "Mapleton, Blue Earth County, Minnesota, USA",
+		"id": "108",
+		"deat-date": "7 January 2005",
+		"birt-epoch": -1704729600,
+		"deat-epoch": 1105084800
+	},
+	"109": {
+		"birt-ll": [
+			57.516667,
+			16.033333
+		],
+		"deat-ll": [
+			46.2529828,
+			-93.6605345
+		],
+		"name": "Lovisa Carolina /Nelson/",
+		"birt-plac": "Blaxhult, Kalmar, Sweden",
+		"birt-date": "25 Aug 1850",
+		"sex": "F",
+		"p": [
+			"137",
+			"138"
+		],
+		"deat-plac": "Mille Lacs, Minnesota",
+		"id": "109",
+		"deat-date": "18 Jan 1919",
+		"birt-epoch": -3766410000,
+		"deat-epoch": -1607961600
+	},
+	"110": {
+		"birt-ll": [
+			56.102943,
+			14.027779
+		],
+		"deat-ll": [
+			45.7849627,
+			-93.55690279999999
+		],
+		"name": "Ake /Nilsson/",
+		"birt-plac": "Norra Stro, Skåne, Sweden",
+		"birt-date": "3 Feb 1847",
+		"sex": "M",
+		"p": [
+			"133",
+			"132"
+		],
+		"deat-plac": "Bock, Mille Lacs, Minnesota, USA",
+		"id": "110",
+		"deat-date": "13 Jan 1919",
+		"birt-epoch": -3878640000,
+		"deat-epoch": -1608393600
+	},
+	"111": {
+		"birt-ll": [
+			60.128161,
+			18.643501
+		],
+		"name": "Olaf-Gustaf /Larsson/",
+		"birt-plac": "Sweden",
+		"sex": "M",
+		"p": [],
+		"id": "111"
+	},
+	"112": {
+		"birt-ll": [
+			60.128161,
+			18.643501
+		],
+		"name": "Anna-Kristina /Swanstrom/",
+		"birt-plac": "Sweden",
+		"sex": "F",
+		"p": [],
+		"id": "112"
+	},
+	"113": {
+		"name": "Ann Mary /Hall/",
+		"birt-date": "1909",
+		"sex": "F",
+		"p": [],
+		"id": "113",
+		"deat-date": "1956",
+		"birt-epoch": -1924992000,
+		"deat-epoch": -441849600
+	},
+	"114": {
+		"name": "Douglas Richard /Nelson/",
+		"birt-date": "25 Jan 1934",
+		"sex": "M",
+		"p": [
+			"107",
+			"113"
+		],
+		"id": "114",
+		"deat-date": "Apr 1992",
+		"birt-epoch": -1133971200,
+		"deat-epoch": 702115200
+	},
+	"115": {
+		"birt-ll": [
+			45.6646892,
+			-93.90970089999999
+		],
+		"deat-ll": [
+			44.977753,
+			-93.2650108
+		],
+		"name": "Rudolf Nathanial /Anderson/",
+		"birt-plac": "foley benton minnesota usa",
+		"birt-date": "28 Jan 1912",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "minneapolis henepin minnesota usa",
+		"id": "115",
+		"deat-date": "26 Jan 1961",
+		"birt-epoch": -1828022400,
+		"deat-epoch": -281808000
+	},
+	"116": {
+		"name": "Rozanne Elaine /Anderson/",
+		"birt-date": "18 Aug 1956",
+		"sex": "F",
+		"p": [
+			"115",
+			"108"
+		],
+		"id": "116",
+		"deat-date": "9 Feb 1977",
+		"birt-epoch": -421952400,
+		"deat-epoch": 224323200
+	},
+	"117": {
+		"name": "Donn Owen /Anderson/",
+		"birt-date": "2 Aug 1953",
+		"sex": "M",
+		"p": [
+			"115",
+			"108"
+		],
+		"id": "117",
+		"deat-date": "24 Nov 1957",
+		"birt-epoch": -518029200,
+		"deat-epoch": -381945600
+	},
+	"118": {
+		"birt-ll": [
+			43.767733,
+			-94.1657949
+		],
+		"deat-ll": [
+			41.6150905,
+			-93.6878212
+		],
+		"name": "Joel Rudolph /Anderson/",
+		"birt-plac": "Winnebago, Faribault, MN, USA",
+		"birt-date": "17 Aug 1951",
+		"sex": "M",
+		"p": [
+			"115",
+			"108"
+		],
+		"deat-plac": ", All Countries",
+		"id": "118",
+		"birt-epoch": -579891600
+	},
+	"119": {
+		"name": "Lonny Ross /Anderson/",
+		"birt-date": "10 Sep 1949",
+		"sex": "M",
+		"p": [
+			"115",
+			"108"
+		],
+		"id": "119",
+		"deat-date": "Jun 1971",
+		"birt-epoch": -640890000,
+		"deat-epoch": 44607600
+	},
+	"120": {
+		"birt-ll": [
+			41.8672508,
+			-90.1595705
+		],
+		"deat-ll": [
+			44.9428975,
+			-123.0350963
+		],
+		"name": "Elizabeth E. /Mcelroy/",
+		"birt-plac": "Fulton, Illinois, United States",
+		"birt-date": "Mar 1849",
+		"sex": "F",
+		"p": [
+			"166",
+			"165"
+		],
+		"deat-plac": "Salem, Marion, Oregon, USA",
+		"id": "120",
+		"deat-date": "25 mar 1923",
+		"birt-epoch": -3813235200,
+		"deat-epoch": -1476032400
+	},
+	"121": {
+		"birt-ll": [
+			40.9342048,
+			-90.2548467
+		],
+		"deat-ll": [
+			44.9428975,
+			-123.0350963
+		],
+		"name": "Rev. Gilbert /McElroy/",
+		"birt-plac": "Knox, Illinois, United States",
+		"birt-date": "March 1847",
+		"sex": "M",
+		"p": [
+			"161",
+			"160"
+		],
+		"deat-plac": "Salem, Marion, Oregon, USA",
+		"id": "121",
+		"deat-date": "28 Oct 1926",
+		"birt-epoch": -3876393600,
+		"deat-epoch": -1362589200
+	},
+	"122": {
+		"birt-ll": [
+			38.8950923,
+			-77.036555
+		],
+		"deat-ll": [
+			37.3541079,
+			-121.9552356
+		],
+		"name": "Ida Robbins /Mitchell/",
+		"birt-plac": "Washington",
+		"birt-date": "11 Jul 1897",
+		"sex": "F",
+		"p": [
+			"99",
+			"98"
+		],
+		"deat-plac": "Santa Clara, California",
+		"id": "122",
+		"deat-date": "21 Jan 1988",
+		"birt-epoch": -2287069200,
+		"deat-epoch": 569750400
+	},
+	"123": {
+		"birt-ll": [
+			45.70956030000001,
+			-122.7073212
+		],
+		"name": "William M /Mc Elroy/",
+		"birt-plac": "Felida, Clark, Washington, United States",
+		"birt-date": "21 May 1900",
+		"sex": "M",
+		"p": [
+			"99",
+			"98"
+		],
+		"id": "123",
+		"birt-epoch": -2196867600
+	},
+	"124": {
+		"birt-ll": [
+			43.8041334,
+			-120.5542012
+		],
+		"name": "Anna /Mcelroy/",
+		"birt-plac": "Oregon",
+		"birt-date": "abt 1881",
+		"sex": "F",
+		"p": [],
+		"id": "124",
+		"birt-epoch": -2808489600
+	},
+	"125": {
+		"birt-ll": [
+			40.008411,
+			-79.0780831
+		],
+		"deat-ll": [
+			44.540121,
+			-123.3676014
+		],
+		"name": "Alexander /Bennett/",
+		"birt-plac": "Somerset, Pennsylvania, USA",
+		"birt-date": "25 Jan 1824",
+		"sex": "M",
+		"p": [
+			"199",
+			"198"
+		],
+		"deat-plac": "Philomath, Benton County, Oregon, USA",
+		"id": "125",
+		"deat-date": "25 February 1907",
+		"birt-epoch": -4605264000,
+		"deat-epoch": -1983369600
+	},
+	"126": {
+		"birt-ll": [
+			41.8780025,
+			-93.097702
+		],
+		"deat-ll": [
+			44.540121,
+			-123.3676014
+		],
+		"name": "Margaret /Bennett/",
+		"birt-plac": "Iowa, USA",
+		"birt-date": "8 March 1840",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Philomath, Benton County, Oregon, USA",
+		"id": "126",
+		"deat-date": "28 April 1874",
+		"birt-epoch": -4096627200,
+		"deat-epoch": -3019309200
+	},
+	"127": {
+		"birt-ll": [
+			37.7652065,
+			-122.2416355
+		],
+		"deat-ll": [
+			39.2143343,
+			-122.0094175
+		],
+		"name": "David George /Robbins/",
+		"birt-plac": "Alameda, California",
+		"birt-date": "2 Dec 1929",
+		"sex": "M",
+		"p": [
+			"131",
+			"122"
+		],
+		"deat-plac": "Colusa, Colusa, California, United States of America",
+		"id": "127",
+		"deat-date": "11 Sep 2006",
+		"birt-epoch": -1264867200,
+		"deat-epoch": 1157958000
+	},
+	"128": {
+		"birt-ll": [
+			37.7652065,
+			-122.2416355
+		],
+		"deat-ll": [
+			38.7296252,
+			-120.798546
+		],
+		"name": "Margaret Eleanor /Robbins/",
+		"birt-plac": "Alameda, California, ",
+		"birt-date": "19 Oct 1925",
+		"sex": "F",
+		"p": [
+			"131",
+			"122"
+		],
+		"deat-plac": "Placerville, ca",
+		"id": "128",
+		"deat-date": "14 Jul 1990",
+		"birt-epoch": -1394902800,
+		"deat-epoch": 647938800
+	},
+	"129": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"name": "Phyllis /Robbins/",
+		"birt-plac": "California",
+		"birt-date": "abt 1928",
+		"sex": "F",
+		"p": [
+			"131",
+			"122"
+		],
+		"id": "129",
+		"birt-epoch": -1325433600
+	},
+	"130": {
+		"birt-ll": [
+			38.8950923,
+			-77.036555
+		],
+		"name": "Vernon E /Robbins/",
+		"birt-plac": "Washington",
+		"birt-date": "abt 1915",
+		"sex": "M",
+		"p": [
+			"131",
+			"122"
+		],
+		"id": "130",
+		"birt-epoch": -1735660800
+	},
+	"131": {
+		"birt-ll": [
+			39.859767,
+			-86.6425036
+		],
+		"deat-ll": [
+			46.146779,
+			-122.9084445
+		],
+		"name": "George Percival /Robbins/",
+		"birt-plac": "North Salem, Indiana",
+		"birt-date": "8 Nov 1895",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Kelso, Cowlitz, Washington, USA",
+		"id": "131",
+		"deat-date": "30 Mar 1995",
+		"birt-epoch": -2339856000,
+		"deat-epoch": 796550400
+	},
+	"132": {
+		"birt-ll": [
+			56.07106,
+			14.08535
+		],
+		"deat-ll": [
+			56.102943,
+			14.027779
+		],
+		"name": "Karna /Akesdotter/",
+		"birt-plac": "Farlov, Skåne, Sweden",
+		"birt-date": "12 nov 1810",
+		"sex": "F",
+		"p": [
+			"170",
+			"169"
+		],
+		"deat-plac": "Norra Stro, Skåne, Sweden",
+		"id": "132",
+		"deat-date": "4 jan 1888",
+		"birt-epoch": -5021884800,
+		"deat-epoch": -2587392000
+	},
+	"133": {
+		"birt-ll": [
+			56.07106,
+			14.08535
+		],
+		"deat-ll": [
+			56.102943,
+			14.027779
+		],
+		"name": "Nils /Pehrsson/",
+		"birt-plac": "Farlov, Skåne, Sweden",
+		"birt-date": "26 nov 1810",
+		"sex": "M",
+		"p": [
+			"167",
+			"168"
+		],
+		"deat-plac": "Norra Stro, Skåne, Sweden",
+		"id": "133",
+		"deat-date": "21 apr 1875",
+		"birt-epoch": -5020675200,
+		"deat-epoch": -2988378000
+	},
+	"134": {
+		"birt-ll": [
+			41.8780025,
+			-93.097702
+		],
+		"name": "Elmer /Nelson/",
+		"birt-plac": "Iowa",
+		"birt-date": "Aug 1891",
+		"sex": "M",
+		"p": [
+			"110",
+			"109"
+		],
+		"id": "134",
+		"birt-epoch": -2474643600
+	},
+	"135": {
+		"birt-ll": [
+			41.8780025,
+			-93.097702
+		],
+		"name": "Benjiman /Nelson/",
+		"birt-plac": "Iowa",
+		"birt-date": "Sep 1889",
+		"sex": "M",
+		"p": [
+			"110",
+			"109"
+		],
+		"id": "135",
+		"birt-epoch": -2535037200
+	},
+	"136": {
+		"birt-ll": [
+			41.8780025,
+			-93.097702
+		],
+		"name": "Emma /Nelson/",
+		"birt-plac": "Iowa",
+		"birt-date": "Dec 1873",
+		"sex": "F",
+		"p": [
+			"110",
+			"109"
+		],
+		"id": "136",
+		"birt-epoch": -3032092800
+	},
+	"137": {
+		"p": [],
+		"sex": "M",
+		"id": "137",
+		"name": "Jonas Petter /Jonsson/"
+	},
+	"138": {
+		"p": [],
+		"id": "138",
+		"name": "Kajsa Lisa /Eriksdotter/",
+		"sex": "F"
+	},
+	"139": {
+		"birt-ll": [
+			60.472024,
+			8.468946
+		],
+		"name": "Laura /Henshreu/",
+		"birt-plac": "Norway",
+		"birt-date": "Jan 1852",
+		"sex": "F",
+		"p": [],
+		"id": "139",
+		"birt-epoch": -3723724800
+	},
+	"140": {
+		"p": [],
+		"sex": "M",
+		"id": "140",
+		"name": "/Borgerson/"
+	},
+	"141": {
+		"birt-ll": [
+			37.8393332,
+			-84.2700179
+		],
+		"deat-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Hannah /McCourtney/",
+		"birt-plac": "Kentucky, United States",
+		"birt-date": "1794",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Missouri, United States",
+		"id": "141",
+		"deat-date": "1860",
+		"birt-epoch": -5553964800,
+		"deat-epoch": -3471292800
+	},
+	"142": {
+		"birt-ll": [
+			35.7595731,
+			-79.0192997
+		],
+		"deat-ll": [
+			38.2310301,
+			-90.52578229999999
+		],
+		"name": "John /Bittick/",
+		"birt-plac": "North Carolina, United States",
+		"birt-date": "13 Sep 1781",
+		"sex": "M",
+		"p": [
+			"345",
+			"344"
+		],
+		"deat-plac": "Jefferson, Missouri, United States",
+		"id": "142",
+		"deat-date": "1860",
+		"birt-epoch": -5942134800,
+		"deat-epoch": -3471292800
+	},
+	"143": {
+		"birt-ll": [
+			52.3555177,
+			-1.1743197
+		],
+		"name": "Frank /Stephens/",
+		"birt-plac": "England",
+		"sex": "M",
+		"p": [],
+		"id": "143"
+	},
+	"144": {
+		"birt-ll": [
+			37.7652065,
+			-122.2416355
+		],
+		"name": "Tiara L /Macdonald/",
+		"birt-plac": "Alameda, California",
+		"birt-date": "16 Oct 1965",
+		"sex": "F",
+		"p": [
+			"145",
+			"14"
+		],
+		"id": "144",
+		"birt-epoch": -132858000
+	},
+	"145": {
+		"p": [],
+		"birt-date": "abt 1939",
+		"id": "145",
+		"name": "Gary W /Macdonald/",
+		"sex": "M",
+		"birt-epoch": -978278400
+	},
+	"146": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"name": "D'Arcy /York/",
+		"birt-plac": "California, USA",
+		"birt-date": "5 Jan 1972",
+		"sex": "F",
+		"p": [
+			"148",
+			"13"
+		],
+		"id": "146",
+		"birt-epoch": 63446400
+	},
+	"147": {
+		"birt-ll": [
+			37.7652065,
+			-122.2416355
+		],
+		"name": "Drea K /York/",
+		"birt-plac": "Alameda, California",
+		"birt-date": "27 Jul 1970",
+		"sex": "F",
+		"p": [
+			"148",
+			"13"
+		],
+		"id": "147",
+		"birt-epoch": 17910000
+	},
+	"148": {
+		"p": [],
+		"sex": "M",
+		"id": "148",
+		"name": "Bob /York/"
+	},
+	"149": {
+		"birt-ll": [
+			37.7652065,
+			-122.2416355
+		],
+		"name": "Kevin Joseph /Cravo/",
+		"birt-plac": "Alameda, California",
+		"birt-date": "9 Oct 1984",
+		"sex": "M",
+		"p": [
+			"151",
+			"12"
+		],
+		"id": "149",
+		"birt-epoch": 466153200
+	},
+	"150": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"name": "Brian /Cravo/",
+		"birt-plac": "California, USA",
+		"birt-date": "1975",
+		"sex": "M",
+		"p": [
+			null,
+			"12"
+		],
+		"id": "150",
+		"birt-epoch": 157766400
+	},
+	"151": {
+		"p": [],
+		"id": "151",
+		"name": "Jack /Cravo/",
+		"sex": "M"
+	},
+	"152": {
+		"p": [
+			"11",
+			"155"
+		],
+		"id": "152",
+		"name": "Emily /Borgerson/",
+		"sex": "F"
+	},
+	"153": {
+		"p": [
+			"11",
+			"155"
+		],
+		"id": "153",
+		"name": "Caleb /Borgerson/",
+		"sex": "M"
+	},
+	"154": {
+		"p": [
+			"11",
+			"155"
+		],
+		"id": "154",
+		"name": "Alyssa /Borgerson/",
+		"sex": "F"
+	},
+	"155": {
+		"p": [],
+		"birt-date": "28 Dec 1960",
+		"sex": "F",
+		"id": "155",
+		"name": "Connie L /Borgerson/",
+		"birt-epoch": -284313600
+	},
+	"156": {
+		"p": [
+			null,
+			"6"
+		],
+		"sex": "F",
+		"id": "156",
+		"name": "Nanette"
+	},
+	"157": {
+		"p": [],
+		"id": "157",
+		"name": "David  /Spak/",
+		"sex": "M"
+	},
+	"158": {
+		"p": [],
+		"id": "158",
+		"name": "Andrew /Kiefer/",
+		"sex": "M"
+	},
+	"159": {
+		"p": [],
+		"sex": "F",
+		"id": "159",
+		"name": "Virginia "
+	},
+	"160": {
+		"birt-ll": [
+			42.1292241,
+			-80.085059
+		],
+		"deat-ll": [
+			40.6333724,
+			-90.16373170000001
+		],
+		"name": "Rebecca /McElroy/",
+		"birt-plac": "Erie, PA",
+		"birt-date": "11 April 1819",
+		"sex": "F",
+		"p": [
+			"223",
+			"222"
+		],
+		"deat-plac": "Fairview, Fulton, Illinois, USA",
+		"id": "160",
+		"deat-date": "11 March 1895",
+		"birt-epoch": -4756467600,
+		"deat-epoch": -2360768400
+	},
+	"161": {
+		"birt-ll": [
+			40.4172871,
+			-82.907123
+		],
+		"name": "Daniel /McElroy/",
+		"birt-plac": "Ohio, USA",
+		"birt-date": "abt 1823",
+		"sex": "M",
+		"p": [],
+		"id": "161",
+		"birt-epoch": -4638873600
+	},
+	"162": {
+		"birt-ll": [
+			39.78172130000001,
+			-89.6501481
+		],
+		"deat-ll": [
+			43.8041334,
+			-120.5542012
+		],
+		"name": "William Henry /McElroy/",
+		"birt-plac": "Springfield, Illinois, USA",
+		"birt-date": "20 Aug 1875",
+		"sex": "M",
+		"p": [
+			"121",
+			"120"
+		],
+		"deat-plac": "Oregon",
+		"id": "162",
+		"deat-date": "1953",
+		"birt-epoch": -2977923600,
+		"deat-epoch": -536457600
+	},
+	"163": {
+		"birt-ll": [
+			44.3976247,
+			-122.7361959
+		],
+		"deat-ll": [
+			44.9428975,
+			-123.0350963
+		],
+		"name": "Chas G /Mcelroy/",
+		"birt-plac": "Sweet Home, Oregon, USA",
+		"birt-date": "03 Sep 1888",
+		"sex": "M",
+		"p": [
+			"121",
+			"120"
+		],
+		"deat-plac": "Salem, Marion, Oregon, USA",
+		"id": "163",
+		"deat-date": "May 1969",
+		"birt-epoch": -2566400400,
+		"deat-epoch": -21142800
+	},
+	"164": {
+		"p": [],
+		"sex": "F",
+		"id": "164",
+		"name": "Elizabeth E /Curfman/"
+	},
+	"165": {
+		"birt-ll": [
+			37.4315734,
+			-78.6568942
+		],
+		"deat-ll": [
+			41.8672508,
+			-90.1595705
+		],
+		"name": "Elizabeth /Curfman/",
+		"birt-plac": "Virginia, United States",
+		"birt-date": "4 Mar 1806",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Fulton, Illinois, United States",
+		"id": "165",
+		"deat-date": "13 Jan 1877",
+		"birt-epoch": -5169974400,
+		"deat-epoch": -2933683200
+	},
+	"166": {
+		"birt-ll": [
+			39.0457549,
+			-76.6412712
+		],
+		"deat-ll": [
+			41.8672508,
+			-90.1595705
+		],
+		"name": "Adam /Curfman/",
+		"birt-plac": "Maryland",
+		"birt-date": "abt 1791",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Fulton, Illinois, United States",
+		"id": "166",
+		"deat-date": "5 Feb 1881",
+		"birt-epoch": -5648630400,
+		"deat-epoch": -2805465600
+	},
+	"167": {
+		"birt-ll": [
+			56.07106,
+			14.08535
+		],
+		"deat-ll": [
+			56.07106,
+			14.08535
+		],
+		"name": "Per /Akesson/",
+		"birt-plac": "Farlov, Skåne, Sweden",
+		"birt-date": "22 oct 1780",
+		"sex": "M",
+		"p": [
+			"233",
+			"234"
+		],
+		"deat-plac": "Farlov, Skåne, Sweden",
+		"id": "167",
+		"deat-date": "30 jan 1830",
+		"birt-epoch": -5970301200,
+		"deat-epoch": -4415443200
+	},
+	"168": {
+		"birt-ll": [
+			56.07106,
+			14.08535
+		],
+		"deat-ll": [
+			56.07106,
+			14.08535
+		],
+		"name": "Truen /Nilsdotteer/",
+		"birt-plac": "Farlov, Skåne, Sweden",
+		"birt-date": "3 mar 1779",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Farlov, Skåne, Sweden",
+		"id": "168",
+		"deat-date": "11 aug 1811",
+		"birt-epoch": -6022051200,
+		"deat-epoch": -4998387600
+	},
+	"169": {
+		"birt-ll": [
+			56.07106,
+			14.08535
+		],
+		"deat-ll": [
+			56.07106,
+			14.08535
+		],
+		"name": "Else /Nilsdotter/",
+		"birt-plac": "Farlov, Skåne, Sweden",
+		"birt-date": "5 oct 1770",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Farlov, Skåne, Sweden",
+		"id": "169",
+		"deat-date": "2 oct 1832",
+		"birt-epoch": -6287389200,
+		"deat-epoch": -4331120400
+	},
+	"170": {
+		"birt-ll": [
+			56.04731109999999,
+			14.6792508
+		],
+		"deat-ll": [
+			56.07106,
+			14.08535
+		],
+		"name": "Ake Goransson /Lindgren/",
+		"birt-plac": "Mjallby, Blekinge, Sweden",
+		"birt-date": "18 feb 1754",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Farlov, Skåne, Sweden",
+		"id": "170",
+		"deat-date": "18 dec 1816",
+		"birt-epoch": -6812092800,
+		"deat-epoch": -4829385600
+	},
+	"171": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"deat-ll": [
+			39.5582351,
+			-91.5983959
+		],
+		"name": "Adarilla /Hubbard/",
+		"birt-plac": "Missouri",
+		"birt-date": "Oct 1846",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Ralls, Missouri, USA",
+		"id": "171",
+		"deat-date": "22 Jun 1919",
+		"birt-epoch": -3889443600,
+		"deat-epoch": -1594573200
+	},
+	"172": {
+		"birt-ll": [
+			37.8393332,
+			-84.2700179
+		],
+		"name": "Frances /Hubbard/",
+		"birt-plac": "Kentucky",
+		"birt-date": "abt 1810",
+		"sex": "F",
+		"p": [],
+		"id": "172",
+		"birt-epoch": -5049100800
+	},
+	"173": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Estelle /Hubard/",
+		"birt-plac": "Missouri",
+		"birt-date": "abt 1869",
+		"sex": "F",
+		"p": [
+			"42",
+			"41"
+		],
+		"id": "173",
+		"birt-epoch": -3187180800
+	},
+	"174": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Lenia /Hubard/",
+		"birt-plac": "Missouri",
+		"birt-date": "abt 1867",
+		"sex": "F",
+		"p": [
+			"42",
+			"41"
+		],
+		"id": "174",
+		"birt-epoch": -3250339200
+	},
+	"175": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Marry F. /Hubard/",
+		"birt-plac": "Missouri",
+		"birt-date": "abt 1865",
+		"sex": "F",
+		"p": [
+			"42",
+			"41"
+		],
+		"id": "175",
+		"birt-epoch": -3313411200
+	},
+	"176": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Densie /Hubbard/",
+		"birt-plac": "Missouri",
+		"birt-date": "Jan 1883",
+		"sex": "F",
+		"p": [
+			"42",
+			"171"
+		],
+		"id": "176",
+		"birt-epoch": -2745417600
+	},
+	"177": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Nanini N D /Hubard/",
+		"birt-plac": "Missouri",
+		"birt-date": "abt 1878",
+		"sex": "F",
+		"p": [
+			"42",
+			"171"
+		],
+		"id": "177",
+		"birt-epoch": -2903184000
+	},
+	"178": {
+		"p": [],
+		"id": "178",
+		"name": "Adazilla /Wylie/"
+	},
+	"179": {
+		"p": [
+			"42",
+			"41"
+		],
+		"id": "179",
+		"deat-date": "5 October 1872",
+		"name": "Sallie A /Hubbard/",
+		"deat-epoch": -3068557200
+	},
+	"180": {
+		"birt-ll": [
+			35.5174913,
+			-86.5804473
+		],
+		"deat-ll": [
+			38.8886044,
+			-91.9099238
+		],
+		"name": "Laodocia Layodicia /Coats/",
+		"birt-plac": "Tennessee",
+		"birt-date": "abt 1808",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Callaway, MO",
+		"id": "180",
+		"deat-date": "15 Nov 1895",
+		"birt-epoch": -5112259200,
+		"deat-epoch": -2339251200
+	},
+	"181": {
+		"birt-ll": [
+			36.2388468,
+			-85.971322
+		],
+		"name": "Daniel /Phillips/",
+		"birt-plac": "Smith, Tennessee, United States",
+		"birt-date": "25 Dec 1805",
+		"sex": "M",
+		"p": [],
+		"id": "181",
+		"birt-epoch": -5175936000
+	},
+	"182": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Martha Ann /Phillips/",
+		"birt-plac": "Missouri, USA",
+		"birt-date": "1827",
+		"sex": "F",
+		"p": [
+			null,
+			"180"
+		],
+		"id": "182",
+		"birt-epoch": -4512672000
+	},
+	"183": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Mary /Phillips/",
+		"birt-plac": "Missouri, USA",
+		"birt-date": "1837",
+		"sex": "F",
+		"p": [
+			null,
+			"180"
+		],
+		"id": "183",
+		"birt-epoch": -4197052800
+	},
+	"184": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Daniel B /Phillips/",
+		"birt-plac": "Missouri, USA",
+		"birt-date": "Jul 1845",
+		"sex": "M",
+		"p": [
+			null,
+			"180"
+		],
+		"id": "184",
+		"birt-epoch": -3928928400
+	},
+	"185": {
+		"birt-ll": [
+			38.8886044,
+			-91.9099238
+		],
+		"deat-ll": [
+			39.011902,
+			-98.4842465
+		],
+		"name": "Rachel Rachael M /Philips/",
+		"birt-plac": "Callaway, Missouri, United States",
+		"birt-date": "Nov 1835",
+		"sex": "F",
+		"p": [
+			"181",
+			"180"
+		],
+		"deat-plac": "Kansas, United States",
+		"id": "185",
+		"deat-date": "1907",
+		"birt-epoch": -4233920400,
+		"deat-epoch": -1988150400
+	},
+	"186": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Lemuel B /Philips/",
+		"birt-plac": "Missouri, USA",
+		"birt-date": "Dec 1843",
+		"sex": "M",
+		"p": [
+			"181",
+			"180"
+		],
+		"id": "186",
+		"birt-epoch": -3978864000
+	},
+	"187": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "John W /Philips/",
+		"birt-plac": "Missouri, USA",
+		"birt-date": "Nov 1839",
+		"sex": "M",
+		"p": [
+			"181",
+			"180"
+		],
+		"id": "187",
+		"birt-epoch": -4107690000
+	},
+	"188": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Nancy /Philips/",
+		"birt-plac": "Missouri, USA",
+		"birt-date": "1832",
+		"sex": "F",
+		"p": [
+			"181",
+			"180"
+		],
+		"id": "188",
+		"birt-epoch": -4354905600
+	},
+	"189": {
+		"birt-ll": [
+			38.8886044,
+			-91.9099238
+		],
+		"deat-ll": [
+			37.1767249,
+			-94.56550659999999
+		],
+		"name": "Frances (Francis) /Philips/",
+		"birt-plac": "Callaway, Missouri, United States",
+		"birt-date": "Jan 1833",
+		"sex": "F",
+		"p": [
+			"181",
+			"180"
+		],
+		"deat-plac": "Carl Junction, Jasper, Missouri",
+		"id": "189",
+		"deat-date": "17 June 1917",
+		"birt-epoch": -4323254400,
+		"deat-epoch": -1658077200
+	},
+	"190": {
+		"birt-ll": [
+			35.5174913,
+			-86.5804473
+		],
+		"name": "Francis J /Phillips/",
+		"birt-plac": "Tennessee",
+		"birt-date": "Jan 1846",
+		"sex": "F",
+		"p": [],
+		"id": "190",
+		"birt-epoch": -3913027200
+	},
+	"191": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "James W /Phillips/",
+		"birt-plac": "Missouri",
+		"birt-date": "Aug 1868",
+		"sex": "M",
+		"p": [
+			"184",
+			"190"
+		],
+		"id": "191",
+		"birt-epoch": -3200403600
+	},
+	"192": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"name": "Alvine /Borgerson/",
+		"birt-plac": "California",
+		"birt-date": "Aug 1885",
+		"sex": "F",
+		"p": [
+			"140",
+			"139"
+		],
+		"id": "192",
+		"birt-epoch": -2663946000
+	},
+	"193": {
+		"birt-ll": [
+			-57.74999999999999,
+			-26.5
+		],
+		"name": "Cora /Borgerson/",
+		"birt-plac": "Sandwich Islands",
+		"birt-date": "Feb 1884",
+		"sex": "F",
+		"p": [
+			"140",
+			"139"
+		],
+		"id": "193",
+		"birt-epoch": -2711203200
+	},
+	"194": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"name": "Katie /Borgerson/",
+		"birt-plac": "California",
+		"birt-date": "Apr 1890",
+		"sex": "F",
+		"p": [
+			"140",
+			"139"
+		],
+		"id": "194",
+		"birt-epoch": -2516720400
+	},
+	"195": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"name": "Oscar /Borgerson/",
+		"birt-plac": "California",
+		"birt-date": "Jan 1892",
+		"sex": "M",
+		"p": [
+			"140",
+			"139"
+		],
+		"id": "195",
+		"birt-epoch": -2461420800
+	},
+	"196": {
+		"p": [
+			"197",
+			"139"
+		],
+		"sex": "M",
+		"id": "196",
+		"name": "Laures /Warnes/"
+	},
+	"197": {
+		"deat-ll": [
+			19.8967662,
+			-155.5827818
+		],
+		"name": "John Albert /Warnes/",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Hawaii, USA",
+		"id": "197"
+	},
+	"198": {
+		"birt-ll": [
+			39.8606016,
+			-78.72494689999999
+		],
+		"deat-ll": [
+			41.0983846,
+			-83.98466549999999
+		],
+		"name": "Catherine /Flickinger/",
+		"birt-plac": "Town of Londonderry, Bedford County, Pennsylvania",
+		"birt-date": "23 April 1803",
+		"sex": "F",
+		"p": [
+			"448",
+			"447"
+		],
+		"deat-plac": "Village of Leipsic, Putnam County, Ohio",
+		"id": "198",
+		"deat-date": "22 May 1888",
+		"birt-epoch": -5260352400,
+		"deat-epoch": -2575386000
+	},
+	"199": {
+		"birt-ll": [
+			40.0392083,
+			-79.01718009999999
+		],
+		"deat-ll": [
+			41.0353738,
+			-83.9803787
+		],
+		"name": "Charles /Bennett/",
+		"birt-plac": "Somerset County, Pennsylvania",
+		"birt-date": "1803",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Village of Belmore, Town of Liberty, Putnam County, Ohio",
+		"id": "199",
+		"deat-date": "11 July 1875",
+		"birt-epoch": -5270054400,
+		"deat-epoch": -2981379600
+	},
+	"200": {
+		"birt-ll": [
+			44.540121,
+			-123.3676014
+		],
+		"deat-ll": [
+			44.540121,
+			-123.3676014
+		],
+		"name": "Oliver /Bennett/",
+		"birt-plac": "Philomath, Benton County, Oregon, USA",
+		"birt-date": "28 April 1861",
+		"sex": "M",
+		"p": [
+			"125",
+			"214"
+		],
+		"deat-plac": "Philomath, Benton, Oregon, USA",
+		"id": "200",
+		"deat-date": "11 Sep 1886",
+		"birt-epoch": -3429536400,
+		"deat-epoch": -2628867600
+	},
+	"201": {
+		"birt-ll": [
+			45.6387281,
+			-122.6614861
+		],
+		"deat-ll": [
+			44.5645659,
+			-123.2620435
+		],
+		"name": "Frank /Bennett/",
+		"birt-plac": "Vancouver, Clark, Washington, USA",
+		"birt-date": "31 Jul 1859",
+		"sex": "M",
+		"p": [
+			"125",
+			"214"
+		],
+		"deat-plac": "Corvallis, Benton, Oregon, USA",
+		"id": "201",
+		"deat-date": "13 Dec 1939",
+		"birt-epoch": -3484573200,
+		"deat-epoch": -948384000
+	},
+	"202": {
+		"birt-ll": [
+			44.6281686,
+			-123.3873877
+		],
+		"name": "Marion /Bennett/",
+		"birt-plac": "Philomath Precinct, Benton County, Oregon",
+		"birt-date": "17 Feb 1885",
+		"sex": "M",
+		"p": [
+			"125",
+			"208"
+		],
+		"id": "202",
+		"deat-date": "Feb 1937",
+		"birt-epoch": -2678198400,
+		"deat-epoch": -1038672000
+	},
+	"203": {
+		"birt-ll": [
+			44.540121,
+			-123.3676014
+		],
+		"deat-ll": [
+			37.7652065,
+			-122.2416355
+		],
+		"name": "John A /Bennett/",
+		"birt-plac": "Philomath, Benton, Oregon, USA",
+		"birt-date": "09 Jul 1880",
+		"sex": "M",
+		"p": [
+			"125",
+			"208"
+		],
+		"deat-plac": "Alameda, Alameda, California, USA",
+		"id": "203",
+		"deat-date": "18 Jun 1954",
+		"birt-epoch": -2823699600,
+		"deat-epoch": -490381200
+	},
+	"204": {
+		"birt-ll": [
+			43.7844397,
+			-88.7878678
+		],
+		"name": "Frank /Bennett/",
+		"birt-plac": "Wisconsin",
+		"birt-date": "abt 1860",
+		"sex": "M",
+		"p": [
+			"125",
+			"208"
+		],
+		"id": "204",
+		"birt-epoch": -3471264000
+	},
+	"205": {
+		"birt-ll": [
+			43.8041334,
+			-120.5542012
+		],
+		"deat-ll": [
+			44.7490108,
+			-122.942314
+		],
+		"name": "James /Clark/",
+		"birt-plac": "Oregon",
+		"birt-date": "Feb 1869",
+		"sex": "M",
+		"p": [
+			"125",
+			"208"
+		],
+		"deat-plac": "Marion, Marion, Oregon, USA",
+		"id": "205",
+		"deat-date": "31 Aug 1927",
+		"birt-epoch": -3184502400,
+		"deat-epoch": -1336064400
+	},
+	"206": {
+		"birt-ll": [
+			43.8041334,
+			-120.5542012
+		],
+		"name": "Charles D /Clark/",
+		"birt-plac": "Oregon",
+		"birt-date": "Jul 1870",
+		"sex": "M",
+		"p": [
+			"125",
+			"208"
+		],
+		"id": "206",
+		"birt-epoch": -3140010000
+	},
+	"207": {
+		"birt-ll": [
+			43.8041334,
+			-120.5542012
+		],
+		"name": "Aminda /Clark/",
+		"birt-plac": "Oregon",
+		"birt-date": "abt 1868",
+		"sex": "F",
+		"p": [
+			"125",
+			"208"
+		],
+		"id": "207",
+		"birt-epoch": -3218803200
+	},
+	"208": {
+		"birt-ll": [
+			39.3354791,
+			-93.9878427
+		],
+		"deat-ll": [
+			44.540121,
+			-123.3676014
+		],
+		"name": "Sarah Catherine /Keeney Bennett/",
+		"birt-plac": "Ray County, Missouri, USA",
+		"birt-date": "Dec 1846",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Philomath, Benton, Oregon, USA",
+		"id": "208",
+		"deat-date": "28 Apr 1916",
+		"birt-epoch": -3884169600,
+		"deat-epoch": -1693933200
+	},
+	"209": {
+		"birt-ll": [
+			44.540121,
+			-123.3676014
+		],
+		"deat-ll": [
+			44.540121,
+			-123.3676014
+		],
+		"name": "Viola /Bennett/",
+		"birt-plac": "Philomath, Benton County, Oregon, USA",
+		"birt-date": "30 April 1863",
+		"sex": "F",
+		"p": [
+			"125",
+			"215"
+		],
+		"deat-plac": "Philomath, Benton County, Oregon, USA",
+		"id": "209",
+		"deat-date": "19 October 1883",
+		"birt-epoch": -3366291600,
+		"deat-epoch": -2720278800
+	},
+	"210": {
+		"birt-ll": [
+			44.540121,
+			-123.3676014
+		],
+		"deat-ll": [
+			44.540121,
+			-123.3676014
+		],
+		"name": "Henry /Bennett/",
+		"birt-plac": "Philomath, Benton, Oregon, USA",
+		"birt-date": "29 Apr 1872",
+		"sex": "F",
+		"p": [
+			"125",
+			"214"
+		],
+		"deat-plac": "Philomath, Benton, Oregon, USA",
+		"id": "210",
+		"deat-date": "21 Feb 1874",
+		"birt-epoch": -3082294800,
+		"deat-epoch": -3025008000
+	},
+	"211": {
+		"birt-ll": [
+			44.540121,
+			-123.3676014
+		],
+		"deat-ll": [
+			44.3140116,
+			-123.2967637
+		],
+		"name": "Edward H /Bennett/",
+		"birt-plac": "Philomath, Benton County, Oregon, USA",
+		"birt-date": "16 April 1874",
+		"sex": "M",
+		"p": [
+			"125",
+			"214"
+		],
+		"deat-plac": "Monroe, Benton County, Oregon, USA",
+		"id": "211",
+		"deat-date": "27 November 1953",
+		"birt-epoch": -3020346000,
+		"deat-epoch": -507916800
+	},
+	"212": {
+		"birt-ll": [
+			43.8041334,
+			-120.5542012
+		],
+		"deat-ll": [
+			45.0992814,
+			-123.3948291
+		],
+		"name": "Lincoln /Bennett/",
+		"birt-plac": "Oregon",
+		"birt-date": "abt 1865",
+		"sex": "M",
+		"p": [
+			"125",
+			"214"
+		],
+		"deat-plac": "Sheridon, , Oregon, USA",
+		"id": "212",
+		"deat-date": "15 Nov 1951",
+		"birt-epoch": -3313411200,
+		"deat-epoch": -572112000
+	},
+	"213": {
+		"birt-ll": [
+			44.540121,
+			-123.3676014
+		],
+		"deat-ll": [
+			45.6387281,
+			-122.6614861
+		],
+		"name": "Dolla Dolly /Hathaway/",
+		"birt-plac": "Philomath, Benton County, Oregon, United States of America",
+		"birt-date": "1 September 1867",
+		"sex": "F",
+		"p": [
+			"125",
+			"214"
+		],
+		"deat-plac": "Vancouver, Clark County, Washington, United States of America",
+		"id": "213",
+		"deat-date": "24 January 1952",
+		"birt-epoch": -3229347600,
+		"deat-epoch": -566064000
+	},
+	"214": {
+		"birt-ll": [
+			41.8780025,
+			-93.097702
+		],
+		"deat-ll": [
+			44.540121,
+			-123.3676014
+		],
+		"name": "Margaret /Hendrickson/",
+		"birt-plac": "Iowa, USA",
+		"birt-date": "8 March 1840",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Philomath, Benton County, Oregon, USA",
+		"id": "214",
+		"deat-date": "28 Apr 1878",
+		"birt-epoch": -4096627200,
+		"deat-epoch": -2893078800
+	},
+	"215": {
+		"birt-ll": [
+			41.8780025,
+			-93.097702
+		],
+		"deat-ll": [
+			44.540121,
+			-123.3676014
+		],
+		"name": "Margaret /Bennett/",
+		"birt-plac": "Iowa, USA",
+		"birt-date": "8 March 1840",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Philomath, Benton County, Oregon, USA",
+		"id": "215",
+		"deat-date": "28 April 1874",
+		"birt-epoch": -4096627200,
+		"deat-epoch": -3019309200
+	},
+	"216": {
+		"birt-ll": [
+			43.8041334,
+			-120.5542012
+		],
+		"name": "Dolly /Bennett/",
+		"birt-plac": "Oregon",
+		"birt-date": "abt 1868",
+		"sex": "F",
+		"p": [
+			"125"
+		],
+		"id": "216",
+		"birt-epoch": -3218803200
+	},
+	"217": {
+		"birt-ll": [
+			40.4172871,
+			-82.907123
+		],
+		"deat-ll": [
+			40.4920211,
+			-90.2807868
+		],
+		"name": "Rhoda Emeline /McElroy/",
+		"birt-plac": "Ohio",
+		"birt-date": "Jul 1850",
+		"sex": "M",
+		"p": [
+			"161",
+			"160"
+		],
+		"deat-plac": "Cass Township, Fulton, Illinois, USA",
+		"id": "217",
+		"deat-date": "15 May 1861",
+		"birt-epoch": -3771162000,
+		"deat-epoch": -3428067600
+	},
+	"218": {
+		"birt-ll": [
+			40.4928181,
+			-90.19067679999999
+		],
+		"deat-ll": [
+			44.4099768,
+			-122.53401
+		],
+		"name": "Cornelius /McElroy/",
+		"birt-plac": "Cuba, Fulton, Illinois, USA",
+		"birt-date": "Aug 1855",
+		"sex": "M",
+		"p": [
+			"161",
+			"160"
+		],
+		"deat-plac": "Linn County, Oregon, USA",
+		"id": "218",
+		"deat-date": "07 Mar 1938",
+		"birt-epoch": -3610717200,
+		"deat-epoch": -1004198400
+	},
+	"219": {
+		"birt-ll": [
+			40.4172871,
+			-82.907123
+		],
+		"deat-ll": [
+			40.4920211,
+			-90.2807868
+		],
+		"name": "Sarah Ann /McElroy/",
+		"birt-plac": "Ohio, USA",
+		"birt-date": "Jul 1852",
+		"sex": "F",
+		"p": [
+			"161",
+			"160"
+		],
+		"deat-plac": "Cass Township, Fulton County, Illinois, USA",
+		"id": "219",
+		"deat-date": "2 Jun",
+		"birt-epoch": -3708003600,
+		"deat-epoch": 991465200
+	},
+	"220": {
+		"birt-ll": [
+			40.4172871,
+			-82.907123
+		],
+		"deat-ll": [
+			40.4920211,
+			-90.2807868
+		],
+		"name": "Wilbert /McElroy/",
+		"birt-plac": "Ohio, USA",
+		"birt-date": "May 1843",
+		"sex": "M",
+		"p": [
+			"161",
+			"160"
+		],
+		"deat-plac": "Cass Township, Fulton County, Illinois, USA",
+		"id": "220",
+		"deat-date": "18 Feb 1863",
+		"birt-epoch": -3997357200,
+		"deat-epoch": -3372422400
+	},
+	"221": {
+		"birt-ll": [
+			40.4733743,
+			-90.2917904
+		],
+		"deat-ll": [
+			40.5531823,
+			-90.2244662
+		],
+		"name": "Ambrose /McElroy/",
+		"birt-plac": "Smithfield, Fulton, Illinois, USA",
+		"birt-date": "20 Feb 1861",
+		"sex": "M",
+		"p": [
+			"161",
+			"160"
+		],
+		"deat-plac": "Fulton County, Illinois, USA",
+		"id": "221",
+		"deat-date": "24 Feb 1941",
+		"birt-epoch": -3435321600,
+		"deat-epoch": -910454400
+	},
+	"222": {
+		"birt-ll": [
+			42.12922409999999,
+			-80.085059
+		],
+		"deat-ll": [
+			40.1766202,
+			-89.45715670000001
+		],
+		"name": "Elizabeth /Eaton/",
+		"birt-plac": "Erie, Pennsylvania, USA",
+		"birt-date": "1762",
+		"sex": "F",
+		"p": [
+			"264",
+			"263"
+		],
+		"deat-plac": "Putnam, Fulton, Illinois, USA",
+		"id": "222",
+		"deat-date": "1853",
+		"birt-epoch": -6563808000,
+		"deat-epoch": -3692131200
+	},
+	"223": {
+		"birt-ll": [
+			39.9532243,
+			-75.1939426
+		],
+		"deat-ll": [
+			40.4922389,
+			-90.1682271
+		],
+		"name": "Benjamin /Spry/",
+		"birt-plac": "Penn",
+		"birt-date": "1762",
+		"sex": "M",
+		"p": [
+			"261",
+			"260"
+		],
+		"deat-plac": "Putman Township, Fulton, Illinois, United States",
+		"id": "223",
+		"deat-date": "25 October 1858",
+		"birt-epoch": -6563808000,
+		"deat-epoch": -3508678800
+	},
+	"224": {
+		"birt-ll": [
+			40.5512165,
+			-85.6023643
+		],
+		"name": "Isaac /Lamb/",
+		"birt-plac": "Indiana",
+		"birt-date": "abt 1816",
+		"sex": "M",
+		"p": [],
+		"id": "224",
+		"birt-epoch": -4859798400
+	},
+	"225": {
+		"birt-ll": [
+			41.8672508,
+			-90.1595705
+		],
+		"name": "Clarissa /curfman/",
+		"birt-plac": "Fulton, Illinois, United States",
+		"birt-date": "1838",
+		"sex": "F",
+		"p": [
+			"166",
+			"165"
+		],
+		"id": "225",
+		"birt-epoch": -4165516800
+	},
+	"226": {
+		"birt-ll": [
+			41.7386662,
+			-80.7698066
+		],
+		"deat-ll": [
+			40.6186756,
+			-80.5772928
+		],
+		"name": "Josh /Curfman/",
+		"birt-plac": "Jefferson, Ohio, United States",
+		"birt-date": "1845",
+		"sex": "M",
+		"p": [
+			"166",
+			"165"
+		],
+		"deat-plac": "East Liverpool, Columbiana, Ohio, United States",
+		"id": "226",
+		"deat-date": "May 1907",
+		"birt-epoch": -3944592000,
+		"deat-epoch": -1977757200
+	},
+	"227": {
+		"birt-ll": [
+			40.4733743,
+			-90.2917904
+		],
+		"deat-ll": [
+			44.9266528,
+			-123.4919256
+		],
+		"name": "Nancy S. /Curfman/",
+		"birt-plac": "Smithfield, Illinois, USA",
+		"birt-date": "29 Jul 1833",
+		"sex": "F",
+		"p": [
+			"166",
+			"165"
+		],
+		"deat-plac": "Polk County, Oregon, USA",
+		"id": "227",
+		"deat-date": "07 Jul 1903",
+		"birt-epoch": -4305200400,
+		"deat-epoch": -2098198800
+	},
+	"228": {
+		"birt-ll": [
+			40.5702159,
+			-89.974268
+		],
+		"deat-ll": [
+			40.5531823,
+			-90.2244662
+		],
+		"name": "Mary Jane /Curfman/",
+		"birt-plac": "Barkers Grove, Fulton, Illinois, USA",
+		"birt-date": "30 Jul 1835",
+		"sex": "F",
+		"p": [
+			"166",
+			"165"
+		],
+		"deat-plac": "Fulton County, Illinois, USA",
+		"id": "228",
+		"deat-date": "26 Feb 1903",
+		"birt-epoch": -4242042000,
+		"deat-epoch": -2109513600
+	},
+	"229": {
+		"birt-ll": [
+			41.8672508,
+			-90.1595705
+		],
+		"name": "Amanda /Curfman/",
+		"birt-plac": "Fulton, Illinois, United States",
+		"birt-date": "About 1844",
+		"sex": "F",
+		"p": [
+			"166",
+			"165"
+		],
+		"id": "229",
+		"birt-epoch": -3976185600
+	},
+	"230": {
+		"birt-ll": [
+			40.040682,
+			-88.3498939
+		],
+		"deat-ll": [
+			40.491693,
+			-90.3936722
+		],
+		"name": "George /Curfman/",
+		"birt-plac": "Barker Grove, Illinois",
+		"birt-date": "2 Mar 1843",
+		"sex": "M",
+		"p": [
+			"166",
+			"165"
+		],
+		"deat-plac": "Harris, Fulton, Illinois",
+		"id": "230",
+		"deat-date": "17 Apr 1926",
+		"birt-epoch": -4002537600,
+		"deat-epoch": -1379350800
+	},
+	"231": {
+		"birt-ll": [
+			40.6331249,
+			-89.3985283
+		],
+		"deat-ll": [
+			40.7290565,
+			-92.8738196
+		],
+		"name": "Catherine Ann /Curfman/",
+		"birt-plac": "Illinois, United States",
+		"birt-date": "18 Dec 1832",
+		"sex": "F",
+		"p": [
+			"166",
+			"165"
+		],
+		"deat-plac": "Centerville, Appanoose, Iowa, United States",
+		"id": "231",
+		"deat-date": "11 Sep 1880",
+		"birt-epoch": -4324464000,
+		"deat-epoch": -2818170000
+	},
+	"232": {
+		"birt-ll": [
+			40.4881159,
+			-90.3459872
+		],
+		"deat-ll": [
+			40.4733743,
+			-90.2917904
+		],
+		"name": "Olive Eliza /Curfman/",
+		"birt-plac": "Seville, Mariette, Illinois, United States",
+		"birt-date": "19 Mar 1839",
+		"sex": "F",
+		"p": [
+			"166",
+			"165"
+		],
+		"deat-plac": "Smithfield, Fulton, Illinois, United States",
+		"id": "232",
+		"deat-date": "20 Mar 1927",
+		"birt-epoch": -4127302800,
+		"deat-epoch": -1350234000
+	},
+	"233": {
+		"birt-ll": [
+			56.07106,
+			14.08535
+		],
+		"deat-ll": [
+			56.07106,
+			14.08535
+		],
+		"name": "Ake /Persson/",
+		"birt-plac": "Farlov, Skåne, Sweden",
+		"birt-date": "23 aug 1755",
+		"sex": "M",
+		"p": [
+			"236",
+			"235"
+		],
+		"deat-plac": "Farlov, Skåne, Sweden",
+		"id": "233",
+		"deat-date": "5 feb 1824",
+		"birt-epoch": -6764490000,
+		"deat-epoch": -4604313600
+	},
+	"234": {
+		"deat-ll": [
+			56.07106,
+			14.08535
+		],
+		"name": "Kirstena /Mansdotter/",
+		"birt-date": "26 jun 1743",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Farlov, Skåne, Sweden",
+		"id": "234",
+		"deat-date": "20 july 1810",
+		"birt-epoch": -7148192400,
+		"deat-epoch": -5031824400
+	},
+	"235": {
+		"deat-ll": [
+			56.07106,
+			14.08535
+		],
+		"name": "Kierstina",
+		"birt-date": "abt 1730",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Farlov, Skåne, Sweden",
+		"id": "235",
+		"deat-date": "23 apr 1769",
+		"birt-epoch": -7573622400,
+		"deat-epoch": -6333181200
+	},
+	"236": {
+		"deat-ll": [
+			56.07106,
+			14.08535
+		],
+		"name": "Per /Kjerstensson/",
+		"birt-date": "1730",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Farlov, Skåne, Sweden",
+		"id": "236",
+		"deat-date": "10 oct 1778",
+		"birt-epoch": -7573651200,
+		"deat-epoch": -6034496400
+	},
+	"237": {
+		"birt-ll": [
+			56.04731109999999,
+			14.6792508
+		],
+		"deat-ll": [
+			56.07106,
+			14.08535
+		],
+		"name": "Ake /Goransson Lindgren/",
+		"birt-plac": "Mjallby, Blekinge, Sweden",
+		"birt-date": "18 feb 1754",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Farlov, Skåne, Sweden",
+		"id": "237",
+		"deat-date": "18 dec 1816",
+		"birt-epoch": -6812092800,
+		"deat-epoch": -4829385600
+	},
+	"238": {
+		"birt-ll": [
+			56.07106,
+			14.08535
+		],
+		"deat-ll": [
+			56.07106,
+			14.08535
+		],
+		"name": "Else /Nilsdotter/",
+		"birt-plac": "Farlov, Skåne, Sweden",
+		"birt-date": "5 oct 1770",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Farlov, Skåne, Sweden",
+		"id": "238",
+		"deat-date": "2 oct 1832",
+		"birt-epoch": -6287389200,
+		"deat-epoch": -4331120400
+	},
+	"239": {
+		"birt-ll": [
+			37.0474855,
+			-112.5263145
+		],
+		"deat-ll": [
+			34.7814188,
+			-110.0434504
+		],
+		"name": "Lydia /Parce/",
+		"birt-plac": "Kanab, Kane Co., UT",
+		"birt-date": "abt 1887",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Woodruff, Navajo, Arizona, USA",
+		"id": "239",
+		"deat-date": "16 Jan 1966",
+		"birt-epoch": -2619187200,
+		"deat-epoch": -124905600
+	},
+	"240": {
+		"birt-ll": [
+			34.4650374,
+			-110.0912265
+		],
+		"deat-ll": [
+			34.4650374,
+			-110.0912265
+		],
+		"name": "John Henry /Pearce/",
+		"birt-plac": "Taylor, Navajo County, Arizona, USA",
+		"birt-date": "22 Jan 1884",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Taylor, Navajo County, Arizona, USA",
+		"id": "240",
+		"deat-date": "12 Jan 1962",
+		"birt-epoch": -2712067200,
+		"deat-epoch": -251481600
+	},
+	"241": {
+		"p": [
+			"245",
+			"102"
+		],
+		"id": "241",
+		"name": "Tyson /Burg/",
+		"sex": "M"
+	},
+	"242": {
+		"p": [
+			"245",
+			"102"
+		],
+		"id": "242",
+		"name": "Kevin /Burg/",
+		"sex": "M"
+	},
+	"243": {
+		"p": [
+			"245",
+			"102"
+		],
+		"sex": "F",
+		"id": "243",
+		"name": "Shannon /Burg/"
+	},
+	"244": {
+		"p": [
+			"245",
+			"102"
+		],
+		"sex": "F",
+		"id": "244",
+		"name": "Jamie /Burg/"
+	},
+	"245": {
+		"p": [],
+		"id": "245",
+		"name": "James B. /Burg/",
+		"sex": "M"
+	},
+	"246": {
+		"p": [
+			"101"
+		],
+		"id": "246",
+		"name": "/Borgerson/",
+		"sex": "F"
+	},
+	"247": {
+		"p": [
+			"101"
+		],
+		"birt-date": "13 mar 1972",
+		"sex": "F",
+		"id": "247",
+		"name": "Rena D /Borgerson/",
+		"birt-epoch": 69321600
+	},
+	"248": {
+		"p": [],
+		"sex": "M",
+		"id": "248",
+		"name": "Dave /Steiner/"
+	},
+	"249": {
+		"p": [],
+		"sex": "M",
+		"id": "249",
+		"name": "Keith"
+	},
+	"250": {
+		"p": [
+			"252",
+			"244"
+		],
+		"sex": "F",
+		"birt-date": "abt 2002",
+		"id": "250",
+		"name": "Kimberly /Travis/",
+		"birt-epoch": 1009872000
+	},
+	"251": {
+		"p": [
+			"252",
+			"244"
+		],
+		"sex": "F",
+		"birt-date": "about 2001",
+		"id": "251",
+		"name": "Kira /Travis/",
+		"birt-epoch": 978336000
+	},
+	"252": {
+		"p": [],
+		"id": "252",
+		"name": "William /Travis/",
+		"sex": "M"
+	},
+	"253": {
+		"birt-ll": [
+			43.8041334,
+			-120.5542012
+		],
+		"name": "Alta Mary /Bennett/",
+		"birt-plac": "Oregon",
+		"birt-date": "abt 1909",
+		"sex": "F",
+		"p": [
+			"211",
+			"256"
+		],
+		"id": "253",
+		"birt-epoch": -1924963200
+	},
+	"254": {
+		"birt-ll": [
+			43.8041334,
+			-120.5542012
+		],
+		"name": "Edward /Bennett/",
+		"birt-plac": "Oregon",
+		"birt-date": "abt 1912",
+		"sex": "M",
+		"p": [
+			"211",
+			"256"
+		],
+		"id": "254",
+		"birt-epoch": -1830355200
+	},
+	"255": {
+		"birt-ll": [
+			43.8041334,
+			-120.5542012
+		],
+		"name": "Barnard Eldon /Bennett/",
+		"birt-plac": "Oregon",
+		"birt-date": "27 October 1905",
+		"sex": "M",
+		"p": [
+			"211",
+			"256"
+		],
+		"id": "255",
+		"deat-date": "October 1982",
+		"birt-epoch": -2025363600,
+		"deat-epoch": 402303600
+	},
+	"256": {
+		"birt-ll": [
+			43.8041334,
+			-120.5542012
+		],
+		"name": "Mary Melinda /Bennett/",
+		"birt-plac": "Oregon",
+		"birt-date": "13 August 1874",
+		"sex": "F",
+		"p": [],
+		"id": "256",
+		"deat-date": "28 April 1976",
+		"birt-epoch": -3010064400,
+		"deat-epoch": 199522800
+	},
+	"257": {
+		"birt-ll": [
+			37.7749295,
+			-122.4194155
+		],
+		"deat-ll": [
+			33.3061605,
+			-111.8412502
+		],
+		"name": "Georgette /Du Nand/",
+		"birt-plac": "San Francisco, San Mateo, California",
+		"birt-date": "11 October 1923",
+		"sex": "F",
+		"p": [
+			"268",
+			"267"
+		],
+		"deat-plac": "Chandler, Maricopa, Arizona, United States of America",
+		"id": "257",
+		"deat-date": "17 Mar 2000",
+		"birt-epoch": -1458752400,
+		"deat-epoch": 953280000
+	},
+	"258": {
+		"birt-ll": [
+			31.2448234,
+			-92.1450245
+		],
+		"name": "Rachael /Havens/",
+		"birt-plac": "Louisiana",
+		"birt-date": "abt 1873",
+		"sex": "F",
+		"p": [],
+		"id": "258",
+		"birt-epoch": -3060950400
+	},
+	"259": {
+		"birt-ll": [
+			32.3546679,
+			-89.3985283
+		],
+		"name": "Jefferson R /Havens/",
+		"birt-plac": "Mississippi",
+		"birt-date": "abt 1872",
+		"sex": "M",
+		"p": [],
+		"id": "259",
+		"birt-epoch": -3092572800
+	},
+	"260": {
+		"birt-ll": [
+			39.0457549,
+			-76.6412712
+		],
+		"deat-ll": [
+			39.0457549,
+			-76.6412712
+		],
+		"name": "Catherine /Wells/",
+		"birt-plac": "Maryland, USA",
+		"birt-date": "1730",
+		"sex": "F",
+		"p": [
+			"409",
+			"408"
+		],
+		"deat-plac": "Maryland, United States",
+		"id": "260",
+		"deat-date": "28 Jul 1781",
+		"birt-epoch": -7573651200,
+		"deat-epoch": -5946195600
+	},
+	"261": {
+		"birt-ll": [
+			38.883178,
+			-76.723795
+		],
+		"deat-ll": [
+			38.9108325,
+			-75.5276699
+		],
+		"name": "Thomas /Spry/",
+		"birt-plac": "Queen Anne, Prince George's, Maryland, USA",
+		"birt-date": "1723",
+		"sex": "M",
+		"p": [
+			"405",
+			"404"
+		],
+		"deat-plac": "Delaware",
+		"id": "261",
+		"deat-date": "18 Apr 1746",
+		"birt-epoch": -7794576000,
+		"deat-epoch": -7059459600
+	},
+	"262": {
+		"birt-ll": [
+			40.4172871,
+			-82.907123
+		],
+		"deat-ll": [
+			41.1747394,
+			-91.81961489999999
+		],
+		"name": "John /Spry/",
+		"birt-plac": "Ohio",
+		"birt-date": "17 Sep 1823",
+		"sex": "M",
+		"p": [
+			"223",
+			"222"
+		],
+		"deat-plac": "Brighton, Washington, Iowa",
+		"id": "262",
+		"deat-date": "03 Oct 1907",
+		"birt-epoch": -4616499600,
+		"deat-epoch": -1964365200
+	},
+	"263": {
+		"birt-ll": [
+			40.2589455,
+			-74.12399599999999
+		],
+		"deat-ll": [
+			41.0795661,
+			-89.81303559999999
+		],
+		"name": "Sarah /Bell/",
+		"birt-plac": "New Jersey, Monmouth, New Jersey, United States",
+		"birt-date": "13 Feb 1770",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Stark Co., Illinois",
+		"id": "263",
+		"deat-date": "Jun 1856",
+		"birt-epoch": -6307603200,
+		"deat-epoch": -3584365200
+	},
+	"264": {
+		"birt-ll": [
+			40.5687141,
+			-74.73766189999999
+		],
+		"deat-ll": [
+			41.018926,
+			-89.9270538
+		],
+		"name": "Cornelius /Aten/",
+		"birt-plac": "Readington, Somerset, New Jersey, USA",
+		"birt-date": "18 Jan 1766",
+		"sex": "M",
+		"p": [
+			"411",
+			"410"
+		],
+		"deat-plac": "West Jersey, Stark, Illinois",
+		"id": "264",
+		"deat-date": "21 Mar 1857",
+		"birt-epoch": -6436080000,
+		"deat-epoch": -3559050000
+	},
+	"265": {
+		"birt-ll": [
+			36.6342288,
+			-85.3927424
+		],
+		"deat-ll": [
+			34.5381481,
+			-96.21860919999999
+		],
+		"name": "Martha Florence /Spears/",
+		"birt-plac": "Peytonsburg, Cumberland, Kentucky, USA",
+		"birt-date": "25 Mar 1889",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Coalgate, Coal, Oklahoma, USA",
+		"id": "265",
+		"deat-date": "19 Apr 1993",
+		"birt-epoch": -2548861200,
+		"deat-epoch": 735202800
+	},
+	"266": {
+		"birt-ll": [
+			36.7776446,
+			-85.35496499999999
+		],
+		"deat-ll": [
+			34.5381481,
+			-96.21860919999999
+		],
+		"name": "Joe Godsby /Spears/",
+		"birt-plac": "Kettle Creek Precinct, Cumberland County, Kentucky, USA",
+		"birt-date": "4 July 1870",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Coalgate, Coal County, Oklahoma, USA",
+		"id": "266",
+		"deat-date": "29 Nov 1948",
+		"birt-epoch": -3139750800,
+		"deat-epoch": -665510400
+	},
+	"267": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"name": "Minnie V /Dunand/",
+		"birt-plac": "California",
+		"birt-date": "abt 1884",
+		"sex": "F",
+		"p": [],
+		"id": "267",
+		"birt-epoch": -2713881600
+	},
+	"268": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"name": "George W /Dunand/",
+		"birt-plac": "California",
+		"birt-date": "abt 1884",
+		"sex": "M",
+		"p": [],
+		"id": "268",
+		"birt-epoch": -2713881600
+	},
+	"269": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"name": "Aubrey J /Dunand/",
+		"birt-plac": "California",
+		"birt-date": "abt 1909",
+		"sex": "F",
+		"p": [
+			"268",
+			"267"
+		],
+		"id": "269",
+		"birt-epoch": -1924963200
+	},
+	"270": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"name": "Florence M /Dunand/",
+		"birt-plac": "California",
+		"birt-date": "abt 1913",
+		"sex": "F",
+		"p": [
+			"268",
+			"267"
+		],
+		"id": "270",
+		"birt-epoch": -1798732800
+	},
+	"271": {
+		"birt-ll": [
+			36.778261,
+			-119.4179324
+		],
+		"deat-ll": [
+			39.2615606,
+			-121.0160594
+		],
+		"name": "Fredrick Earl /Hoffler,/ Jr.",
+		"birt-plac": "California, USA",
+		"birt-date": "17 Nov 1919",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Nevada City, Nevada County, California, USA",
+		"id": "271",
+		"deat-date": "08 Sep 1971",
+		"birt-epoch": -1581782400,
+		"deat-epoch": 53161200
+	},
+	"272": {
+		"p": [],
+		"birt-date": "abt 1927",
+		"sex": "M",
+		"id": "272",
+		"name": "Wilbur M /Ruth/",
+		"birt-epoch": -1356969600
+	},
+	"273": {
+		"birt-ll": [
+			36.6342288,
+			-85.3927424
+		],
+		"deat-ll": [
+			33.9924186,
+			-96.39712329999999
+		],
+		"name": "Ida Eunice /Spears/",
+		"birt-plac": "Peytonsburg, Cumberland County, Kentucky, USA",
+		"birt-date": "18 Mar 1916",
+		"sex": "F",
+		"p": [
+			"266",
+			"265"
+		],
+		"deat-plac": "Durant, Bryan County, Oklahoma, USA",
+		"id": "273",
+		"deat-date": "9 Apr 2012",
+		"birt-epoch": -1697475600,
+		"deat-epoch": 1333954800
+	},
+	"274": {
+		"birt-ll": [
+			36.6342288,
+			-85.3927424
+		],
+		"deat-ll": [
+			36.6342288,
+			-85.3927424
+		],
+		"name": "George Payne /Spears/",
+		"birt-plac": "Peytonsburg, Cumberland County, Kentucky, USA",
+		"birt-date": "12 Jun 1914",
+		"sex": "M",
+		"p": [
+			"266",
+			"265"
+		],
+		"deat-plac": "Peytonsburg, Cumberland County, Kentucky, USA",
+		"id": "274",
+		"deat-date": "30 Aug 1915",
+		"birt-epoch": -1753203600,
+		"deat-epoch": -1714842000
+	},
+	"275": {
+		"birt-ll": [
+			36.6342288,
+			-85.3927424
+		],
+		"deat-ll": [
+			34.5381481,
+			-96.21860919999999
+		],
+		"name": "Eular Paul /Spears/",
+		"birt-plac": "Peytonsburg, Cumberland, Kentucky, United States",
+		"birt-date": "28 Dec 1911",
+		"sex": "M",
+		"p": [
+			"266",
+			"265"
+		],
+		"deat-plac": "Coalgate, Coal County, Oklahoma, USA",
+		"id": "275",
+		"deat-date": "27 Jun 2004",
+		"birt-epoch": -1830700800,
+		"deat-epoch": 1088319600
+	},
+	"276": {
+		"birt-ll": [
+			36.6342288,
+			-85.3927424
+		],
+		"deat-ll": [
+			37.9577016,
+			-121.2907796
+		],
+		"name": "Hall /Spears/",
+		"birt-plac": "Peytonsburg, Cumberland County, Kentucky, USA",
+		"birt-date": "28 Feb 1918",
+		"sex": "M",
+		"p": [
+			"266",
+			"265"
+		],
+		"deat-plac": "Stockton, San Joaquin County, California, USA",
+		"id": "276",
+		"deat-date": "6 Jan 1997",
+		"birt-epoch": -1635955200,
+		"deat-epoch": 852537600
+	},
+	"277": {
+		"birt-ll": [
+			36.6342288,
+			-85.3927424
+		],
+		"deat-ll": [
+			35.4975625,
+			-97.2689212
+		],
+		"name": "Ella Mae /Spears/",
+		"birt-plac": "Peytonsburg, Cumberland County, Kentucky, USA",
+		"birt-date": "9 Sep 1925",
+		"sex": "F",
+		"p": [
+			"266",
+			"265"
+		],
+		"deat-plac": "Choctaw, Oklahoma County, Oklahoma, USA",
+		"id": "277",
+		"deat-date": "19 Feb 2004",
+		"birt-epoch": -1398358800,
+		"deat-epoch": 1077177600
+	},
+	"278": {
+		"birt-ll": [
+			34.9622797,
+			-99.3806406
+		],
+		"deat-ll": [
+			34.5381481,
+			-96.21860919999999
+		],
+		"name": "Harmon Joe /Spears/",
+		"birt-plac": "Granite, Greer County, Oklahoma, USA",
+		"birt-date": "31 May 1927",
+		"sex": "M",
+		"p": [
+			"266",
+			"265"
+		],
+		"deat-plac": "Coalgate, Coal County, Oklahoma, USA",
+		"id": "278",
+		"deat-date": "13 Oct 1993",
+		"birt-epoch": -1344013200,
+		"deat-epoch": 750495600
+	},
+	"279": {
+		"birt-ll": [
+			34.7685043,
+			-96.663812
+		],
+		"deat-ll": [
+			34.5381481,
+			-96.21860919999999
+		],
+		"name": "Billy Darius /Spears/",
+		"birt-plac": "Pontotoc County, Oklahoma, USA",
+		"birt-date": "16 Nov 1932",
+		"sex": "M",
+		"p": [
+			"266",
+			"265"
+		],
+		"deat-plac": "Coalgate, Coal County, Oklahoma, USA",
+		"id": "279",
+		"deat-date": "29 Mar 2009",
+		"birt-epoch": -1171555200,
+		"deat-epoch": 1238310000
+	},
+	"280": {
+		"birt-ll": [
+			36.6342288,
+			-85.3927424
+		],
+		"deat-ll": [
+			34.6525901,
+			-96.5261161
+		],
+		"name": "Emily Annice /Spears/",
+		"birt-plac": "Peytonsburg, Cumberland County, Kentucky, USA",
+		"birt-date": "29 Mar 1921",
+		"sex": "F",
+		"p": [
+			"266",
+			"265"
+		],
+		"deat-plac": "Stonewall, Pontotoc County, Oklahoma, USA",
+		"id": "280",
+		"deat-date": "8 Mar 1994",
+		"birt-epoch": -1538758800,
+		"deat-epoch": 763113600
+	},
+	"281": {
+		"p": [
+			"282",
+			"90"
+		],
+		"id": "281",
+		"name": "Robert /Ornellas/",
+		"sex": "M"
+	},
+	"282": {
+		"p": [],
+		"id": "282",
+		"name": "John /Ornellas/",
+		"sex": "M"
+	},
+	"283": {
+		"birt-ll": [
+			39.36892890000001,
+			-91.8190537
+		],
+		"deat-ll": [
+			34.0633443,
+			-117.6508876
+		],
+		"name": "William R. /Lomasters/",
+		"birt-plac": "Santa Fe, Monroe, Missouri, USA",
+		"birt-date": "28 Mar 1876",
+		"sex": "M",
+		"p": [
+			"50",
+			"49"
+		],
+		"deat-plac": "Ontario, San Bernardino, California, United States",
+		"id": "283",
+		"deat-date": "22 Jan 1963",
+		"birt-epoch": -2958829200,
+		"deat-epoch": -219081600
+	},
+	"284": {
+		"birt-ll": [
+			37.09024,
+			-95.712891
+		],
+		"deat-ll": [
+			37.09024,
+			-95.712891
+		],
+		"name": "Cenora /Lomasters/",
+		"birt-plac": "USA",
+		"birt-date": "Feb. 17,1874",
+		"sex": "F",
+		"p": [
+			"50",
+			"49"
+		],
+		"deat-plac": "USA",
+		"id": "284",
+		"deat-date": "July 19,1881",
+		"birt-epoch": -3025353600,
+		"deat-epoch": -2791299600
+	},
+	"285": {
+		"birt-ll": [
+			29.6185669,
+			-95.5377215
+		],
+		"deat-ll": [
+			40.4769606,
+			-93.0032614
+		],
+		"name": "James E. /Lomasters/",
+		"birt-plac": "Missouri City, Fort Bend, Texas, USA",
+		"birt-date": "1868",
+		"sex": "M",
+		"p": [
+			"50",
+			"49"
+		],
+		"deat-plac": "Unionville, Putnam, Missouri, USA",
+		"id": "285",
+		"deat-date": "14 Oct 1938",
+		"birt-epoch": -3218832000,
+		"deat-epoch": -985107600
+	},
+	"286": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "John /Lomasters/",
+		"birt-plac": "Missouri",
+		"birt-date": "abt 1870",
+		"sex": "M",
+		"p": [
+			"50",
+			"49"
+		],
+		"id": "286",
+		"birt-epoch": -3155644800
+	},
+	"287": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"deat-ll": [
+			37.09024,
+			-95.712891
+		],
+		"name": "George /Lomasters/",
+		"birt-plac": "Missouri",
+		"birt-date": "abt 1859",
+		"sex": "M",
+		"p": [
+			"50",
+			"49"
+		],
+		"deat-plac": "United States",
+		"id": "287",
+		"birt-epoch": -3502800000
+	},
+	"288": {
+		"birt-ll": [
+			39.36892890000001,
+			-91.8190537
+		],
+		"deat-ll": [
+			35.6038323,
+			-97.35165579999999
+		],
+		"name": "Mary /Lomasters/",
+		"birt-plac": "Santa Fe, Monroe, Missouri, USA",
+		"birt-date": "abt 1873",
+		"sex": "F",
+		"p": [
+			"50",
+			"49"
+		],
+		"deat-plac": "Oklahoma City, Oklahoma, Oklahoma, USA",
+		"id": "288",
+		"deat-date": "10 Jul 1956",
+		"birt-epoch": -3060950400,
+		"deat-epoch": -425322000
+	},
+	"289": {
+		"birt-ll": [
+			29.6185669,
+			-95.5377215
+		],
+		"name": "Lewis /Lomasters/",
+		"birt-plac": "Missouri City, Fort Bend, Texas, United States",
+		"birt-date": "1880",
+		"sex": "M",
+		"p": [
+			"50",
+			"49"
+		],
+		"id": "289",
+		"birt-epoch": -2840140800
+	},
+	"290": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "John /Uptegrove/",
+		"birt-plac": "Missouri",
+		"birt-date": "Jun 1861",
+		"sex": "M",
+		"p": [
+			"50",
+			"49"
+		],
+		"id": "290",
+		"birt-epoch": -3426598800
+	},
+	"291": {
+		"birt-ll": [
+			37.09024,
+			-95.712891
+		],
+		"deat-ll": [
+			37.09024,
+			-95.712891
+		],
+		"name": "Minnie Bell /LaMaster/",
+		"birt-plac": "United States",
+		"birt-date": "29 Jan 1878",
+		"sex": "F",
+		"p": [
+			"50",
+			"49"
+		],
+		"deat-plac": "United States",
+		"id": "291",
+		"deat-date": "25 Feb 1878",
+		"birt-epoch": -2900764800,
+		"deat-epoch": -2898432000
+	},
+	"292": {
+		"birt-ll": [
+			39.6536529,
+			-91.7346056
+		],
+		"deat-ll": [
+			39.6536529,
+			-91.7346056
+		],
+		"name": "Cinderella /Bybee/",
+		"birt-plac": "Monroe City, Monroe, Missouri, United States",
+		"birt-date": "1823",
+		"sex": "F",
+		"p": [
+			"314",
+			"313"
+		],
+		"deat-plac": "Monroe City, Monroe, Missouri, United States",
+		"id": "292",
+		"deat-date": "1884",
+		"birt-epoch": -4638902400,
+		"deat-epoch": -2713910400
+	},
+	"293": {
+		"birt-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"deat-ll": [
+			39.6536529,
+			-91.7346056
+		],
+		"name": "James /Williams/",
+		"birt-plac": "Clark, Kentucky, United States",
+		"birt-date": "6 Jan 1822",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Monroe City, Monroe, Missouri, United States",
+		"id": "293",
+		"deat-date": "1884",
+		"birt-epoch": -4669977600,
+		"deat-epoch": -2713910400
+	},
+	"294": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Mary L /Williams/",
+		"birt-plac": "Missouri",
+		"birt-date": "1849",
+		"sex": "F",
+		"p": [
+			"293",
+			"292"
+		],
+		"id": "294",
+		"birt-epoch": -3818361600
+	},
+	"295": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "James S /Williams/",
+		"birt-plac": "Missouri",
+		"birt-date": "1847",
+		"sex": "M",
+		"p": [
+			"293",
+			"292"
+		],
+		"id": "295",
+		"birt-epoch": -3881520000
+	},
+	"296": {
+		"birt-ll": [
+			40.1836505,
+			-93.17796589999999
+		],
+		"deat-ll": [
+			40.5580945,
+			-90.03511669999999
+		],
+		"name": "Barbara Allen /Williams/",
+		"birt-plac": "Sullivan Co, MO",
+		"birt-date": "16 Apr 1864",
+		"sex": "F",
+		"p": [
+			"293",
+			"292"
+		],
+		"deat-plac": "Canton, Fulton, Illinois",
+		"id": "296",
+		"deat-date": "3 Aug 1930",
+		"birt-epoch": -3335878800,
+		"deat-epoch": -1243789200
+	},
+	"297": {
+		"birt-ll": [
+			35.20105,
+			-91.8318334
+		],
+		"name": "Frank /Williams/",
+		"birt-plac": "Arkansas, United States",
+		"birt-date": "1854",
+		"sex": "M",
+		"p": [
+			"293",
+			"292"
+		],
+		"id": "297",
+		"birt-epoch": -3660595200
+	},
+	"298": {
+		"birt-ll": [
+			39.5508815,
+			-92.0665197
+		],
+		"deat-ll": [
+			43.8041334,
+			-120.5542012
+		],
+		"name": "William /Williams/",
+		"birt-plac": ",Monroe,Missouri,USA",
+		"birt-date": "ABT. 1853",
+		"sex": "M",
+		"p": [
+			"293",
+			"292"
+		],
+		"deat-plac": "Oregon",
+		"id": "298",
+		"deat-date": "1865",
+		"birt-epoch": -3692102400,
+		"deat-epoch": -3313440000
+	},
+	"299": {
+		"birt-ll": [
+			39.5508815,
+			-92.0665197
+		],
+		"name": "Mary G. /Williams/",
+		"birt-plac": ",Monroe,Missouri,USA",
+		"birt-date": "ABT. 1854",
+		"sex": "F",
+		"p": [
+			"293",
+			"292"
+		],
+		"id": "299",
+		"deat-date": "ABT 1858",
+		"birt-epoch": -3660566400,
+		"deat-epoch": -3534336000
+	},
+	"300": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Hannah /Williams/",
+		"birt-plac": "Missouri",
+		"birt-date": "1860",
+		"sex": "F",
+		"p": [
+			"293",
+			"292"
+		],
+		"id": "300",
+		"birt-epoch": -3471292800
+	},
+	"301": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Peny C /Williams/",
+		"birt-plac": "Missouri, United States",
+		"birt-date": "1852",
+		"sex": "F",
+		"p": [
+			"293",
+			"292"
+		],
+		"id": "301",
+		"birt-epoch": -3723753600
+	},
+	"302": {
+		"birt-ll": [
+			39.5508815,
+			-92.0665197
+		],
+		"name": "John J. /Williams/",
+		"birt-plac": ",Monroe,Missouri,USA",
+		"birt-date": "ABT. 1858",
+		"sex": "M",
+		"p": [
+			"293",
+			"292"
+		],
+		"id": "302",
+		"deat-date": "ABT. 1867",
+		"birt-epoch": -3534336000,
+		"deat-epoch": -3250339200
+	},
+	"303": {
+		"birt-ll": [
+			39.5508815,
+			-92.0665197
+		],
+		"name": "Barbara /Williams/",
+		"birt-plac": ", Monroe, Missouri, USA",
+		"birt-date": "1850",
+		"sex": "F",
+		"p": [
+			"293",
+			"292"
+		],
+		"id": "303",
+		"deat-date": "1858",
+		"birt-epoch": -3786825600,
+		"deat-epoch": -3534364800
+	},
+	"304": {
+		"birt-ll": [
+			39.5508815,
+			-92.0665197
+		],
+		"name": "Hannah /Williams/",
+		"birt-plac": ", Monroe, Missouri, USA",
+		"birt-date": "1847",
+		"sex": "F",
+		"p": [
+			"293",
+			"292"
+		],
+		"id": "304",
+		"birt-epoch": -3881520000
+	},
+	"305": {
+		"birt-ll": [
+			39.6536529,
+			-91.7346056
+		],
+		"deat-ll": [
+			43.8041334,
+			-120.5542012
+		],
+		"name": "David /Williams/",
+		"birt-plac": "Monroe City, Monroe, Missouri, United States",
+		"birt-date": "1851",
+		"sex": "M",
+		"p": [
+			"293",
+			"292"
+		],
+		"deat-plac": ", , Oregon, USA",
+		"id": "305",
+		"deat-date": "1865",
+		"birt-epoch": -3755289600,
+		"deat-epoch": -3313440000
+	},
+	"306": {
+		"birt-ll": [
+			39.5508815,
+			-92.0665197
+		],
+		"deat-ll": [
+			38.2081045,
+			-91.16042069999999
+		],
+		"name": "James R /Williams/",
+		"birt-plac": ", Monroe, Missouri, USA",
+		"birt-date": "1844",
+		"sex": "M",
+		"p": [
+			"293",
+			"292"
+		],
+		"deat-plac": "Sullivan, Missouri, United States",
+		"id": "306",
+		"deat-date": "12 Jun 1932",
+		"birt-epoch": -3976214400,
+		"deat-epoch": -1185123600
+	},
+	"307": {
+		"birt-ll": [
+			39.5508815,
+			-92.0665197
+		],
+		"name": "Minnie /Williams/",
+		"birt-plac": ", Monroe, Missouri, USA",
+		"birt-date": "1856",
+		"sex": "F",
+		"p": [
+			"293",
+			"292"
+		],
+		"id": "307",
+		"birt-epoch": -3597523200
+	},
+	"308": {
+		"birt-ll": [
+			39.6536529,
+			-91.7346056
+		],
+		"name": "Julia /Williams/",
+		"birt-plac": "Monroe City, Monroe, Missouri, United States",
+		"birt-date": "1857",
+		"sex": "F",
+		"p": [
+			"293",
+			"292"
+		],
+		"id": "308",
+		"deat-date": "1883",
+		"birt-epoch": -3565900800,
+		"deat-epoch": -2745446400
+	},
+	"309": {
+		"birt-ll": [
+			39.5508815,
+			-92.0665197
+		],
+		"name": "Martillus /Williams/",
+		"birt-plac": ", Monroe, Missouri, USA",
+		"birt-date": "1860",
+		"sex": "M",
+		"p": [
+			"293",
+			"292"
+		],
+		"id": "309",
+		"deat-date": "1884",
+		"birt-epoch": -3471292800,
+		"deat-epoch": -2713910400
+	},
+	"310": {
+		"birt-ll": [
+			39.5508815,
+			-92.0665197
+		],
+		"name": "Minerva /Williams/",
+		"birt-plac": ", Monroe, Missouri, USA",
+		"birt-date": "1848",
+		"sex": "F",
+		"p": [
+			"293",
+			"292"
+		],
+		"id": "310",
+		"birt-epoch": -3849984000
+	},
+	"311": {
+		"birt-ll": [
+			39.5508815,
+			-92.0665197
+		],
+		"deat-ll": [
+			40.3917075,
+			-90.0009491
+		],
+		"name": "Evaline /Williams/",
+		"birt-plac": ", Monroe, Missouri, USA",
+		"birt-date": "1845",
+		"sex": "F",
+		"p": [
+			"293",
+			"292"
+		],
+		"deat-plac": "Liverpool, Fulton, Illinois",
+		"id": "311",
+		"deat-date": "28 Dec 1944",
+		"birt-epoch": -3944592000,
+		"deat-epoch": -789235200
+	},
+	"312": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Doc /Williams/",
+		"birt-plac": "Missouri, United States",
+		"birt-date": "1866",
+		"sex": "M",
+		"p": [
+			"293",
+			"292"
+		],
+		"id": "312",
+		"birt-epoch": -3281904000
+	},
+	"313": {
+		"birt-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"deat-ll": [
+			39.2064126,
+			-92.6983868
+		],
+		"name": "Polly /Adams/",
+		"birt-plac": "Clark, Kentucky, United States",
+		"birt-date": "1795",
+		"sex": "F",
+		"p": [
+			"322",
+			"321"
+		],
+		"deat-plac": "Howard, Missouri, United States",
+		"id": "313",
+		"deat-date": "1828",
+		"birt-epoch": -5522428800,
+		"deat-epoch": -4481136000
+	},
+	"314": {
+		"birt-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"deat-ll": [
+			39.5508815,
+			-92.0665197
+		],
+		"name": "Dr John Solomon /Bybee/",
+		"birt-plac": "Clark County, KY",
+		"birt-date": "27 Dec 1792",
+		"sex": "M",
+		"p": [],
+		"deat-plac": ", Monroe, Missouri, USA",
+		"id": "314",
+		"deat-date": "16 December 1861",
+		"birt-epoch": -5585904000,
+		"deat-epoch": -3409488000
+	},
+	"315": {
+		"birt-ll": [
+			39.2180922,
+			-92.5307358
+		],
+		"name": "Elizabeth /Bybee/",
+		"birt-plac": "Bunkers Hill, Howard, Missouri, United States",
+		"birt-date": "1825",
+		"sex": "F",
+		"p": [
+			"314",
+			"313"
+		],
+		"id": "315",
+		"birt-epoch": -4575744000
+	},
+	"316": {
+		"birt-ll": [
+			37.990079,
+			-84.17965029999999
+		],
+		"deat-ll": [
+			45.4667629,
+			-122.7109452
+		],
+		"name": "James Francis /Bybee/",
+		"birt-plac": "Winchester, Clark, Kentucky, United States",
+		"birt-date": "16 Jun 1818",
+		"sex": "M",
+		"p": [
+			"314",
+			"313"
+		],
+		"deat-plac": "Multnomah, Multnomah, Oregon, United States",
+		"id": "316",
+		"deat-date": "24 Jan 1901",
+		"birt-epoch": -4782301200,
+		"deat-epoch": -2175436800
+	},
+	"317": {
+		"birt-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"deat-ll": [
+			42.31345839999999,
+			-122.9669865
+		],
+		"name": "William /Bybee/",
+		"birt-plac": "Clark, Kentucky, United States",
+		"birt-date": "1820",
+		"sex": "M",
+		"p": [
+			"314",
+			"313"
+		],
+		"deat-plac": "Jacksonville, Jackson, Oregon, United States",
+		"id": "317",
+		"deat-date": "4 Apr 1898",
+		"birt-epoch": -4733596800,
+		"deat-epoch": -2264000400
+	},
+	"318": {
+		"birt-ll": [
+			29.6185669,
+			-95.5377215
+		],
+		"name": "Sarah Elizabeth /Bybee/",
+		"birt-plac": "Missouri City, Fort Bend, Texas, United States",
+		"birt-date": "May 23 1826",
+		"sex": "F",
+		"p": [
+			"314",
+			"313"
+		],
+		"id": "318",
+		"deat-date": "Aug 10 1880",
+		"birt-epoch": -4531914000,
+		"deat-epoch": -2820934800
+	},
+	"319": {
+		"birt-ll": [
+			39.2064126,
+			-92.6983868
+		],
+		"deat-ll": [
+			39.1730652,
+			-91.887271
+		],
+		"name": "Martellus /Bybee/",
+		"birt-plac": "Howard, Missouri, United States",
+		"birt-date": "4 Apr 1821",
+		"sex": "M",
+		"p": [
+			"314",
+			"313"
+		],
+		"deat-plac": "Mexico, Audrain, Missouri, United States",
+		"id": "319",
+		"deat-date": "27 Apr 1903",
+		"birt-epoch": -4693914000,
+		"deat-epoch": -2104333200
+	},
+	"320": {
+		"birt-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"name": "Elizabeth Jane /Bybee/",
+		"birt-plac": "Clark, Kentucky, United States",
+		"birt-date": "1819",
+		"sex": "F",
+		"p": [
+			"314",
+			"313"
+		],
+		"id": "320",
+		"deat-date": "1920",
+		"birt-epoch": -4765132800,
+		"deat-epoch": -1577923200
+	},
+	"321": {
+		"birt-ll": [
+			38.2454106,
+			-78.1108342
+		],
+		"deat-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"name": "Elizabeth /Bledsoe/",
+		"birt-plac": ", Orange, Virginia, USA",
+		"birt-date": "1772",
+		"sex": "F",
+		"p": [
+			"338",
+			"337"
+		],
+		"deat-plac": "Clark, Kentucky, United States",
+		"id": "321",
+		"deat-date": "26 Sep 1833",
+		"birt-epoch": -6248275200,
+		"deat-epoch": -4300102800
+	},
+	"322": {
+		"birt-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"deat-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"name": "John /Adams/",
+		"birt-plac": "of, Clark, Kentucky, USA",
+		"birt-date": "1768",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Clark, Kentucky, United States",
+		"id": "322",
+		"deat-date": "21 Sep 1825",
+		"birt-epoch": -6374505600,
+		"deat-epoch": -4552995600
+	},
+	"323": {
+		"birt-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"name": "John /Adams - 02/",
+		"birt-plac": ", Clark, Kentucky, USA",
+		"birt-date": "22 Feb 1795",
+		"sex": "M",
+		"p": [
+			"322",
+			"321"
+		],
+		"id": "323",
+		"birt-epoch": -5517907200
+	},
+	"324": {
+		"birt-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"name": "Lucidra (Lucy) /Adams - 02/",
+		"birt-plac": ", Clark, Kentucky, USA",
+		"birt-date": "1811",
+		"sex": "F",
+		"p": [
+			"322",
+			"321"
+		],
+		"id": "324",
+		"birt-epoch": -5017593600
+	},
+	"325": {
+		"birt-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"name": "Sydney /Adams - 02/",
+		"birt-plac": ", Clark, Kentucky, USA",
+		"birt-date": "4 Nov 1806",
+		"sex": "M",
+		"p": [
+			"322",
+			"321"
+		],
+		"id": "325",
+		"birt-epoch": -5148806400
+	},
+	"326": {
+		"birt-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"name": "Lowery /Adams - 02/",
+		"birt-plac": ", Clark, Kentucky, USA",
+		"birt-date": "7 Jan 1808",
+		"sex": "M",
+		"p": [
+			"322",
+			"321"
+		],
+		"id": "326",
+		"birt-epoch": -5111740800
+	},
+	"327": {
+		"birt-ll": [
+			38.2009055,
+			-84.87328350000001
+		],
+		"deat-ll": [
+			37.8280909,
+			-86.761749
+		],
+		"name": "David /Adams - 02/",
+		"birt-plac": "Frankfort, Franklin, Kentucky, United States",
+		"birt-date": "9 Sep 1800",
+		"sex": "M",
+		"p": [
+			"322",
+			"321"
+		],
+		"deat-plac": "Hancock, Kentucky, United States",
+		"id": "327",
+		"deat-date": "7 Apr 1894",
+		"birt-epoch": -5342950800,
+		"deat-epoch": -2389971600
+	},
+	"328": {
+		"birt-ll": [
+			36.1347943,
+			-82.82097399999999
+		],
+		"deat-ll": [
+			35.4770574,
+			-83.3205859
+		],
+		"name": "Johnson /Adams - 02/",
+		"birt-plac": "Greene, Tennessee, United States",
+		"birt-date": "5 Nov 1785",
+		"sex": "M",
+		"p": [
+			"322",
+			"321"
+		],
+		"deat-plac": "Cherokee, North Carolina, United States",
+		"id": "328",
+		"deat-date": "1853",
+		"birt-epoch": -5811325200,
+		"deat-epoch": -3692131200
+	},
+	"329": {
+		"birt-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"deat-ll": [
+			37.5319906,
+			-87.2580538
+		],
+		"name": "Bledsoe /Adams/",
+		"birt-plac": "Clark, Kentucky, United States",
+		"birt-date": "1798",
+		"sex": "M",
+		"p": [
+			"322",
+			"321"
+		],
+		"deat-plac": "Rumsey, McLean, Kentucky, United States",
+		"id": "329",
+		"deat-date": "1866",
+		"birt-epoch": -5427734400,
+		"deat-epoch": -3281904000
+	},
+	"330": {
+		"birt-ll": [
+			37.4315734,
+			-78.6568942
+		],
+		"name": "Margaret /Adams/",
+		"birt-plac": "Virginia, United States",
+		"birt-date": "1800",
+		"sex": "F",
+		"p": [
+			"322",
+			"321"
+		],
+		"id": "330",
+		"birt-epoch": -5364662400
+	},
+	"331": {
+		"birt-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"deat-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Elizabeth /Adams/",
+		"birt-plac": "Clark, Kentucky, United States",
+		"birt-date": "1794",
+		"sex": "F",
+		"p": [
+			"322",
+			"321"
+		],
+		"deat-plac": "Missouri, United States",
+		"id": "331",
+		"deat-date": "1822",
+		"birt-epoch": -5553964800,
+		"deat-epoch": -4670438400
+	},
+	"332": {
+		"birt-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"deat-ll": [
+			37.8393332,
+			-84.2700179
+		],
+		"name": "William /Adams/",
+		"birt-plac": "Clark, Kentucky, United States",
+		"birt-date": "15 Nov 1790",
+		"sex": "M",
+		"p": [
+			"322",
+			"321"
+		],
+		"deat-plac": ", , Kentucky, USA",
+		"id": "332",
+		"deat-date": "1860",
+		"birt-epoch": -5652691200,
+		"deat-epoch": -3471292800
+	},
+	"333": {
+		"birt-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"name": "Nancy /Adams/",
+		"birt-plac": "Clark, Kentucky, United States",
+		"birt-date": "1796",
+		"sex": "F",
+		"p": [
+			"322",
+			"321"
+		],
+		"id": "333",
+		"deat-date": "1887",
+		"birt-epoch": -5490892800,
+		"deat-epoch": -2619216000
+	},
+	"334": {
+		"birt-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"deat-ll": [
+			36.7772014,
+			-86.6207943
+		],
+		"name": "Frances /Adams/",
+		"birt-plac": "Clark, Kentucky, United States",
+		"birt-date": "15 Mar 1788",
+		"sex": "F",
+		"p": [
+			"322",
+			"321"
+		],
+		"deat-plac": "Simpson, Kentucky, United States",
+		"id": "334",
+		"deat-date": "1860",
+		"birt-epoch": -5736934800,
+		"deat-epoch": -3471292800
+	},
+	"335": {
+		"birt-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"name": "Travis /Adams/",
+		"birt-plac": "Clark, Kentucky, United States",
+		"birt-date": "1804",
+		"sex": "M",
+		"p": [
+			"322",
+			"321"
+		],
+		"id": "335",
+		"birt-epoch": -5238518400
+	},
+	"336": {
+		"birt-ll": [
+			37.7143001,
+			-84.3121264
+		],
+		"deat-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"name": "Jane /Adams/",
+		"birt-plac": "Madison, Kentucky, United States",
+		"birt-date": "3 Nov 1801",
+		"sex": "F",
+		"p": [
+			"322",
+			"321"
+		],
+		"deat-plac": "Clark, Kentucky, United States",
+		"id": "336",
+		"deat-date": "10 Jan 1876",
+		"birt-epoch": -5306659200,
+		"deat-epoch": -2965564800
+	},
+	"337": {
+		"birt-ll": [
+			38.2454106,
+			-78.1108342
+		],
+		"deat-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"name": "Elizabeth Isabell /White - 02/",
+		"birt-plac": "Orange, Virginia, United States",
+		"birt-date": "13 Jan 1760",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Clark, Kentucky, United States",
+		"id": "337",
+		"deat-date": "1814",
+		"birt-epoch": -6625900800,
+		"deat-epoch": -4922899200
+	},
+	"338": {
+		"birt-ll": [
+			38.2454106,
+			-78.1108342
+		],
+		"deat-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"name": "John /Bledsoe/",
+		"birt-plac": "Orange, Virginia, United States",
+		"birt-date": "1752",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Clark, Kentucky, United States",
+		"id": "338",
+		"deat-date": "1 Sep 1800",
+		"birt-epoch": -6879427200,
+		"deat-epoch": -5343642000
+	},
+	"339": {
+		"birt-ll": [
+			37.4315734,
+			-78.6568942
+		],
+		"deat-ll": [
+			38.2526647,
+			-85.7584557
+		],
+		"name": "John /Bledsoe/",
+		"birt-plac": "VA",
+		"birt-date": "1793",
+		"sex": "M",
+		"p": [
+			"338",
+			"337"
+		],
+		"deat-plac": "Louisville, Jefferson, Kentucky, United States",
+		"id": "339",
+		"deat-date": "1836",
+		"birt-epoch": -5585500800,
+		"deat-epoch": -4228675200
+	},
+	"340": {
+		"birt-ll": [
+			38.2454106,
+			-78.1108342
+		],
+		"deat-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"name": "Sally /Bledsoe/",
+		"birt-plac": "Orange, Orange, Virginia, United States",
+		"birt-date": "15 Apr 1789",
+		"sex": "F",
+		"p": [
+			"338",
+			"337"
+		],
+		"deat-plac": "Clark, Kentucky, United States",
+		"id": "340",
+		"deat-date": "25 Nov 1864",
+		"birt-epoch": -5702720400,
+		"deat-epoch": -3316608000
+	},
+	"341": {
+		"birt-ll": [
+			38.2454106,
+			-78.1108342
+		],
+		"deat-ll": [
+			37.959945,
+			-84.14351359999999
+		],
+		"name": "William /Bledsoe/",
+		"birt-plac": "Orange, Virginia, United States",
+		"birt-date": "1789",
+		"sex": "M",
+		"p": [
+			"338",
+			"337"
+		],
+		"deat-plac": "Clark, Kentucky, United States",
+		"id": "341",
+		"deat-date": "1860",
+		"birt-epoch": -5711731200,
+		"deat-epoch": -3471292800
+	},
+	"342": {
+		"birt-ll": [
+			37.4315734,
+			-78.6568942
+		],
+		"deat-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "REUBEN THOMAS /BLEDSOE JR/",
+		"birt-plac": ", , Virginia, USA",
+		"birt-date": "1787",
+		"sex": "M",
+		"p": [
+			"338",
+			"337"
+		],
+		"deat-plac": ", , Missouri, USA",
+		"id": "342",
+		"birt-epoch": -5774889600
+	},
+	"343": {
+		"birt-ll": [
+			38.2454106,
+			-78.1108342
+		],
+		"deat-ll": [
+			37.990079,
+			-84.17965029999999
+		],
+		"name": "Thomas /Bledsoe/",
+		"birt-plac": "Orange, Virginia, United States",
+		"birt-date": "1774",
+		"sex": "M",
+		"p": [
+			"338",
+			"337"
+		],
+		"deat-plac": "Winchester, Clark, Kentucky, United States",
+		"id": "343",
+		"deat-date": "16 Nov 1830",
+		"birt-epoch": -6185116800,
+		"deat-epoch": -4390387200
+	},
+	"344": {
+		"birt-ll": [
+			36.0263022,
+			-79.1096901
+		],
+		"deat-ll": [
+			38.6270025,
+			-90.19940419999999
+		],
+		"name": "Mary /Stanfield/",
+		"birt-plac": "Orange Co., NC",
+		"birt-date": "26 Jun 1761",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "St. Louis Co., MO",
+		"id": "344",
+		"deat-date": "aft 1816",
+		"birt-epoch": -6580112400,
+		"deat-epoch": -4859798400
+	},
+	"345": {
+		"deat-ll": [
+			38.2310301,
+			-90.52578229999999
+		],
+		"name": "Francis /Bittick/",
+		"birt-date": "11 Sep 1759",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Jefferson, Missouri",
+		"id": "345",
+		"deat-date": "1816",
+		"birt-epoch": -6636618000,
+		"deat-epoch": -4859827200
+	},
+	"346": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"deat-ll": [
+			38.3908555,
+			-93.3346497
+		],
+		"name": "Perry /Bittick/",
+		"birt-plac": "Missouri, United States",
+		"birt-date": "1823",
+		"sex": "M",
+		"p": [
+			"142",
+			"141"
+		],
+		"deat-plac": "Lincoln, Missouri, United States",
+		"id": "346",
+		"deat-date": "1870",
+		"birt-epoch": -4638902400,
+		"deat-epoch": -3155673600
+	},
+	"347": {
+		"birt-ll": [
+			29.6185669,
+			-95.5377215
+		],
+		"deat-ll": [
+			38.6270025,
+			-90.1994042
+		],
+		"name": "MarindaMinerva /Bittick/",
+		"birt-plac": "Missouri City, Fort Bend, Texas, United States",
+		"birt-date": "1838",
+		"sex": "F",
+		"p": [
+			"142",
+			"141"
+		],
+		"deat-plac": "st louis missouri",
+		"id": "347",
+		"deat-date": "1898",
+		"birt-epoch": -4165516800,
+		"deat-epoch": -2272060800
+	},
+	"348": {
+		"birt-ll": [
+			38.6270025,
+			-90.19940419999999
+		],
+		"deat-ll": [
+			38.2310301,
+			-90.5257823
+		],
+		"name": "James /Bittick/",
+		"birt-plac": "on Meremac River, St. Louis",
+		"birt-date": "20 Dec 1811",
+		"sex": "M",
+		"p": [
+			"142",
+			"141"
+		],
+		"deat-plac": "Jefferson county, Missouri",
+		"id": "348",
+		"deat-date": "18 Jan 1890",
+		"birt-epoch": -4987065600,
+		"deat-epoch": -2523024000
+	},
+	"349": {
+		"birt-ll": [
+			38.3779391,
+			-90.658333
+		],
+		"deat-ll": [
+			29.815556,
+			-97.218333
+		],
+		"name": "Willis Henry /Bittick/",
+		"birt-plac": "Meramec Township, Jefferson County, Missouri",
+		"birt-date": "01 Feb 1817",
+		"sex": "M",
+		"p": [
+			"142",
+			"141"
+		],
+		"deat-plac": "Cistern, Fayette Co., TX",
+		"id": "349",
+		"deat-date": "02 Jan 1883",
+		"birt-epoch": -4825497600,
+		"deat-epoch": -2745331200
+	},
+	"350": {
+		"birt-ll": [
+			38.2310301,
+			-90.5257823
+		],
+		"name": "Julius /Bittick/",
+		"birt-plac": "Jefferson county, Missouri",
+		"birt-date": "1825",
+		"sex": "M",
+		"p": [
+			"142",
+			"141"
+		],
+		"id": "350",
+		"birt-epoch": -4575744000
+	},
+	"351": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Sarah /Bittick/",
+		"birt-plac": "Missouri",
+		"birt-date": "1840",
+		"sex": "F",
+		"p": [
+			"142",
+			"141"
+		],
+		"id": "351",
+		"birt-epoch": -4102444800
+	},
+	"352": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Peter /Bittick/",
+		"birt-plac": "Missouri",
+		"birt-date": "1835",
+		"sex": "F",
+		"p": [
+			"142",
+			"141"
+		],
+		"id": "352",
+		"birt-epoch": -4260211200
+	},
+	"353": {
+		"birt-ll": [
+			38.2310301,
+			-90.5257823
+		],
+		"name": "Francis /Bittick/",
+		"birt-plac": "Jefferson county, Missouri",
+		"birt-date": "1829",
+		"sex": "M",
+		"p": [
+			"142",
+			"141"
+		],
+		"id": "353",
+		"birt-epoch": -4449513600
+	},
+	"354": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "male /Bittick/",
+		"birt-plac": "Missouri",
+		"birt-date": "1820",
+		"sex": "M",
+		"p": [
+			"142",
+			"141"
+		],
+		"id": "354",
+		"birt-epoch": -4733596800
+	},
+	"355": {
+		"birt-ll": [
+			38.2310301,
+			-90.5257823
+		],
+		"name": "Margaret /Bittick/",
+		"birt-plac": "Jefferson county, Missouri",
+		"birt-date": "1824",
+		"sex": "F",
+		"p": [
+			"142",
+			"141"
+		],
+		"id": "355",
+		"birt-epoch": -4607366400
+	},
+	"356": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Polly /Bittick/",
+		"birt-plac": "Missouri",
+		"birt-date": "1813",
+		"sex": "F",
+		"p": [
+			"142",
+			"141"
+		],
+		"id": "356",
+		"birt-epoch": -4954435200
+	},
+	"357": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "female /Bittick/",
+		"birt-plac": "Missouri",
+		"birt-date": "1815",
+		"sex": "F",
+		"p": [
+			"142",
+			"141"
+		],
+		"id": "357",
+		"birt-epoch": -4891363200
+	},
+	"358": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Nancy /Bittick/",
+		"birt-plac": "Missouri, United States",
+		"birt-date": "6 Mar 1804",
+		"sex": "F",
+		"p": [
+			"345",
+			"344"
+		],
+		"id": "358",
+		"birt-epoch": -5232873600
+	},
+	"359": {
+		"birt-ll": [
+			35.9175674,
+			-78.9528599
+		],
+		"deat-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Hannah /Bittick/",
+		"birt-plac": ", Surrey, North Carolina, USA",
+		"birt-date": "9 Apr 1790",
+		"sex": "F",
+		"p": [
+			"345",
+			"344"
+		],
+		"deat-plac": ", , Missouri, USA",
+		"id": "359",
+		"deat-date": "Mar 1855",
+		"birt-epoch": -5671702800,
+		"deat-epoch": -3623932800
+	},
+	"360": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"deat-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Simeon /Bittick/",
+		"birt-plac": "Missouri, United States",
+		"birt-date": "7 Feb 1802",
+		"sex": "M",
+		"p": [
+			"345",
+			"344"
+		],
+		"deat-plac": "Missouri, United States",
+		"id": "360",
+		"deat-date": "1840",
+		"birt-epoch": -5298364800,
+		"deat-epoch": -4102444800
+	},
+	"361": {
+		"birt-ll": [
+			37.9642529,
+			-91.8318334
+		],
+		"name": "Mary /Bittick/",
+		"birt-plac": "Missouri, United States",
+		"birt-date": "9 Sep 1806",
+		"sex": "F",
+		"p": [
+			"345",
+			"344"
+		],
+		"id": "361",
+		"birt-epoch": -5153648400
+	},
+	"362": {
+		"birt-ll": [
+			35.5174913,
+			-86.5804473
+		],
+		"name": "Elizabeth /Bittick/",
+		"birt-plac": "Tennessee, United States",
+		"birt-date": "15 May 1795",
+		"sex": "F",
+		"p": [
+			"345",
+			"344"
+		],
+		"id": "362",
+		"birt-epoch": -5510826000
+	},
+	"363": {
+		"birt-ll": [
+			35.5174913,
+			-86.5804473
+		],
+		"deat-ll": [
+			38.6270025,
+			-90.19940419999999
+		],
+		"name": "William /Bittick/",
+		"birt-plac": "Tennessee, United States",
+		"birt-date": "20 Oct 1799",
+		"sex": "M",
+		"p": [
+			"345",
+			"344"
+		],
+		"deat-plac": "St Louis, St Louis, Missouri, United States",
+		"id": "363",
+		"deat-date": "Sep 1826",
+		"birt-epoch": -5370944400,
+		"deat-epoch": -4523187600
+	},
+	"364": {
+		"birt-ll": [
+			35.7595731,
+			-79.0192997
+		],
+		"deat-ll": [
+			38.6270025,
+			-90.19940419999999
+		],
+		"name": "Samuel /Bittick/",
+		"birt-plac": "North Carolina, United States",
+		"birt-date": "26 Jan 1785",
+		"sex": "M",
+		"p": [
+			"345",
+			"344"
+		],
+		"deat-plac": "St Louis, St Louis, Missouri, United States",
+		"id": "364",
+		"deat-date": "1809",
+		"birt-epoch": -5835772800,
+		"deat-epoch": -5080665600
+	},
+	"365": {
+		"birt-ll": [
+			36.3743453,
+			-80.6770787
+		],
+		"deat-ll": [
+			29.7604267,
+			-95.3698028
+		],
+		"name": "Eleanor /Bittick/",
+		"birt-plac": "Surry, North Carolina, United States",
+		"birt-date": "Aug 1792",
+		"sex": "F",
+		"p": [
+			"345",
+			"344"
+		],
+		"deat-plac": "Houston, Harris, Texas, United States",
+		"id": "365",
+		"deat-date": "1851",
+		"birt-epoch": -5598694800,
+		"deat-epoch": -3755289600
+	},
+	"366": {
+		"birt-ll": [
+			36.3743453,
+			-80.6770787
+		],
+		"deat-ll": [
+			38.669489,
+			-91.5601667
+		],
+		"name": "Thomas Stanfield /Bittick/",
+		"birt-plac": "Surry, North Carolina, United States",
+		"birt-date": "9 Dec 1788",
+		"sex": "M",
+		"p": [
+			"345",
+			"344"
+		],
+		"deat-plac": "Gasconade, Gasconade, Missouri, United States",
+		"id": "366",
+		"deat-date": "12 May 1838",
+		"birt-epoch": -5713689600,
+		"deat-epoch": -4154173200
+	},
+	"367": {
+		"birt-ll": [
+			35.7595731,
+			-79.0192997
+		],
+		"name": "Philipina /Bittick/",
+		"birt-plac": "North Carolina, United States",
+		"birt-date": "20 Oct 1783",
+		"sex": "F",
+		"p": [
+			"345",
+			"344"
+		],
+		"id": "367",
+		"birt-epoch": -5875866000
+	},
+	"368": {
+		"birt-ll": [
+			35.5174913,
+			-86.5804473
+		],
+		"name": "Solomon /Bittick/",
+		"birt-plac": "Tennessee, United States",
+		"birt-date": "29 Jan 1797",
+		"sex": "M",
+		"p": [
+			"345",
+			"344"
+		],
+		"id": "368",
+		"birt-epoch": -5456822400
+	},
+	"369": {
+		"birt-ll": [
+			34.5133698,
+			-110.0784491
+		],
+		"deat-ll": [
+			33.4151843,
+			-111.8314724
+		],
+		"name": "Lawrence Henry /Pearce/",
+		"birt-plac": "Snowflake, Navajo, Arizona",
+		"birt-date": "11 Apr 1904",
+		"sex": "M",
+		"p": [
+			"240",
+			"239"
+		],
+		"deat-plac": "Mesa, Maricopa Co., AZ (suicide - poison)",
+		"id": "369",
+		"deat-date": "15 Apr 1947",
+		"birt-epoch": -2074093200,
+		"deat-epoch": -716835600
+	},
+	"370": {
+		"birt-ll": [
+			34.7814188,
+			-110.0434504
+		],
+		"deat-ll": [
+			36.7111165,
+			-107.9845116
+		],
+		"name": "Leo Burton /Pearce/",
+		"birt-plac": "Woodruff, Navajo, Arizona, United States",
+		"birt-date": "10 Dec 1909",
+		"sex": "M",
+		"p": [
+			"240",
+			"239"
+		],
+		"deat-plac": "Bloomfield, San Juan, New Mexico, United States",
+		"id": "370",
+		"deat-date": "4 Jan 1990",
+		"birt-epoch": -1895328000,
+		"deat-epoch": 631440000
+	},
+	"371": {
+		"birt-ll": [
+			34.4650374,
+			-110.0912265
+		],
+		"deat-ll": [
+			34.4650374,
+			-110.0912265
+		],
+		"name": "Lena /Pearce/",
+		"birt-plac": "Taylor, Navajo Co., AZ",
+		"birt-date": "01 Oct 1908",
+		"sex": "F",
+		"p": [
+			"240",
+			"239"
+		],
+		"deat-plac": "Taylor, Navajo, Arizona",
+		"id": "371",
+		"deat-date": "21 May 2005",
+		"birt-epoch": -1932915600,
+		"deat-epoch": 1116658800
+	},
+	"372": {
+		"birt-ll": [
+			34.7814188,
+			-110.0434504
+		],
+		"name": "John Lorin /Pearce/",
+		"birt-plac": "Woodruff, Navajo Co., AZ",
+		"birt-date": "01 Sep 1911",
+		"sex": "M",
+		"p": [
+			"240",
+			"239"
+		],
+		"id": "372",
+		"deat-date": "24 Dec 1982",
+		"birt-epoch": -1840899600,
+		"deat-epoch": 409564800
+	},
+	"373": {
+		"birt-ll": [
+			34.7814188,
+			-110.0434504
+		],
+		"deat-ll": [
+			34.4650374,
+			-110.0912265
+		],
+		"name": "Hal Frost /Pearce/",
+		"birt-plac": "Woodruff, Navajo, Arizona",
+		"birt-date": "13 Nov 1915",
+		"sex": "M",
+		"p": [
+			"240",
+			"239"
+		],
+		"deat-plac": "Taylor, Navajo, Arizona, USA",
+		"id": "373",
+		"deat-date": "8 Oct 1987",
+		"birt-epoch": -1708358400,
+		"deat-epoch": 560674800
+	},
+	"374": {
+		"birt-ll": [
+			34.7814188,
+			-110.0434504
+		],
+		"deat-ll": [
+			40.03747329999999,
+			-107.9131299
+		],
+		"name": "James Allen /Pearce/",
+		"birt-plac": "Woodruff, Navajo, Arizona, United States",
+		"birt-date": "18 Nov 1905",
+		"sex": "M",
+		"p": [
+			"240",
+			"239"
+		],
+		"deat-plac": "Meeker, Rio Blanco, Colorado, USA",
+		"id": "374",
+		"deat-date": "5 Jul 1978",
+		"birt-epoch": -2023459200,
+		"deat-epoch": 268470000
+	},
+	"375": {
+		"birt-ll": [
+			34.7814188,
+			-110.0434504
+		],
+		"deat-ll": [
+			14.058324,
+			108.277199
+		],
+		"name": "Lester Druce /Pearce/",
+		"birt-plac": "Woodruff, Navajo, Arizona",
+		"birt-date": "22 January 1914",
+		"sex": "M",
+		"p": [
+			"240",
+			"239"
+		],
+		"deat-plac": "South Vietnam",
+		"id": "375",
+		"deat-date": "30 December 1967",
+		"birt-epoch": -1765382400,
+		"deat-epoch": -63302400
+	},
+	"376": {
+		"birt-ll": [
+			34.0489281,
+			-111.0937311
+		],
+		"name": "Bell /Parce/",
+		"birt-plac": "Arizona",
+		"birt-date": "abt 1915",
+		"sex": "M",
+		"p": [
+			null,
+			"239"
+		],
+		"id": "376",
+		"birt-epoch": -1735660800
+	},
+	"377": {
+		"birt-ll": [
+			34.0489281,
+			-111.0937311
+		],
+		"name": "Hal /Parce/",
+		"birt-plac": "Arizona",
+		"birt-date": "abt 1916",
+		"sex": "M",
+		"p": [
+			null,
+			"239"
+		],
+		"id": "377",
+		"birt-epoch": -1704124800
+	},
+	"378": {
+		"birt-ll": [
+			34.0489281,
+			-111.0937311
+		],
+		"name": "Phily /Parce/",
+		"birt-plac": "Arizona",
+		"birt-date": "abt 1918",
+		"sex": "M",
+		"p": [
+			null,
+			"239"
+		],
+		"id": "378",
+		"birt-epoch": -1640966400
+	},
+	"379": {
+		"birt-ll": [
+			34.0489281,
+			-111.0937311
+		],
+		"name": "Burton /Parce/",
+		"birt-plac": "Arizona",
+		"birt-date": "abt 1910",
+		"sex": "M",
+		"p": [
+			null,
+			"239"
+		],
+		"id": "379",
+		"birt-epoch": -1893427200
+	},
+	"380": {
+		"birt-ll": [
+			34.0489281,
+			-111.0937311
+		],
+		"name": "Jack /Parce/",
+		"birt-plac": "Arizona",
+		"birt-date": "abt 1912",
+		"sex": "M",
+		"p": [
+			null,
+			"239"
+		],
+		"id": "380",
+		"birt-epoch": -1830355200
+	},
+	"381": {
+		"birt-ll": [
+			36.6777372,
+			-121.6555013
+		],
+		"name": "Pam /Pearce/",
+		"birt-plac": "Salinas, Monterey, California, USA",
+		"birt-date": "abt 1945",
+		"sex": "F",
+		"p": [
+			"378",
+			"95"
+		],
+		"id": "381",
+		"birt-epoch": -788889600
+	},
+	"382": {
+		"birt-ll": [
+			36.6777372,
+			-121.6555013
+		],
+		"name": "Merle Kent /Pearce/",
+		"birt-plac": "Salinas, Monterey, California, USA",
+		"birt-date": "jul 1941",
+		"sex": "M",
+		"p": [
+			"378",
+			"95"
+		],
+		"id": "382",
+		"birt-epoch": -899485200
+	},
+	"383": {
+		"p": [
+			"93"
+		],
+		"id": "383",
+		"name": "Edward /Havens/",
+		"sex": "M"
+	},
+	"384": {
+		"p": [],
+		"sex": "F",
+		"id": "384",
+		"name": "Joan Marie /Havens/"
+	},
+	"385": {
+		"p": [],
+		"sex": "F",
+		"id": "385",
+		"name": "??"
+	},
+	"386": {
+		"p": [
+			"82",
+			"387"
+		],
+		"sex": "M",
+		"id": "386",
+		"name": "Bill /Cook/"
+	},
+	"387": {
+		"p": [],
+		"birt-date": "abt 1949",
+		"sex": "F",
+		"id": "387",
+		"name": "Robin C /Juencke/",
+		"birt-epoch": -662659200
+	},
+	"388": {
+		"birt-ll": [
+			40.6331249,
+			-89.3985283
+		],
+		"name": "Lide /Branscump/",
+		"birt-plac": "Illinois",
+		"birt-date": "abt 1844",
+		"sex": "F",
+		"p": [],
+		"id": "388",
+		"birt-epoch": -3976185600
+	},
+	"389": {
+		"birt-ll": [
+			44.3148443,
+			-85.6023643
+		],
+		"name": "John P. /Cook/",
+		"birt-plac": "Michigan",
+		"birt-date": "abt 1843",
+		"sex": "M",
+		"p": [
+			"426",
+			"425"
+		],
+		"id": "389",
+		"birt-epoch": -4007721600
+	},
+	"390": {
+		"birt-ll": [
+			23.1165,
+			-82.389
+		],
+		"name": "Rosa /Carroll/",
+		"birt-plac": "Havana, Cuba",
+		"birt-date": "abt 1865",
+		"sex": "F",
+		"p": [
+			"85"
+		],
+		"id": "390",
+		"birt-epoch": -3313411200
+	},
+	"391": {
+		"p": [],
+		"sex": "M",
+		"id": "391",
+		"name": "/Carroll/"
+	},
+	"392": {
+		"p": [
+			null,
+			"94"
+		],
+		"id": "392",
+		"name": "Sheryl",
+		"sex": "F"
+	},
+	"393": {
+		"p": [
+			null,
+			"94"
+		],
+		"sex": "F",
+		"id": "393",
+		"name": "Metha"
+	},
+	"394": {
+		"p": [
+			null,
+			"94"
+		],
+		"birt-date": "6 Oct 1944",
+		"sex": "F",
+		"id": "394",
+		"name": "Metha /Sizemore/",
+		"birt-epoch": -796410000
+	},
+	"395": {
+		"birt-ll": [
+			31.2448234,
+			-92.1450245
+		],
+		"name": "Arsanna /Havens/",
+		"birt-plac": "Louisiana",
+		"birt-date": "abt 1914",
+		"sex": "M",
+		"p": [
+			"259",
+			"258"
+		],
+		"id": "395",
+		"birt-epoch": -1767196800
+	},
+	"396": {
+		"birt-ll": [
+			31.2448234,
+			-92.1450245
+		],
+		"name": "Sylvan /Havens/",
+		"birt-plac": "Louisiana",
+		"birt-date": "abt 1916",
+		"sex": "M",
+		"p": [
+			"259",
+			"258"
+		],
+		"id": "396",
+		"birt-epoch": -1704124800
+	},
+	"397": {
+		"birt-ll": [
+			31.2448234,
+			-92.1450245
+		],
+		"name": "Andy /Havens/",
+		"birt-plac": "Louisiana",
+		"birt-date": "abt 1907",
+		"sex": "M",
+		"p": [
+			"259",
+			"258"
+		],
+		"id": "397",
+		"birt-epoch": -1988121600
+	},
+	"398": {
+		"birt-ll": [
+			31.2448234,
+			-92.1450245
+		],
+		"name": "Coleean /Havens/",
+		"birt-plac": "Louisiana",
+		"birt-date": "abt 1911",
+		"sex": "M",
+		"p": [
+			"259",
+			"258"
+		],
+		"id": "398",
+		"birt-epoch": -1861891200
+	},
+	"399": {
+		"birt-ll": [
+			31.2448234,
+			-92.1450245
+		],
+		"name": "Lonnie /Havens/",
+		"birt-plac": "Louisiana",
+		"birt-date": "abt 1901",
+		"sex": "M",
+		"p": [
+			"259",
+			"258"
+		],
+		"id": "399",
+		"birt-epoch": -2177424000
+	},
+	"400": {
+		"birt-ll": [
+			31.2448234,
+			-92.1450245
+		],
+		"name": "Nannie /Havens/",
+		"birt-plac": "Louisiana",
+		"birt-date": "abt 1896",
+		"sex": "F",
+		"p": [
+			"259",
+			"258"
+		],
+		"id": "400",
+		"birt-epoch": -2335190400
+	},
+	"401": {
+		"birt-ll": [
+			31.2448234,
+			-92.1450245
+		],
+		"name": "Rutillis /Havens/",
+		"birt-plac": "Louisiana",
+		"birt-date": "abt 1899",
+		"sex": "M",
+		"p": [
+			"259",
+			"258"
+		],
+		"id": "401",
+		"birt-epoch": -2240496000
+	},
+	"402": {
+		"birt-ll": [
+			31.2448234,
+			-92.1450245
+		],
+		"name": "Jerrymiah /Havens/",
+		"birt-plac": "Louisiana",
+		"birt-date": "abt 1894",
+		"sex": "M",
+		"p": [
+			"259",
+			"258"
+		],
+		"id": "402",
+		"birt-epoch": -2398262400
+	},
+	"403": {
+		"birt-ll": [
+			31.2448234,
+			-92.1450245
+		],
+		"name": "Minnie /Havens/",
+		"birt-plac": "Louisiana",
+		"birt-date": "abt 1896",
+		"sex": "F",
+		"p": [
+			"259",
+			"258"
+		],
+		"id": "403",
+		"birt-epoch": -2335190400
+	},
+	"404": {
+		"birt-ll": [
+			39.0263572,
+			-76.1319953
+		],
+		"deat-ll": [
+			38.883178,
+			-76.723795
+		],
+		"name": "Rebecca /Wells/",
+		"birt-plac": "Queen Anne's, Maryland, United States",
+		"birt-date": "1697",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Queen Anne, Prince George's, Maryland, United States",
+		"id": "404",
+		"deat-date": "4 Aug 1755",
+		"birt-epoch": -8614944000,
+		"deat-epoch": -6766131600
+	},
+	"405": {
+		"birt-ll": [
+			39.0263572,
+			-76.1319953
+		],
+		"deat-ll": [
+			39.0263572,
+			-76.1319953
+		],
+		"name": "Francis /Spry/",
+		"birt-plac": "Queen Anne's, Maryland, United States",
+		"birt-date": "1693",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Queen Anne S Co, MD",
+		"id": "405",
+		"deat-date": "20 November 1741",
+		"birt-epoch": -8741174400,
+		"deat-epoch": -7198560000
+	},
+	"406": {
+		"birt-ll": [
+			39.0263572,
+			-76.1319953
+		],
+		"deat-ll": [
+			39.0263572,
+			-76.1319953
+		],
+		"name": "William /Spry/",
+		"birt-plac": "Queen Anne's, Maryland, United States",
+		"birt-date": "9 Oct 1751",
+		"sex": "M",
+		"p": [
+			"261",
+			"260"
+		],
+		"deat-plac": "Queen Anne's, Maryland, United States",
+		"id": "406",
+		"deat-date": "1756",
+		"birt-epoch": -6886659600,
+		"deat-epoch": -6753196800
+	},
+	"407": {
+		"birt-ll": [
+			39.0263572,
+			-76.1319953
+		],
+		"deat-ll": [
+			39.0263572,
+			-76.1319953
+		],
+		"name": "Ruth /McConnikin/",
+		"birt-plac": "Queen Anne's, Maryland, USA",
+		"birt-date": "Abt. 1723",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Queen Anne's, Maryland, USA",
+		"id": "407",
+		"deat-date": "Aft. 1761",
+		"birt-epoch": -7794547200,
+		"deat-epoch": -6595315200
+	},
+	"408": {
+		"birt-ll": [
+			39.0263572,
+			-76.1319953
+		],
+		"deat-ll": [
+			39.0263572,
+			-76.1319953
+		],
+		"name": "Elizabeth /Spry/",
+		"birt-plac": "Queen Annes, Maryland, USA",
+		"birt-date": "08 Dec 1694",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Queen Annes, Maryland, USA",
+		"id": "408",
+		"deat-date": "23 Feb 1759",
+		"birt-epoch": -8680147200,
+		"deat-epoch": -6653894400
+	},
+	"409": {
+		"birt-ll": [
+			38.7803973,
+			-76.1319953
+		],
+		"deat-ll": [
+			38.9209467,
+			-75.9552162
+		],
+		"name": "Humphrey /Wells/",
+		"birt-plac": "Talbot, Maryland, USA",
+		"birt-date": "11 Dec 1680",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Queen Anne, Maryland, USA",
+		"id": "409",
+		"deat-date": "02 Sep 1750",
+		"birt-epoch": -9121651200,
+		"deat-epoch": -6921392400
+	},
+	"410": {
+		"birt-ll": [
+			39.904408,
+			-75.1090159
+		],
+		"deat-ll": [
+			40.3920132,
+			-80.3089506
+		],
+		"name": "Elizabeth /Boyden/",
+		"birt-plac": "Camden, Essex, New Jersey",
+		"birt-date": "25 Nov 1723",
+		"sex": "F",
+		"p": [
+			"424",
+			"423"
+		],
+		"deat-plac": "Candor, Washington, Pennsylvania",
+		"id": "410",
+		"deat-date": "1780",
+		"birt-epoch": -7766208000,
+		"deat-epoch": -5995814400
+	},
+	"411": {
+		"birt-ll": [
+			40.5687141,
+			-74.73766189999999
+		],
+		"deat-ll": [
+			40.1367719,
+			-80.1875065
+		],
+		"name": "Jan /Aten/",
+		"birt-plac": "Readington, Somerset County, New Jersey",
+		"birt-date": "22 Dec 1732",
+		"sex": "M",
+		"p": [
+			"420",
+			"419"
+		],
+		"deat-plac": "Washington County, Pennsylvania",
+		"id": "411",
+		"deat-date": "1790",
+		"birt-epoch": -7479792000,
+		"deat-epoch": -5680195200
+	},
+	"412": {
+		"birt-ll": [
+			40.409178,
+			-80.592365
+		],
+		"deat-ll": [
+			40.9384779,
+			-89.9440061
+		],
+		"name": "Sarah /Aten/",
+		"birt-plac": "Hancock Co., West Virginia",
+		"birt-date": "18 Aug 1808",
+		"sex": "F",
+		"p": [
+			"264",
+			"263"
+		],
+		"deat-plac": "Millbrook, Peoria, Illinois",
+		"id": "412",
+		"deat-date": "3 Jul 1898",
+		"birt-epoch": -5092390800,
+		"deat-epoch": -2256224400
+	},
+	"413": {
+		"birt-ll": [
+			42.0439479,
+			-79.8517317
+		],
+		"deat-ll": [
+			40.764853,
+			-93.4801349
+		],
+		"name": "Aaron Kimble /Aten/",
+		"birt-plac": "Erie Co., Pennsylvania",
+		"birt-date": "18 Feb 1812",
+		"sex": "M",
+		"p": [
+			"264",
+			"263"
+		],
+		"deat-plac": "Clay, Wayne, Iowa",
+		"id": "413",
+		"deat-date": "9 Sep 1901",
+		"birt-epoch": -4981881600,
+		"deat-epoch": -2155741200
+	},
+	"414": {
+		"birt-ll": [
+			41.2033216,
+			-77.1945247
+		],
+		"deat-ll": [
+			41.0795661,
+			-89.81303559999999
+		],
+		"name": "Samuel R. /Aten/",
+		"birt-plac": "Pennsylvania",
+		"birt-date": "1814",
+		"sex": "M",
+		"p": [
+			"264",
+			"263"
+		],
+		"deat-plac": "Stark Co., Illinois",
+		"id": "414",
+		"deat-date": "1848",
+		"birt-epoch": -4922899200,
+		"deat-epoch": -3849984000
+	},
+	"415": {
+		"birt-ll": [
+			40.409178,
+			-80.592365
+		],
+		"name": "Sarah Davis /Aten/",
+		"birt-plac": "Hancock Co., West Virginia",
+		"birt-date": "10 Feb 1802",
+		"sex": "F",
+		"p": [
+			"264",
+			"263"
+		],
+		"id": "415",
+		"birt-epoch": -5298105600
+	},
+	"416": {
+		"birt-ll": [
+			42.0439479,
+			-79.8517317
+		],
+		"deat-ll": [
+			31.56595399999999,
+			-93.47864009999999
+		],
+		"name": "John /Aten/",
+		"birt-plac": "Erie Co., Pennsylvania",
+		"birt-date": "17 Sep 1794",
+		"sex": "M",
+		"p": [
+			"264",
+			"263"
+		],
+		"deat-plac": "West District, Sabine, Louisiana",
+		"id": "416",
+		"deat-date": "Jun 1860",
+		"birt-epoch": -5531562000,
+		"deat-epoch": -3458134800
+	},
+	"417": {
+		"birt-ll": [
+			42.0439479,
+			-79.8517317
+		],
+		"name": "Anna /Aten/",
+		"birt-plac": "Erie Co., Pennsylvania",
+		"birt-date": "7 Oct 1797",
+		"sex": "F",
+		"p": [
+			"264",
+			"263"
+		],
+		"id": "417",
+		"birt-epoch": -5435139600
+	},
+	"418": {
+		"birt-ll": [
+			38.5976262,
+			-80.4549026
+		],
+		"name": "Mary /Aten/",
+		"birt-plac": "West Virginia",
+		"birt-date": "17 Aug 1799",
+		"sex": "F",
+		"p": [
+			"264",
+			"263"
+		],
+		"id": "418",
+		"birt-epoch": -5376474000
+	},
+	"419": {
+		"birt-ll": [
+			40.497604,
+			-74.48848679999999
+		],
+		"deat-ll": [
+			40.6862075,
+			-75.4968501
+		],
+		"name": "Jacobje /Middagh/",
+		"birt-plac": "Somerset, Somerset, New Jersey, USA",
+		"birt-date": "24 Oct 1693",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Northampton, Northampton, Pennsylvania, USA",
+		"id": "419",
+		"deat-date": "16 May 1782",
+		"birt-epoch": -8715574800,
+		"deat-epoch": -5920966800
+	},
+	"420": {
+		"birt-ll": [
+			40.699683,
+			-73.807903
+		],
+		"deat-ll": [
+			40.8193461,
+			-74.9891531
+		],
+		"name": "Adriaen Hendrickse (Aaron) /Aten/",
+		"birt-plac": "Jamaica, Queens, New York, USA",
+		"birt-date": "4 Sep 1695",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Huntington, Warren, New Jersey, USA",
+		"id": "420",
+		"deat-date": "11 Dec 1757",
+		"birt-epoch": -8656822800,
+		"deat-epoch": -6691824000
+	},
+	"421": {
+		"birt-ll": [
+			40.5687141,
+			-74.73766189999999
+		],
+		"deat-ll": [
+			40.4928181,
+			-90.19067679999999
+		],
+		"name": "Elizabeth /Aten/",
+		"birt-plac": "Readington, Hunterdon, New Jersey, United States",
+		"birt-date": "29 Apr 1758",
+		"sex": "F",
+		"p": [
+			"411",
+			"410"
+		],
+		"deat-plac": "Cuba, Fulton, Illinois, USA",
+		"id": "421",
+		"deat-date": "31 Oct 1853",
+		"birt-epoch": -6679818000,
+		"deat-epoch": -3665926800
+	},
+	"422": {
+		"birt-ll": [
+			40.4475,
+			-74.662778
+		],
+		"deat-ll": [
+			40.51697670000001,
+			-80.22134770000001
+		],
+		"name": "Elizabeth /Stryker  Strycker/",
+		"birt-plac": "Harlingen, Somerset, New Jersey, USA",
+		"birt-date": "1742  [1730-1]",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Moon, Allegheny Co, Pennsylvania USA",
+		"id": "422",
+		"deat-date": "1814  [1804, 1810]",
+		"birt-epoch": null,
+		"deat-epoch": null
+	},
+	"423": {
+		"birt-ll": [
+			40.5695474,
+			-74.6329363
+		],
+		"deat-ll": [
+			40.2136754,
+			-74.3000878
+		],
+		"name": "Maria Maritje Mayke /VanBarkeloo/",
+		"birt-plac": "Raritan, Somerset, New Jersey, United States",
+		"birt-date": "25 Apr 1711",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Freehold, Monmouth, New Jersey, United States",
+		"id": "423",
+		"birt-epoch": -8163392400
+	},
+	"424": {
+		"birt-ll": [
+			40.6781784,
+			-73.9441579
+		],
+		"deat-ll": [
+			40.2136754,
+			-74.3000878
+		],
+		"name": "abraham /sutphen/ *",
+		"birt-plac": "Brooklyn, Kings, NY",
+		"birt-date": "25 April 1696",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Freehold, Monmouth, New Jersey, United States",
+		"id": "424",
+		"deat-date": "1727",
+		"birt-epoch": -8636605200,
+		"deat-epoch": -7668345600
+	},
+	"425": {
+		"birt-ll": [
+			40.7144,
+			-74.006
+		],
+		"name": "J. G. /Cook/",
+		"birt-plac": "New York",
+		"birt-date": "1807",
+		"sex": "F",
+		"p": [],
+		"id": "425",
+		"birt-epoch": -5143824000
+	},
+	"426": {
+		"birt-ll": [
+			40.7144,
+			-74.006
+		],
+		"name": "G. B /Cook/",
+		"birt-plac": "New York",
+		"birt-date": "1809",
+		"sex": "M",
+		"p": [],
+		"id": "426",
+		"birt-epoch": -5080665600
+	},
+	"427": {
+		"birt-ll": [
+			44.3148443,
+			-85.6023643
+		],
+		"name": "Mattie E. /Cook/",
+		"birt-plac": "Michigan",
+		"birt-date": "abt 1870",
+		"sex": "F",
+		"p": [
+			"389",
+			"388"
+		],
+		"id": "427",
+		"birt-epoch": -3155644800
+	},
+	"428": {
+		"birt-ll": [
+			41.8780025,
+			-93.097702
+		],
+		"name": "Hester /Hokamp/",
+		"birt-plac": "Iowa",
+		"birt-date": "Jan 1898",
+		"sex": "F",
+		"p": [
+			"430",
+			"427"
+		],
+		"id": "428",
+		"birt-epoch": -2272032000
+	},
+	"429": {
+		"birt-ll": [
+			41.8780025,
+			-93.097702
+		],
+		"name": "Herbert M /Hokamp/",
+		"birt-plac": "Iowa",
+		"birt-date": "Sep 1895",
+		"sex": "M",
+		"p": [
+			"430",
+			"427"
+		],
+		"id": "429",
+		"birt-epoch": -2345734800
+	},
+	"430": {
+		"birt-ll": [
+			41.8780025,
+			-93.097702
+		],
+		"name": "William F. /Hokamp/",
+		"birt-plac": "Iowa",
+		"birt-date": "May 1869",
+		"sex": "M",
+		"p": [],
+		"id": "430",
+		"birt-epoch": -3176816400
+	},
+	"431": {
+		"p": [
+			"242"
+		],
+		"birt-date": "abt 2001",
+		"sex": "M",
+		"id": "431",
+		"name": "Kyle /Burg/",
+		"birt-epoch": 978336000
+	},
+	"432": {
+		"p": [
+			"242"
+		],
+		"birt-date": "abt 1996",
+		"sex": "M",
+		"id": "432",
+		"name": "Kevin /Burg/",
+		"birt-epoch": 820483200
+	},
+	"433": {
+		"p": [
+			"242"
+		],
+		"birt-date": "abt 1994",
+		"id": "433",
+		"name": "Katie /Burg/",
+		"sex": "F",
+		"birt-epoch": 757411200
+	},
+	"434": {
+		"p": [
+			"80",
+			"436"
+		],
+		"id": "434",
+		"name": "John /Cook/",
+		"sex": "M"
+	},
+	"435": {
+		"p": [
+			"80",
+			"436"
+		],
+		"sex": "M",
+		"birt-date": "abt 1965",
+		"id": "435",
+		"name": "Jim /Cook/",
+		"birt-epoch": -157737600
+	},
+	"436": {
+		"name": "Kathy",
+		"birt-date": "abt 1942",
+		"sex": "F",
+		"p": [],
+		"id": "436",
+		"deat-date": "feb 2005",
+		"birt-epoch": -883584000,
+		"deat-epoch": 1107244800
+	},
+	"437": {
+		"p": [],
+		"id": "437",
+		"name": "Melanie",
+		"sex": "F"
+	},
+	"438": {
+		"birt-ll": [
+			44.3148443,
+			-85.6023643
+		],
+		"deat-ll": [
+			34.274646,
+			-119.2290316
+		],
+		"name": "Frank Smith /Cook/",
+		"birt-plac": "Michigan",
+		"birt-date": "abt 1851",
+		"sex": "M",
+		"p": [
+			"426",
+			"425"
+		],
+		"deat-plac": "Ventura, California, USA",
+		"id": "438",
+		"deat-date": "4 Oct 1914",
+		"birt-epoch": -3755260800,
+		"deat-epoch": -1743354000
+	},
+	"439": {
+		"birt-ll": [
+			41.2033216,
+			-77.1945247
+		],
+		"name": "Catherine Maria /Bennett/",
+		"birt-plac": "Pennsylvania, United States",
+		"birt-date": "1831",
+		"sex": "F",
+		"p": [
+			"199",
+			"198"
+		],
+		"id": "439",
+		"deat-date": "1918",
+		"birt-epoch": -4386441600,
+		"deat-epoch": -1640995200
+	},
+	"440": {
+		"birt-ll": [
+			41.2033216,
+			-77.1945247
+		],
+		"deat-ll": [
+			35.0456297,
+			-85.3096801
+		],
+		"name": "John Jacob /Bennett/",
+		"birt-plac": "Pennsylvania, United States",
+		"birt-date": "1827",
+		"sex": "M",
+		"p": [
+			"199",
+			"198"
+		],
+		"deat-plac": "Chattanoga, Tennessee, United States",
+		"id": "440",
+		"deat-date": "1864",
+		"birt-epoch": -4512672000,
+		"deat-epoch": -3345062400
+	},
+	"441": {
+		"birt-ll": [
+			41.2033216,
+			-77.1945247
+		],
+		"deat-ll": [
+			41.038187,
+			-83.66277889999999
+		],
+		"name": "Charles Henry /Bennett/",
+		"birt-plac": "Pennsylvania, United States",
+		"birt-date": "28 Jun 1829",
+		"sex": "M",
+		"p": [
+			"199",
+			"198"
+		],
+		"deat-plac": "Liberty, Putnam, Ohio, United States",
+		"id": "441",
+		"deat-date": "3 Oct 1909",
+		"birt-epoch": -4434109200,
+		"deat-epoch": -1901206800
+	},
+	"442": {
+		"birt-ll": [
+			40.7588598,
+			-81.9534815
+		],
+		"name": "Rosanna /Bennett/",
+		"birt-plac": "Wayne Co, Ohio, USA",
+		"birt-date": "18 Oct 1833",
+		"sex": "F",
+		"p": [
+			"199",
+			"198"
+		],
+		"id": "442",
+		"deat-date": "1918",
+		"birt-epoch": -4298202000,
+		"deat-epoch": -1640995200
+	},
+	"443": {
+		"birt-ll": [
+			41.3014415,
+			-83.4735393
+		],
+		"deat-ll": [
+			41.3014415,
+			-83.4735393
+		],
+		"name": "Daniel /Bennett/",
+		"birt-plac": "Wayne, Ohio, United States",
+		"birt-date": "1838",
+		"sex": "M",
+		"p": [
+			"199",
+			"198"
+		],
+		"deat-plac": "Wayne, Ohio, United States",
+		"id": "443",
+		"deat-date": "1841",
+		"birt-epoch": -4165516800,
+		"deat-epoch": -4070822400
+	},
+	"444": {
+		"birt-ll": [
+			41.0983846,
+			-83.98466549999999
+		],
+		"name": "Sarah /Bennett/",
+		"birt-plac": "Leipsic, Putnam, Ohio, United States",
+		"birt-date": "3 Aug 1843",
+		"sex": "F",
+		"p": [
+			"199",
+			"198"
+		],
+		"id": "444",
+		"deat-date": "1917",
+		"birt-epoch": -3989235600,
+		"deat-epoch": -1672531200
+	},
+	"445": {
+		"birt-ll": [
+			40.4172871,
+			-82.907123
+		],
+		"name": "Mary Jane /Bennett/",
+		"birt-plac": "Ohio, United States",
+		"birt-date": "11 Dec 1835",
+		"sex": "F",
+		"p": [
+			"199",
+			"198"
+		],
+		"id": "445",
+		"deat-date": "1903",
+		"birt-epoch": -4230460800,
+		"deat-epoch": -2114380800
+	},
+	"446": {
+		"deat-ll": [
+			40.4172871,
+			-82.907123
+		],
+		"name": "Harriet Rebecca /Bennett/",
+		"birt-date": "1841",
+		"sex": "F",
+		"p": [
+			"199",
+			"198"
+		],
+		"deat-plac": "Ohio, United States",
+		"id": "446",
+		"deat-date": "1919",
+		"birt-epoch": -4070822400,
+		"deat-epoch": -1609459200
+	},
+	"447": {
+		"birt-ll": [
+			40.3673093,
+			-76.9310859
+		],
+		"deat-ll": [
+			40.8486532,
+			-81.8005724
+		],
+		"name": "Susan /Witt/",
+		"birt-plac": "Dauphin,,Pennsylvania,USA",
+		"birt-date": "1763",
+		"sex": "F",
+		"p": [
+			"462",
+			"461"
+		],
+		"deat-plac": "Green, Wayne, Ohio, United States",
+		"id": "447",
+		"deat-date": "1 Jan 1840",
+		"birt-epoch": -6532272000,
+		"deat-epoch": -4102416000
+	},
+	"448": {
+		"birt-ll": [
+			40.3290291,
+			-75.8866706
+		],
+		"deat-ll": [
+			39.8400835,
+			-78.7919644
+		],
+		"name": "Jacob Derr /Flickinger/",
+		"birt-plac": "Cumberland, Berks, Pennsylvania, United States",
+		"birt-date": "1758",
+		"sex": "M",
+		"p": [
+			"452",
+			"451"
+		],
+		"deat-plac": "Fairhope, Somerset, Pennsylvania, United States",
+		"id": "448",
+		"deat-date": "8 Mar 1820",
+		"birt-epoch": -6690038400,
+		"deat-epoch": -4727779200
+	},
+	"449": {
+		"birt-ll": [
+			40.008411,
+			-79.0780831
+		],
+		"deat-ll": [
+			39.8400835,
+			-78.7919644
+		],
+		"name": "George /Flickinger/",
+		"birt-plac": "Somerset,  Somerset,  Pennsylvania,  United States",
+		"birt-date": "11 Oct 1783",
+		"sex": "M",
+		"p": [
+			"448",
+			"447"
+		],
+		"deat-plac": "Fairhope,  Somerset,  Pennsylvania,  United States",
+		"id": "449",
+		"deat-date": "17 Feb 1856",
+		"birt-epoch": -5876643600,
+		"deat-epoch": -3593433600
+	},
+	"450": {
+		"birt-ll": [
+			40.3673093,
+			-76.9310859
+		],
+		"deat-ll": [
+			40.7989449,
+			-81.69540669999999
+		],
+		"name": "Susanna /Flickinger/",
+		"birt-plac": "Dauphin, , Pennsylvania, USA",
+		"birt-date": "1784-11-06",
+		"sex": "F",
+		"p": [
+			"448",
+			"447"
+		],
+		"deat-plac": "Dalton, Wayne, Ohio, United States",
+		"id": "450",
+		"deat-date": "31 Dec 1880",
+		"birt-epoch": -5842774800,
+		"deat-epoch": -2808576000
+	},
+	"451": {
+		"birt-ll": [
+			40.242443,
+			-75.6960936
+		],
+		"deat-ll": [
+			40.371376,
+			-77.2405153
+		],
+		"name": "Mary or Molly /Derr/",
+		"birt-plac": "Pottstown,Union,Pennsylvania,USA",
+		"birt-date": "2 Feb 1728",
+		"sex": "F",
+		"p": [
+			"473"
+		],
+		"deat-plac": "Sayville, Perry, Pennsylvania, United States",
+		"id": "451",
+		"deat-date": "1812",
+		"birt-epoch": -7634016000,
+		"deat-epoch": -4986057600
+	},
+	"452": {
+		"birt-ll": [
+			50.118346,
+			7.3089527
+		],
+		"deat-ll": [
+			40.8637615,
+			-76.7915373
+		],
+		"name": "Peter /Flickinger/",
+		"birt-plac": "Palatinate, Hessen, Rheinland-Pfalz, Germany",
+		"birt-date": "13 February 1730",
+		"sex": "M",
+		"p": [
+			"464",
+			"463"
+		],
+		"deat-plac": "Lewisburg-Sunbury,Union,Pennsylvania,USA",
+		"id": "452",
+		"deat-date": "1807-09-10",
+		"birt-epoch": -7569907200,
+		"deat-epoch": -5122026000
+	},
+	"453": {
+		"birt-ll": [
+			39.6417629,
+			-77.71999319999999
+		],
+		"deat-ll": [
+			40.862278,
+			-81.8618049
+		],
+		"name": "Peter Michael /Flickinger/",
+		"birt-plac": "Hagerstown, Washington, Maryland, United States",
+		"birt-date": "12 Oct 1787",
+		"sex": "M",
+		"p": [
+			"448",
+			"447"
+		],
+		"deat-plac": "Smithville, Wayne, Ohio, United States",
+		"id": "453",
+		"deat-date": "10 Oct 1813",
+		"birt-epoch": -5750326800,
+		"deat-epoch": -4930045200
+	},
+	"454": {
+		"birt-ll": [
+			39.7587,
+			-78.8269385
+		],
+		"deat-ll": [
+			39.7777575,
+			-79.1322744
+		],
+		"name": "Samuel /Flickinger/",
+		"birt-plac": "Southampton,  Somerset,  Pennsylvania,  United States",
+		"birt-date": "11 Nov 1805",
+		"sex": "M",
+		"p": [
+			"448",
+			"447"
+		],
+		"deat-plac": "Elk Lick,  Somerset,  Pennsylvania,  United States",
+		"id": "454",
+		"deat-date": "5 May 1873",
+		"birt-epoch": -5179737600,
+		"deat-epoch": -3050240400
+	},
+	"455": {
+		"birt-ll": [
+			39.7587,
+			-78.8269385
+		],
+		"deat-ll": [
+			39.27976990000001,
+			-89.8817662
+		],
+		"name": "Leah /Flickinger/",
+		"birt-plac": "Southampton,  Somerset,  Pennsylvania,  United States",
+		"birt-date": "1809",
+		"sex": "F",
+		"p": [
+			"448",
+			"447"
+		],
+		"deat-plac": "Carlinville,  Macoupin,  Illinois,  United States",
+		"id": "455",
+		"deat-date": "1847",
+		"birt-epoch": -5080665600,
+		"deat-epoch": -3881520000
+	},
+	"456": {
+		"birt-ll": [
+			40.008411,
+			-79.0780831
+		],
+		"deat-ll": [
+			40.8050565,
+			-81.935143
+		],
+		"name": "John /Flickinger/",
+		"birt-plac": "Somerset,  Somerset,  Pennsylvania,  United States",
+		"birt-date": "10 Sep 1795",
+		"sex": "M",
+		"p": [
+			"448",
+			"447"
+		],
+		"deat-plac": "Wooster,  Wayne,  Ohio,  United States",
+		"id": "456",
+		"deat-date": "1872",
+		"birt-epoch": -5500630800,
+		"deat-epoch": -3092601600
+	},
+	"457": {
+		"birt-ll": [
+			40.008411,
+			-79.0780831
+		],
+		"deat-ll": [
+			41.675328,
+			-85.7061011
+		],
+		"name": "Polly /Flickinger/",
+		"birt-plac": "Somerset,  Somerset,  Pennsylvania,  United States",
+		"birt-date": "27 Jan 1796",
+		"sex": "F",
+		"p": [
+			"448",
+			"447"
+		],
+		"deat-plac": "Middlebury,  Elkhart,  Indiana,  United States",
+		"id": "457",
+		"deat-date": "3 May 1882",
+		"birt-epoch": -5488617600,
+		"deat-epoch": -2766416400
+	},
+	"458": {
+		"birt-ll": [
+			39.8606016,
+			-78.72494689999999
+		],
+		"deat-ll": [
+			40.8436663,
+			-81.7640212
+		],
+		"name": "Daniel /Flickinger/",
+		"birt-plac": "Londonderry,  Bedford,  Pennsylvania,  United States",
+		"birt-date": "10 Nov 1800",
+		"sex": "M",
+		"p": [
+			"448",
+			"447"
+		],
+		"deat-plac": "Orrville,  Wayne,  Ohio,  United States",
+		"id": "458",
+		"deat-date": "15 Nov 1885",
+		"birt-epoch": -5337590400,
+		"deat-epoch": -2654784000
+	},
+	"459": {
+		"birt-ll": [
+			39.6528654,
+			-78.7625185
+		],
+		"deat-ll": [
+			39.6528654,
+			-78.7625185
+		],
+		"name": "jacob /Flickinger/",
+		"birt-plac": "Cumberland,  Allegany,  Maryland,  United States",
+		"birt-date": "20 Feb 1790",
+		"sex": "M",
+		"p": [
+			"448",
+			"447"
+		],
+		"deat-plac": "Cumberland,  Allegany,  Maryland,  United States",
+		"id": "459",
+		"deat-date": "1820",
+		"birt-epoch": -5675846400,
+		"deat-epoch": -4733596800
+	},
+	"460": {
+		"birt-ll": [
+			39.6417629,
+			-77.71999319999999
+		],
+		"deat-ll": [
+			40.9321052,
+			-81.84429340000001
+		],
+		"name": "peter /Flickinger/",
+		"birt-plac": "Hagerstown,  Washington,  Maryland,  United States",
+		"birt-date": "12 Oct 1787",
+		"sex": "M",
+		"p": [
+			"448",
+			"447"
+		],
+		"deat-plac": "Milton,  Wayne,  Ohio,  United States",
+		"id": "460",
+		"deat-date": "20 May 1849",
+		"birt-epoch": -5750326800,
+		"deat-epoch": -3806326800
+	},
+	"461": {
+		"birt-ll": [
+			49.3004246,
+			10.5719357
+		],
+		"deat-ll": [
+			40.5425952,
+			-75.6888017
+		],
+		"name": "Anna Margretha /Herdlein/",
+		"birt-plac": "Ansbach, Bayern, Germany",
+		"birt-date": "1728",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Maxatawny, Berks, Pennsylvania, United States",
+		"id": "461",
+		"deat-date": "1797",
+		"birt-epoch": -7636809600,
+		"deat-epoch": -5459270400
+	},
+	"462": {
+		"birt-ll": [
+			49.5759659,
+			10.2640087
+		],
+		"deat-ll": [
+			40.5732373,
+			-75.8185314
+		],
+		"name": "Johannes /Witt/",
+		"birt-plac": "Weigenheim, Neustadt an der Aisch-Bad Windsheim, Bayern, Germany",
+		"birt-date": "12 Mar 1725",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Greenwich, Berks, Pennsylvania, United States",
+		"id": "462",
+		"deat-date": "8 Feb 1797",
+		"birt-epoch": -7725344400,
+		"deat-epoch": -5455958400
+	},
+	"463": {
+		"birt-ll": [
+			47.0899644,
+			7.7913958
+		],
+		"deat-ll": [
+			41.2033216,
+			-77.1945247
+		],
+		"name": "Anna /Hess/",
+		"birt-plac": "Dürrenroth, Bern, Switzerland",
+		"birt-date": "6 Aug 1705",
+		"sex": "F",
+		"p": [
+			"479",
+			"478"
+		],
+		"deat-plac": "Pennsylvania, United States",
+		"id": "463",
+		"birt-epoch": -8343795600
+	},
+	"464": {
+		"birt-ll": [
+			47.13588,
+			7.81255
+		],
+		"deat-ll": [
+			51.165691,
+			10.451526
+		],
+		"name": "Durs /Fluckiger/",
+		"birt-plac": "Rohrback, Bern, Switzerland",
+		"birt-date": "1706",
+		"sex": "M",
+		"p": [
+			"477",
+			"476"
+		],
+		"deat-plac": "Germany",
+		"id": "464",
+		"deat-date": "1792",
+		"birt-epoch": -8331033600,
+		"deat-epoch": -5617123200
+	},
+	"465": {
+		"birt-ll": [
+			40.3451566,
+			-75.9927652
+		],
+		"deat-ll": [
+			40.6938725,
+			-74.2753918
+		],
+		"name": "Mary Magdalena /Flickinger/",
+		"birt-plac": "Berks, Pennsylvania, United States",
+		"birt-date": "1764",
+		"sex": "F",
+		"p": [
+			"452",
+			"451"
+		],
+		"deat-plac": "Union City, Union, Pennsylvania, United States",
+		"id": "465",
+		"deat-date": "1835",
+		"birt-epoch": -6500736000,
+		"deat-epoch": -4260211200
+	},
+	"466": {
+		"birt-ll": [
+			40.3845217,
+			-77.8822199
+		],
+		"deat-ll": [
+			40.9645293,
+			-76.8844101
+		],
+		"name": "Peter Phillip /Flickinger/",
+		"birt-plac": "Union City,  Huntingdon,  Pennsylvania,  United States",
+		"birt-date": "1762",
+		"sex": "M",
+		"p": [
+			"452",
+			"451"
+		],
+		"deat-plac": "Lewisburg,  Union,  Pennsylvania,  United States",
+		"id": "466",
+		"deat-date": "1816",
+		"birt-epoch": -6563808000,
+		"deat-epoch": -4859827200
+	},
+	"467": {
+		"birt-ll": [
+			40.3451566,
+			-75.9927652
+		],
+		"deat-ll": [
+			40.6938725,
+			-74.2753918
+		],
+		"name": "Peter Philip /Flickinger/",
+		"birt-plac": "Berks,  Pennsylvania,  United States",
+		"birt-date": "1762",
+		"sex": "M",
+		"p": [
+			"452",
+			"451"
+		],
+		"deat-plac": "Union City,  Union,  Pennsylvania,  United States",
+		"id": "467",
+		"deat-date": "1853",
+		"birt-epoch": -6563808000,
+		"deat-epoch": -3692131200
+	},
+	"468": {
+		"name": "Michael /Flickinger/",
+		"birt-date": "1811",
+		"sex": "M",
+		"p": [
+			"452",
+			"451"
+		],
+		"id": "468",
+		"deat-date": "12 Jun 1885",
+		"birt-epoch": -5017593600,
+		"deat-epoch": -2668266000
+	},
+	"469": {
+		"birt-ll": [
+			40.3451566,
+			-75.9927652
+		],
+		"deat-ll": [
+			40.3673093,
+			-76.9310859
+		],
+		"name": "Elizabeth /Flickinger/",
+		"birt-plac": "Berks, Pennsylvania, United States",
+		"birt-date": "1768",
+		"sex": "F",
+		"p": [
+			"452",
+			"451"
+		],
+		"deat-plac": "Dauphin, Dauphin, Pennsylvania, United States",
+		"id": "469",
+		"deat-date": "1782",
+		"birt-epoch": -6374505600,
+		"deat-epoch": -5932656000
+	},
+	"470": {
+		"birt-ll": [
+			40.3451566,
+			-75.9927652
+		],
+		"deat-ll": [
+			40.2010241,
+			-77.20027449999999
+		],
+		"name": "George /Flickinger/",
+		"birt-plac": "Berks,  Pennsylvania,  United States",
+		"birt-date": "1771",
+		"sex": "M",
+		"p": [
+			"452",
+			"451"
+		],
+		"deat-plac": "Carlisle,  Cumberland,  Pennsylvania,  United States",
+		"id": "470",
+		"deat-date": "1806",
+		"birt-epoch": -6279811200,
+		"deat-epoch": -5175360000
+	},
+	"471": {
+		"birt-ll": [
+			40.3451566,
+			-75.9927652
+		],
+		"deat-ll": [
+			40.433426,
+			-76.1121648
+		],
+		"name": "Christian /Flickinger/",
+		"birt-plac": "Berks,  Pennsylvania,  United States",
+		"birt-date": "1756",
+		"sex": "M",
+		"p": [
+			"452",
+			"451"
+		],
+		"deat-plac": "Bernville,  Berks,  Pennsylvania,  United States",
+		"id": "471",
+		"deat-date": "1816",
+		"birt-epoch": -6753196800,
+		"deat-epoch": -4859827200
+	},
+	"472": {
+		"birt-ll": [
+			40.3451566,
+			-75.9927652
+		],
+		"deat-ll": [
+			40.4559146,
+			-77.35165359999999
+		],
+		"name": "Henry /Flickinger/",
+		"birt-plac": "Berks,  Pennsylvania,  United States",
+		"birt-date": "10 Jan 1765",
+		"sex": "M",
+		"p": [
+			"452",
+			"451"
+		],
+		"deat-plac": "Ickesburg,  Perry,  Pennsylvania,  United States",
+		"id": "472",
+		"deat-date": "10 Nov 1853",
+		"birt-epoch": -6468307200,
+		"deat-epoch": -3665059200
+	},
+	"473": {
+		"birt-ll": [
+			51.165691,
+			10.451526
+		],
+		"deat-ll": [
+			41.2033216,
+			-77.1945247
+		],
+		"name": "Johan Christian /Derr/",
+		"birt-plac": "Germany",
+		"birt-date": "1715",
+		"sex": "M",
+		"p": [
+			"530",
+			"529"
+		],
+		"deat-plac": "Pennsylvania, United States",
+		"id": "473",
+		"birt-epoch": -8047036800
+	},
+	"474": {
+		"birt-ll": [
+			50.118346,
+			7.3089527
+		],
+		"deat-ll": [
+			40.8637615,
+			-76.7915373
+		],
+		"name": "Peter /Flickinger/",
+		"birt-plac": "Palatinate, Hessen, Rheinland-Pfalz, Germany",
+		"birt-date": "1730",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Lewisburg Sunbury, Union, Pennsylvania, United States",
+		"id": "474",
+		"deat-date": "10 Sep 1807",
+		"birt-epoch": -7573651200,
+		"deat-epoch": -5122026000
+	},
+	"475": {
+		"p": [
+			"464",
+			"463"
+		],
+		"birt-date": "1709",
+		"sex": "M",
+		"id": "475",
+		"name": "Johannes /Flickinger/",
+		"birt-epoch": -8236339200
+	},
+	"476": {
+		"birt-ll": [
+			46.94911,
+			7.438484
+		],
+		"name": "Elizabeth /FLICKINGER/",
+		"birt-plac": "Bern, Bern, Switzerland",
+		"birt-date": "1668",
+		"sex": "F",
+		"p": [
+			"488",
+			"487"
+		],
+		"id": "476",
+		"birt-epoch": -9530179200
+	},
+	"477": {
+		"birt-ll": [
+			47.13588,
+			7.81255
+		],
+		"deat-ll": [
+			47.0280038,
+			7.7454244
+		],
+		"name": "Durs /Flickinger/",
+		"birt-plac": "Rohrbach, Bern, Switzerland",
+		"birt-date": "16 Oct 1664",
+		"sex": "M",
+		"p": [
+			"481",
+			"480"
+		],
+		"deat-plac": "Sumiswald, Switzerland",
+		"id": "477",
+		"birt-epoch": -9631414800
+	},
+	"478": {
+		"birt-ll": [
+			46.94911,
+			7.438484
+		],
+		"deat-ll": [
+			41.2033216,
+			-77.1945247
+		],
+		"name": "Elsbeth /Reggmann/",
+		"birt-plac": "Bern, Bern, Switzerland",
+		"birt-date": "1689",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Pennsylvania, United States",
+		"id": "478",
+		"deat-date": "AFTER 1748",
+		"birt-epoch": -8867404800,
+		"deat-epoch": -7005628800
+	},
+	"479": {
+		"birt-ll": [
+			47.0899644,
+			7.7913958
+		],
+		"deat-ll": [
+			41.2033216,
+			-77.1945247
+		],
+		"name": "Samuel /Hess/",
+		"birt-plac": "Dürrenroth, Bern, Switzerland",
+		"birt-date": "23 Jan 1684",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Pennsyvania, United States",
+		"id": "479",
+		"deat-date": "9 April 1744",
+		"birt-epoch": -9023328000,
+		"deat-epoch": -7123309200
+	},
+	"480": {
+		"birt-ll": [
+			47.14618,
+			7.79002
+		],
+		"deat-ll": [
+			46.9479222,
+			7.444608499999999
+		],
+		"name": "Barbara /Rickli/",
+		"birt-plac": "Kleindietwil, Switzerland",
+		"birt-date": "6 DEC 1635",
+		"sex": "F",
+		"p": [
+			"496",
+			"495"
+		],
+		"deat-plac": "Rohrbaugh, Bern, Switzerland",
+		"id": "480",
+		"deat-date": "Feb 1676",
+		"birt-epoch": -10542240000,
+		"deat-epoch": -9275011200
+	},
+	"481": {
+		"birt-ll": [
+			47.14618,
+			7.79002
+		],
+		"name": "Urich /Fluckiger Flickinger/",
+		"birt-plac": "Kleindietwil, Oberaagau, Canton of Bern, Switzerland, Europa.",
+		"birt-date": "28 February 1636",
+		"sex": "M",
+		"p": [
+			"490",
+			"489"
+		],
+		"id": "481",
+		"deat-date": "7 Jun 1752",
+		"birt-epoch": -10534982400,
+		"deat-epoch": -6865750800
+	},
+	"482": {
+		"p": [
+			"477",
+			"476"
+		],
+		"birt-date": "1701",
+		"sex": "M",
+		"id": "482",
+		"name": "Andreas /Fluckiger Flickinger/",
+		"birt-epoch": -8488800000
+	},
+	"483": {
+		"birt-ll": [
+			47.13588,
+			7.81255
+		],
+		"name": "Barbara /Fluckiger Flickinger/",
+		"birt-plac": "Rohrbach, Bern, Switzerland",
+		"birt-date": "22 Oct 1702",
+		"sex": "F",
+		"p": [
+			"477",
+			"476"
+		],
+		"id": "483",
+		"deat-date": "29 Dec 1760",
+		"birt-epoch": -8431837200,
+		"deat-epoch": -6595574400
+	},
+	"484": {
+		"birt-ll": [
+			47.13588,
+			7.81255
+		],
+		"name": "Elsbeth /Fluckiger Flickinger/",
+		"birt-plac": "Rohrbach, Bern, Switzerland",
+		"birt-date": "9 Apr 1705",
+		"sex": "F",
+		"p": [
+			"477",
+			"476"
+		],
+		"id": "484",
+		"birt-epoch": -8354077200
+	},
+	"485": {
+		"birt-ll": [
+			46.818188,
+			8.227512
+		],
+		"name": "Ulrich /Fluckiger Flickinger/",
+		"birt-plac": "Switzerland",
+		"birt-date": "18 Sep 1698",
+		"sex": "M",
+		"p": [
+			"477",
+			"476"
+		],
+		"id": "485",
+		"deat-date": "7 Jun 1752",
+		"birt-epoch": -8560918800,
+		"deat-epoch": -6865750800
+	},
+	"486": {
+		"birt-ll": [
+			46.818188,
+			8.227512
+		],
+		"name": "Johannes /Fluckiger Flickinger/",
+		"birt-plac": "Switzerland",
+		"birt-date": "1700",
+		"sex": "M",
+		"p": [
+			"477",
+			"476"
+		],
+		"id": "486",
+		"deat-date": "1 Jan 1779",
+		"birt-epoch": -8520336000,
+		"deat-epoch": -6027321600
+	},
+	"487": {
+		"birt-ll": [
+			47.1126917,
+			7.8496431
+		],
+		"deat-ll": [
+			47.0280038,
+			7.7454244
+		],
+		"name": "Elsbeth /ANDEREGG/",
+		"birt-plac": "Huttwil, Bern, Switzerland",
+		"birt-date": "28 May 1626",
+		"sex": "F",
+		"p": [
+			"510",
+			"509"
+		],
+		"deat-plac": "Sumiswald, Bern, Switzerland",
+		"id": "487",
+		"deat-date": "10 Jun 1634",
+		"birt-epoch": -10842829200,
+		"deat-epoch": -10589245200
+	},
+	"488": {
+		"birt-ll": [
+			47.13588,
+			7.81255
+		],
+		"deat-ll": [
+			47.0280038,
+			7.7454244
+		],
+		"name": "Andreas /Fluckiger/FLICKINGER/",
+		"birt-plac": "Rohrbach, Bern, Switzerland",
+		"birt-date": "10 Sep 1626",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Sumiswald, Bern, Switzerland",
+		"id": "488",
+		"birt-epoch": -10833757200
+	},
+	"489": {
+		"birt-ll": [
+			47.13588,
+			7.81255
+		],
+		"name": "Margaretha /Strosser/",
+		"birt-plac": "Rohrbach,Bern,,Switzerland",
+		"sex": "F",
+		"p": [],
+		"id": "489"
+	},
+	"490": {
+		"birt-ll": [
+			47.13588,
+			7.81255
+		],
+		"name": "Hans /Fluckiger/",
+		"birt-plac": "Rohrbach, Bern, Switzerland",
+		"birt-date": "1600",
+		"sex": "M",
+		"p": [
+			"512",
+			"511"
+		],
+		"id": "490",
+		"birt-epoch": -11676096000
+	},
+	"491": {
+		"p": [
+			"481",
+			"480"
+		],
+		"birt-date": "1676",
+		"sex": "M",
+		"id": "491",
+		"name": "Johannes /Flickinger/",
+		"birt-epoch": -9277718400
+	},
+	"492": {
+		"p": [
+			"481",
+			"480"
+		],
+		"birt-date": "1674",
+		"sex": "M",
+		"id": "492",
+		"name": "Huldreich /Flickinger/",
+		"birt-epoch": -9340790400
+	},
+	"493": {
+		"p": [
+			"481",
+			"480"
+		],
+		"birt-date": "1667",
+		"sex": "F",
+		"id": "493",
+		"name": "Anna /Flickinger/",
+		"birt-epoch": -9561715200
+	},
+	"494": {
+		"p": [
+			"481",
+			"480"
+		],
+		"birt-date": "1670",
+		"sex": "F",
+		"id": "494",
+		"name": "Elisabeth /Flickinger/",
+		"birt-epoch": -9467020800
+	},
+	"495": {
+		"birt-ll": [
+			47.14618,
+			7.79002
+		],
+		"name": "Anna /Kaeser/",
+		"birt-plac": "Kleindietwil, Bern, Switzerland",
+		"birt-date": "1610",
+		"sex": "F",
+		"p": [],
+		"id": "495",
+		"birt-epoch": -11360476800
+	},
+	"496": {
+		"birt-ll": [
+			47.14618,
+			7.79002
+		],
+		"name": "Ulrich /Rickli/",
+		"birt-plac": "Kleindietwil, Bern, Switzerland",
+		"birt-date": "10 Feb 1605",
+		"sex": "M",
+		"p": [
+			"519",
+			"518"
+		],
+		"id": "496",
+		"birt-epoch": -11514758400
+	},
+	"497": {
+		"birt-ll": [
+			46.94911,
+			7.438484
+		],
+		"name": "Ulrich /Fluckiger/",
+		"birt-plac": "Bern, Bern, Switzerland",
+		"sex": "M",
+		"p": [
+			"488",
+			"487"
+		],
+		"id": "497"
+	},
+	"498": {
+		"birt-ll": [
+			47.0101726,
+			7.566812199999999
+		],
+		"name": "Elsbeth /Fluckiger/",
+		"birt-plac": "Krauchtal, Bern, Switzerland",
+		"birt-date": "1639",
+		"sex": "F",
+		"p": [
+			"488",
+			"487"
+		],
+		"id": "498",
+		"birt-epoch": -10445328000
+	},
+	"499": {
+		"birt-ll": [
+			46.9479222,
+			7.4446085
+		],
+		"name": "Durs /Fluckiger/",
+		"birt-plac": "Bern, Switzerland",
+		"birt-date": "1648",
+		"sex": "M",
+		"p": [
+			"488",
+			"487"
+		],
+		"id": "499",
+		"birt-epoch": -10161331200
+	},
+	"500": {
+		"birt-ll": [
+			46.9479222,
+			7.4446085
+		],
+		"name": "Kaspar /Fluckiger/",
+		"birt-plac": "Bern, Switzerland",
+		"birt-date": "1647",
+		"sex": "M",
+		"p": [
+			"488",
+			"487"
+		],
+		"id": "500",
+		"birt-epoch": -10192867200
+	},
+	"501": {
+		"birt-ll": [
+			46.94911,
+			7.438484
+		],
+		"name": "Andreas /Fluckiger/",
+		"birt-plac": "Bern, Bern, Switzerland",
+		"birt-date": "1666",
+		"sex": "M",
+		"p": [
+			"488",
+			"487"
+		],
+		"id": "501",
+		"birt-epoch": -9593251200
+	},
+	"502": {
+		"birt-ll": [
+			46.94911,
+			7.438484
+		],
+		"name": "Barbara /Fluckiger/",
+		"birt-plac": "Bern, Bern, Switzerland",
+		"birt-date": "1670",
+		"sex": "F",
+		"p": [
+			"488",
+			"487"
+		],
+		"id": "502",
+		"birt-epoch": -9467020800
+	},
+	"503": {
+		"birt-ll": [
+			46.94911,
+			7.438484
+		],
+		"name": "Verena /Fluckiger/",
+		"birt-plac": "Bern, Bern, Switzerland",
+		"birt-date": "1660",
+		"sex": "F",
+		"p": [
+			"488",
+			"487"
+		],
+		"id": "503",
+		"birt-epoch": -9782640000
+	},
+	"504": {
+		"p": [
+			"488",
+			"487"
+		],
+		"birt-date": "1653",
+		"sex": "F",
+		"id": "504",
+		"name": "Anna /Fluckiger/",
+		"birt-epoch": -10003478400
+	},
+	"505": {
+		"birt-ll": [
+			46.94911,
+			7.438484
+		],
+		"name": "Elsbeth /Fluckiger/",
+		"birt-plac": "Bern, Bern, Switzerland",
+		"birt-date": "1660",
+		"sex": "F",
+		"p": [
+			"488",
+			"487"
+		],
+		"id": "505",
+		"birt-epoch": -9782640000
+	},
+	"506": {
+		"birt-ll": [
+			47.0280038,
+			7.7454244
+		],
+		"deat-ll": [
+			47.0280038,
+			7.7454244
+		],
+		"name": "Hans /Flukiger/",
+		"birt-plac": "Sumiswald, Bern, Switzerland",
+		"birt-date": "1660",
+		"sex": "M",
+		"p": [
+			"488",
+			"487"
+		],
+		"deat-plac": "Sumiswald, Bern, Switzerland",
+		"id": "506",
+		"deat-date": "11 Apr 1726",
+		"birt-epoch": -9782640000,
+		"deat-epoch": -7691216400
+	},
+	"507": {
+		"birt-ll": [
+			46.94911,
+			7.438484
+		],
+		"name": "Kaspar /Fluckiger/",
+		"birt-plac": "Bern, Bern, Switzerland",
+		"birt-date": "1647",
+		"sex": "M",
+		"p": [
+			"488",
+			"487"
+		],
+		"id": "507",
+		"birt-epoch": -10192867200
+	},
+	"508": {
+		"birt-ll": [
+			46.94911,
+			7.438484
+		],
+		"name": "Urs /Fluckiger/",
+		"birt-plac": "Bern, Bern, Switzerland",
+		"birt-date": "1648",
+		"sex": "M",
+		"p": [
+			"488",
+			"487"
+		],
+		"id": "508",
+		"birt-epoch": -10161331200
+	},
+	"509": {
+		"birt-ll": [
+			47.13588,
+			7.81255
+		],
+		"deat-ll": [
+			46.94911,
+			7.438484
+		],
+		"name": "Elsbeth /Kaeser/",
+		"birt-plac": "Rorbach, Switzerland",
+		"birt-date": "1835",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Bern, Bern, Switzerland",
+		"id": "509",
+		"birt-epoch": -4260211200
+	},
+	"510": {
+		"birt-ll": [
+			46.94911,
+			7.438484
+		],
+		"deat-ll": [
+			46.94911,
+			7.438484
+		],
+		"name": "Durs /Anderegg/",
+		"birt-plac": "Bern, Bern, Switzerland",
+		"birt-date": "1606",
+		"sex": "M",
+		"p": [
+			"521"
+		],
+		"deat-plac": "Bern, Bern, Switzerland",
+		"id": "510",
+		"birt-epoch": -11486707200
+	},
+	"511": {
+		"p": [],
+		"birt-date": "abt 1575",
+		"sex": "F",
+		"id": "511",
+		"name": "Barbi /Dacubach/",
+		"birt-epoch": -12464985600
+	},
+	"512": {
+		"birt-ll": [
+			46.9479222,
+			7.4446085
+		],
+		"name": "Ulrich /Fluckiger/",
+		"birt-plac": "Bern, Switzerland",
+		"birt-date": "1574",
+		"sex": "M",
+		"p": [
+			"520"
+		],
+		"id": "512",
+		"birt-epoch": -12496550400
+	},
+	"513": {
+		"p": [
+			"490",
+			"489"
+		],
+		"birt-date": "1629",
+		"sex": "M",
+		"id": "513",
+		"name": "Melchior /Fluckiger/",
+		"birt-epoch": -10760860800
+	},
+	"514": {
+		"p": [
+			"490",
+			"489"
+		],
+		"birt-date": "1631",
+		"sex": "F",
+		"id": "514",
+		"name": "Elsbeth /Fluckiger/",
+		"birt-epoch": -10697788800
+	},
+	"515": {
+		"p": [
+			"490",
+			"489"
+		],
+		"birt-date": "1633",
+		"sex": "M",
+		"id": "515",
+		"name": "Peter /Fluckiger/",
+		"birt-epoch": -10634630400
+	},
+	"516": {
+		"birt-ll": [
+			46.818188,
+			8.227512
+		],
+		"name": "Barbara /Fluckiger/",
+		"birt-plac": "Switzerland",
+		"birt-date": "1622",
+		"sex": "F",
+		"p": [
+			"490",
+			"489"
+		],
+		"id": "516",
+		"deat-date": "1629",
+		"birt-epoch": -10981785600,
+		"deat-epoch": -10760860800
+	},
+	"517": {
+		"p": [
+			"490",
+			"489"
+		],
+		"birt-date": "26 Apr 1629",
+		"sex": "M",
+		"id": "517",
+		"name": "Hans /Fluckiger/",
+		"birt-epoch": -10750899600
+	},
+	"518": {
+		"birt-ll": [
+			51.165691,
+			10.451526
+		],
+		"name": "Anna /Jaeggi/",
+		"birt-plac": "Germany",
+		"birt-date": "1563",
+		"sex": "F",
+		"p": [],
+		"id": "518",
+		"birt-epoch": -12843705600
+	},
+	"519": {
+		"birt-ll": [
+			46.818188,
+			8.227512
+		],
+		"name": "Hans /Rickli/",
+		"birt-plac": "Switzerland",
+		"birt-date": "1561",
+		"sex": "M",
+		"p": [],
+		"id": "519",
+		"birt-epoch": -12906777600
+	},
+	"520": {
+		"p": [],
+		"sex": "M",
+		"id": "520",
+		"name": "End /FLUCKIGER/"
+	},
+	"521": {
+		"birt-ll": [
+			47.10639,
+			7.667789999999998
+		],
+		"deat-ll": [
+			46.94911,
+			7.438484
+		],
+		"name": "Durs /Anderegg/",
+		"birt-plac": "Wynigen, Bern, Switzerland",
+		"birt-date": "1566",
+		"sex": "M",
+		"p": [
+			"524",
+			"523"
+		],
+		"deat-plac": "Bern, Bern, Switzerland, ",
+		"id": "521",
+		"birt-epoch": -12749011200
+	},
+	"522": {
+		"birt-ll": [
+			40.4172871,
+			-82.907123
+		],
+		"name": "John /Anderegg/",
+		"birt-plac": "Ohio",
+		"birt-date": "abt 1867",
+		"sex": "M",
+		"p": [
+			"510",
+			"509"
+		],
+		"id": "522",
+		"birt-epoch": -3250339200
+	},
+	"523": {
+		"birt-ll": [
+			46.818188,
+			8.227512
+		],
+		"name": "Elisbeth /Stamfler/",
+		"birt-plac": "Switzerland",
+		"sex": "F",
+		"p": [],
+		"id": "523"
+	},
+	"524": {
+		"birt-ll": [
+			47.26349,
+			7.642189999999998
+		],
+		"deat-ll": [
+			46.818188,
+			8.227512
+		],
+		"name": "Peter /Anderegg/",
+		"birt-plac": "Rumisberg, Berne, Switzerland",
+		"birt-date": "ABT 1551",
+		"sex": "M",
+		"p": [
+			"526"
+		],
+		"deat-plac": "Switzerland",
+		"id": "524",
+		"birt-epoch": -13222368000
+	},
+	"525": {
+		"birt-ll": [
+			47.10639,
+			7.667789999999998
+		],
+		"deat-ll": [
+			46.94911,
+			7.438484
+		],
+		"name": "Christina /Christen/",
+		"birt-plac": "Wynigen, Bern, Switzerland",
+		"birt-date": "1570",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Bern, Bern, Switzerland",
+		"id": "525",
+		"birt-epoch": -12622780800
+	},
+	"526": {
+		"birt-ll": [
+			46.818188,
+			8.227512
+		],
+		"name": "Hanns /Anderegg/",
+		"birt-plac": "Switzerland",
+		"birt-date": "Abt. 1520",
+		"sex": "M",
+		"p": [
+			"527"
+		],
+		"id": "526",
+		"birt-epoch": -14200675200
+	},
+	"527": {
+		"birt-ll": [
+			47.26349,
+			7.642189999999998
+		],
+		"deat-ll": [
+			46.7273913,
+			8.1858773
+		],
+		"name": "Hanns /AN DER EGG/",
+		"birt-plac": "Rumisberg, Bern, Switzerland",
+		"birt-date": "1480",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Meiringen, Canton Bern, Switzerland",
+		"id": "527",
+		"deat-date": "Abt. 1540",
+		"birt-epoch": -15462921600,
+		"deat-epoch": -13569523200
+	},
+	"528": {
+		"birt-ll": [
+			47.2636835,
+			7.6522294
+		],
+		"name": "Apolonia /WINIGER/",
+		"birt-plac": "Walliswil-Bipp",
+		"sex": "F",
+		"p": [],
+		"id": "528"
+	},
+	"529": {
+		"birt-ll": [
+			48.3236767,
+			11.0585893
+		],
+		"deat-ll": [
+			41.9318294,
+			-73.90743719999999
+		],
+		"name": "Anna Maria /Meyer/",
+		"birt-plac": "Rohrbach, Aichach-Friedberg, Bayern, Germany",
+		"birt-date": "12 May 1695",
+		"sex": "F",
+		"p": [
+			"541",
+			"540"
+		],
+		"deat-plac": "Rhinebeck, Dutchess, New York, United States",
+		"id": "529",
+		"deat-date": "10 Jan 1794",
+		"birt-epoch": -8666758800,
+		"deat-epoch": -5553158400
+	},
+	"530": {
+		"birt-ll": [
+			49.0647048,
+			8.8945352
+		],
+		"deat-ll": [
+			40.36791729999999,
+			-76.1377935
+		],
+		"name": "Georg or Jerg /Deorr or Thaeter/",
+		"birt-plac": "Leonbronn, Heilbronn, Baden-Wuerttemberg, Germany",
+		"birt-date": "7 Jun 1699",
+		"sex": "M",
+		"p": [
+			"539",
+			"538"
+		],
+		"deat-plac": "Heidelberg, Berks, Pennsylvania, United States",
+		"id": "530",
+		"deat-date": "1740",
+		"birt-epoch": -8538282000,
+		"deat-epoch": -7258118400
+	},
+	"531": {
+		"birt-ll": [
+			42.1087135,
+			-73.8944004
+		],
+		"deat-ll": [
+			41.9318294,
+			-73.90743719999999
+		],
+		"name": "Anna Elisabeth /Deter/",
+		"birt-plac": "West Camp, Dutchess, New York, United States",
+		"birt-date": "Aug 1719 or Jun 1727",
+		"sex": "F",
+		"p": [
+			"530",
+			"529"
+		],
+		"deat-plac": "Rhinebeck, Dutchess, New York, United States",
+		"id": "531",
+		"deat-date": "1727",
+		"birt-epoch": null,
+		"deat-epoch": -7668345600
+	},
+	"532": {
+		"name": "Maria Christina /Dieter/",
+		"birt-date": "25 Oct 1726",
+		"sex": "F",
+		"p": [
+			"530",
+			"529"
+		],
+		"id": "532",
+		"deat-date": "26 Nov 1726",
+		"birt-epoch": -7674195600,
+		"deat-epoch": -7671427200
+	},
+	"533": {
+		"birt-ll": [
+			42.1087135,
+			-73.8944004
+		],
+		"deat-ll": [
+			41.9318294,
+			-73.90743719999999
+		],
+		"name": "Henrich /Teater 0312/",
+		"birt-plac": "West Camp, Dutchess, New York, USA",
+		"birt-date": "1725",
+		"sex": "M",
+		"p": [
+			"530",
+			"529"
+		],
+		"deat-plac": "Rhinebeck, Dutchess, New York, USA",
+		"id": "533",
+		"deat-date": "25 Feb 1759",
+		"birt-epoch": -7731417600,
+		"deat-epoch": -6653721600
+	},
+	"534": {
+		"birt-ll": [
+			41.9318294,
+			-73.90743719999999
+		],
+		"name": "Lorenz Hans /Deter/",
+		"birt-plac": "Rhinebeck, Dutchess, New York, United States",
+		"birt-date": "25 Dec 1736",
+		"sex": "M",
+		"p": [
+			"530",
+			"529"
+		],
+		"id": "534",
+		"birt-epoch": -7353302400
+	},
+	"535": {
+		"birt-ll": [
+			51.165691,
+			10.451526
+		],
+		"deat-ll": [
+			40.3451566,
+			-75.9927652
+		],
+		"name": "Anna Maria /Doerr/",
+		"birt-plac": "Germany",
+		"birt-date": "1734",
+		"sex": "F",
+		"p": [
+			"530",
+			"529"
+		],
+		"deat-plac": "Berks, Pennsylvania, United States",
+		"id": "535",
+		"deat-date": "25 Dec 1770",
+		"birt-epoch": -7447420800,
+		"deat-epoch": -6280387200
+	},
+	"536": {
+		"birt-ll": [
+			51.165691,
+			10.451526
+		],
+		"deat-ll": [
+			39.9525839,
+			-75.1652215
+		],
+		"name": "Ludwig /Doerr/",
+		"birt-plac": "Germany",
+		"birt-date": "1731",
+		"sex": "M",
+		"p": [
+			"530",
+			"529"
+		],
+		"deat-plac": "Philadelphia, Philadelphia, Pennsylvania, United States",
+		"id": "536",
+		"deat-date": "Oct 1785",
+		"birt-epoch": -7542115200,
+		"deat-epoch": -5814349200
+	},
+	"537": {
+		"birt-ll": [
+			42.1231454,
+			-73.93485559999999
+		],
+		"deat-ll": [
+			41.9318294,
+			-73.90743719999999
+		],
+		"name": "Johannes /Fuedter/",
+		"birt-plac": "c-9 Feb 1718 St Pauls. West CAmp, NY",
+		"birt-date": "11 Jan 1718",
+		"sex": "M",
+		"p": [
+			"530",
+			"529"
+		],
+		"deat-plac": "probably Rhinebeck",
+		"id": "537",
+		"deat-date": "17 Nov 1773",
+		"birt-epoch": -7951449600,
+		"deat-epoch": -6188976000
+	},
+	"538": {
+		"birt-ll": [
+			48.7904472,
+			11.4978895
+		],
+		"deat-ll": [
+			49.0647048,
+			8.8945352
+		],
+		"name": "Mrs Johann /Thaeter/",
+		"birt-plac": "Kingdom, Bayern, Germany",
+		"birt-date": "1660",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Leonbronn, Heilbronn, Baden-Wuerttemberg, Germany",
+		"id": "538",
+		"deat-date": "31 Jul 1708",
+		"birt-epoch": -9782640000,
+		"deat-epoch": -8249619600
+	},
+	"539": {
+		"birt-ll": null,
+		"deat-ll": [
+			49.0647048,
+			8.8945352
+		],
+		"name": "Johann /Thaeter/",
+		"birt-plac": "Lehnberg,Giglingen,Württemberg,Germany",
+		"birt-date": "1660",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Leonbronn, Heilbronn, Baden-Wuerttemberg, Germany",
+		"id": "539",
+		"deat-date": "31 Jul 1708",
+		"birt-epoch": -9782640000,
+		"deat-epoch": -8249619600
+	},
+	"540": {
+		"birt-ll": [
+			52.369167,
+			9.040833
+		],
+		"deat-ll": [
+			51.165691,
+			10.451526
+		],
+		"name": "Ilsche /Tielker/",
+		"birt-plac": "Bierde, Minden-Lubbecke, Nordrhein-Westfalen, Germany",
+		"birt-date": "1652",
+		"sex": "F",
+		"p": [],
+		"deat-plac": "Germany",
+		"id": "540",
+		"deat-date": "1712",
+		"birt-epoch": -10035100800,
+		"deat-epoch": -8141731200
+	},
+	"541": {
+		"birt-ll": [
+			48.3236767,
+			11.0585893
+		],
+		"deat-ll": [
+			41.9318294,
+			-73.90743719999999
+		],
+		"name": "John Frederick /Meyer/",
+		"birt-plac": "Rohrbach, Aichach-Friedberg, Bayern, Germany",
+		"birt-date": "1660",
+		"sex": "M",
+		"p": [],
+		"deat-plac": "Rhinebeck, Dutchess, New York, United States",
+		"id": "541",
+		"deat-date": "1709",
+		"birt-epoch": -9782640000,
+		"deat-epoch": -8236339200
+	},
+	"542": {
+		"p": [],
+		"sex": "M",
+		"id": "542",
+		"name": "George /Rein/"
+	},
+	"543": {
+		"birt-ll": [
+			50.0295221,
+			6.1755518
+		],
+		"deat-ll": [
+			40.0378755,
+			-76.3055144
+		],
+		"name": "Heinrich Christopher /Meyer/",
+		"birt-plac": "Mühlbach, Bitburg-Prum, Rheinland-Pfalz, Germany",
+		"birt-date": "1703",
+		"sex": "M",
+		"p": [
+			"541",
+			"540"
+		],
+		"deat-plac": "Lancaster, Lancaster, Pennsylvania, United States",
+		"id": "543",
+		"deat-date": "4 Dec 1758",
+		"birt-epoch": -8425728000,
+		"deat-epoch": -6660892800
+	}
+}
