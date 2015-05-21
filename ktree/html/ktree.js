@@ -63,7 +63,7 @@ function dive(id, gen){
           fillColor    : color(places[pl].maxGen),
           fillOpacity  : 1,
           strokeWeight : 1,
-          scale        : 4+places[pl].people.length,
+          scale        : 6+2*places[pl].people.length,
         },
       });
       google.maps.event.addListener(marker, 'mouseover', function(){
