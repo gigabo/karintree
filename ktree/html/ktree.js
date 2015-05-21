@@ -75,7 +75,7 @@ function dive(id){
 
   (node.p||[]).forEach(function(id){
     var pnt = dive(id);
-    if (!pnt) return;
+    if (!pnt || node['birt-plac'] == data[id]['birt-plac']) return;
     new google.maps.Polyline({
       map           : map,
       path          : [pnt, ll],
