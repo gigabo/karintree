@@ -1,4 +1,4 @@
-var map, data;
+var map, data, bounds;
 
 function googleReady(){
   fetchData();
@@ -15,14 +15,14 @@ function fetchData(){
 function initMap(){
   map = new google.maps.Map(document.getElementById('map'), {
     mapTypeId : google.maps.MapTypeId.ROADMAP,
-    center    : {lat: 42.5292597, lng: -71.3495046},
-    zoom      : 3,
   });
+  bounds = new google.maps.LatLngBounds();
 }
 
 function receiveData(d){
   data = d;
   dive(1);
+  map.fitBounds(bounds);
 }
 
 function dive(id){
@@ -34,6 +34,8 @@ function dive(id){
   if (!ll) return;
 
   ll = new google.maps.LatLng(ll[0], ll[1]);
+
+  bounds.extend(ll);
 
   new google.maps.Marker({
     position : ll,
