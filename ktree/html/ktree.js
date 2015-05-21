@@ -42,13 +42,31 @@ function dive(id){
       path         : google.maps.SymbolPath.CIRCLE,
       fillColor    : 'red',
       fillOpacity  : 1,
-      strokeWeight : 0,
-      scale        : 8,
+      strokeWeight : 1,
+      scale        : 6,
     },
   });
 
   (node.p||[]).forEach(function(id){
-    dive(id)
+    var pnt = dive(id);
+    if (!pnt) return;
+    new google.maps.Polyline({
+      map           : map,
+      path          : [pnt, ll],
+      geodesic      : true,
+      strokeColor   : '#000000',
+      strokeOpacity : 1.0,
+      strokeWeight  : 1,
+      icons         : [{
+        offset : '50%',
+        icon   : {
+          path         : google.maps.SymbolPath.FORWARD_CLOSED_ARROW,
+          scale        : 2,
+          strokeWeight : 1,
+          fillOpacity  : 1,
+        },
+      }]
+    })
   });
 
   return ll;
