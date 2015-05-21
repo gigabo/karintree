@@ -31,12 +31,16 @@ function receiveData(d){
   map.fitBounds(bounds);
 }
 
+function cleanName(name){
+  return (name||'').split(', ').filter(function(v){ return v }).join(', ');
+}
+
 function dive(id){
   if (!id) return;
 
   var node = data[id]
   ,   ll   = node['birt-ll']
-  ,   pnam = node['birt-plac']
+  ,   pnam = cleanName(node['birt-plac'])
   ,   pl   = (ll||[]).join('_')
 
   if (!ll) return;
