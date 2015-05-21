@@ -59,11 +59,13 @@ function dive(id, gen){
         position : ll,
         map      : map,
         icon     : {
-          path         : google.maps.SymbolPath.CIRCLE,
-          fillColor    : color(places[pl].maxGen),
-          fillOpacity  : 1,
-          strokeWeight : 1,
-          scale        : 6+2*places[pl].people.length,
+          path          : google.maps.SymbolPath.CIRCLE,
+          fillColor     : color(places[pl].maxGen),
+          fillOpacity   : 0.8,
+          strokeWeight  : 1,
+          strokeOpacity : 0.8,
+          strokeColor   : '#333333',
+          scale         : 6+2*places[pl].people.length,
         },
       });
       google.maps.event.addListener(marker, 'mouseover', function(){
@@ -103,20 +105,21 @@ function dive(id, gen){
   (node.p||[]).forEach(function(id){
     var pnt = dive(id, gen+1);
     if (!pnt || node.pl == data[id].pl) return;
+    var opa = 0.4;
     new google.maps.Polyline({
       map           : map,
       path          : [pnt, ll],
       geodesic      : true,
-      strokeColor   : '#000000',
-      strokeOpacity : 1.0,
-      strokeWeight  : 1,
+      strokeOpacity : opa,
+      strokeWeight  : 2,
       icons         : [{
         offset : '50%',
         icon   : {
-          path         : google.maps.SymbolPath.FORWARD_CLOSED_ARROW,
-          scale        : 2,
-          strokeWeight : 1,
-          fillOpacity  : 1,
+          path          : google.maps.SymbolPath.FORWARD_CLOSED_ARROW,
+          scale         : 2,
+          strokeWeight  : 2,
+          strokeOpacity : opa,
+          fillOpacity   : opa,
         },
       }]
     })
