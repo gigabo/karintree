@@ -126,6 +126,8 @@ function dive(id, gen){
 }
 
 function color(gen){
+  if (0 == gen)
+    return '#BB47F1';
   var r = (255*(gen/maxGen))|0
   ,   g = 255-r
   return 'rgb('+r+','+g+',0)'
