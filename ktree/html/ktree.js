@@ -1,4 +1,4 @@
-var map, data, bounds, iw;
+var map, data, bounds, iw, maxGen;
 var places = {};
 
 function googleReady(){
@@ -35,8 +35,10 @@ function cleanName(name){
   return (name||'').split(', ').filter(function(v){ return v }).join(', ');
 }
 
-function dive(id){
+function dive(id, gen){
   if (!id) return;
+
+  gen || (gen = 0);
 
   var node = data[id]
   ,   ll   = node['birt-ll']
@@ -58,7 +60,7 @@ function dive(id){
         map      : map,
         icon     : {
           path         : google.maps.SymbolPath.CIRCLE,
-          fillColor    : 'red',
+          fillColor    : color(places[pl].maxGen),
           fillOpacity  : 1,
           strokeWeight : 1,
           scale        : 4+places[pl].people.length,
@@ -76,6 +78,7 @@ function dive(id){
             return (
               '<tr><td class="name">'+person.name+
               '</td><td class="date">'+(person['birt-date']||'unknown')+
+              '</td><td class="gen">'+person.generation+
               '</td></tr>'
             )
           }).join('')+'</table>'
@@ -90,10 +93,15 @@ function dive(id){
     };
   }
 
+  node.generation = gen;
+
   places[pl].people.push(node);
 
+  places[pl].maxGen = Math.max((places[pl].maxGen||0), gen);
+             maxGen = Math.max((           maxGen||0), gen);
+
   (node.p||[]).forEach(function(id){
-    var pnt = dive(id);
+    var pnt = dive(id, gen+1);
     if (!pnt || node.pl == data[id].pl) return;
     new google.maps.Polyline({
       map           : map,
@@ -115,4 +123,10 @@ function dive(id){
   });
 
   return ll;
+}
+
+function color(gen){
+  var r = (255*(gen/maxGen))|0
+  ,   g = 255-r
+  return 'rgb('+r+','+g+',0)'
 }
