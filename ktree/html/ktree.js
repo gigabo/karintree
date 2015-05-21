@@ -56,8 +56,14 @@ function dive(id){
       },
     });
     google.maps.event.addListener(marker, 'mouseover', function(){
+      if (!places[pl].didSort){
+        places[pl].didSort = true;
+        places[pl].people.sort(function(a, b){
+          return a['birt-epoch'] - b['birt-epoch'];
+        });
+      }
       iw.setContent(
-        '<h3>'+pl+'</h3><table>'+places[pl].map(function(person){
+        '<h3>'+pl+'</h3><table>'+places[pl].people.map(function(person){
           return (
             '<tr><td class="name">'+person.name+
             '</td><td class="date">'+(person['birt-date']||'unknown')+
@@ -68,10 +74,12 @@ function dive(id){
       iw.setPosition(ll);
       iw.open(map);
     });
-    places[pl] = [];
+    places[pl] = {
+      people: []
+    };
   }
 
-  places[pl].push(node);
+  places[pl].people.push(node);
 
   (node.p||[]).forEach(function(id){
     var pnt = dive(id);
