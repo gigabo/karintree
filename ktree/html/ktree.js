@@ -59,8 +59,8 @@ function dive(id){
       iw.setContent(
         '<h3>'+pl+'</h3><table>'+places[pl].map(function(person){
           return (
-            '<tr><td>'+person.name+
-            '</td><td>'+(person['birt-date']||'unknown')+
+            '<tr><td class="name">'+person.name+
+            '</td><td class="date">'+(person['birt-date']||'unknown')+
             '</td></tr>'
           )
         }).join('')+'</table>'
