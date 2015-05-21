@@ -68,7 +68,7 @@ function dive(id, gen){
           scale         : 6+2*places[pl].people.length,
         },
       });
-      google.maps.event.addListener(marker, 'mouseover', function(){
+      google.maps.event.addListener(marker, 'click', function(){
         if (!places[pl].didSort){
           places[pl].didSort = true;
           places[pl].people.sort(function(a, b){
