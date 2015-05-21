@@ -1,4 +1,5 @@
-var map, data, bounds;
+var map, data, bounds, iw;
+var places = {};
 
 function googleReady(){
   fetchData();
@@ -17,6 +18,10 @@ function initMap(){
     mapTypeId : google.maps.MapTypeId.ROADMAP,
   });
   bounds = new google.maps.LatLngBounds();
+  iw = new google.maps.InfoWindow();
+  google.maps.event.addListener(map, 'click', function(){
+    iw.close();
+  });
 }
 
 function receiveData(d){
@@ -30,6 +35,7 @@ function dive(id){
 
   var node = data[id]
   ,   ll   = node['birt-ll']
+  ,   pl   = node['birt-plac']
 
   if (!ll) return;
 
@@ -37,17 +43,35 @@ function dive(id){
 
   bounds.extend(ll);
 
-  new google.maps.Marker({
-    position : ll,
-    map      : map,
-    icon     : {
-      path         : google.maps.SymbolPath.CIRCLE,
-      fillColor    : 'red',
-      fillOpacity  : 1,
-      strokeWeight : 1,
-      scale        : 6,
-    },
-  });
+  if (!places[pl]){
+    var marker = new google.maps.Marker({
+      position : ll,
+      map      : map,
+      icon     : {
+        path         : google.maps.SymbolPath.CIRCLE,
+        fillColor    : 'red',
+        fillOpacity  : 1,
+        strokeWeight : 1,
+        scale        : 6,
+      },
+    });
+    google.maps.event.addListener(marker, 'mouseover', function(){
+      iw.setContent(
+        '<h3>'+pl+'</h3><table>'+places[pl].map(function(person){
+          return (
+            '<tr><td>'+person.name+
+            '</td><td>'+(person['birt-date']||'unknown')+
+            '</td></tr>'
+          )
+        }).join('')+'</table>'
+      );
+      iw.setPosition(ll);
+      iw.open(map);
+    });
+    places[pl] = [];
+  }
+
+  places[pl].push(node);
 
   (node.p||[]).forEach(function(id){
     var pnt = dive(id);
