@@ -100,7 +100,7 @@ function dive(id, gen){
   places[pl].people.push(node);
 
   places[pl].maxGen = Math.min((places[pl].maxGen||1<<8), gen);
-             maxGen = Math.max((           maxGen||   0), gen);
+             maxGen = Math.max((           maxGen||   0), places[pl].maxGen);
 
   (node.p||[]).forEach(function(id){
     var pnt = dive(id, gen+1);
